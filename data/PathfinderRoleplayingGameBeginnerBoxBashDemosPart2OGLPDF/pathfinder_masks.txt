@@ -1,0 +1,83 @@
+Masks 
+Palace 
+
+One of Magnimar’s most influential houses, House Versade, recently acquired a rare, plum-sized ruby. Calling it the Fire of Versade, Savasha Versade has decided to display it publicly for the first time at her Angel Day masquerade ball. The ball is ahigh point of the Magnimarian social calendar, and Savasha feels pressure each year to top the prior year’s extravagance. 
+Not fond of such parties, Lord Hobart Deverin has asked his niece, Sandpoint Mayor Kendra Deverin, to attend the ball in his place. Known as “the Simple Lord,” Lord Deverin’s health has been deteriorating for several years. He requested Kendra bring some“local heroes” along with her to show up the spoiled aristocrats. 
+Pawns: 1 doppelganger, 1 fire elemental, 1 female elf rogue (Vasasha), 1 male human rogue (Nindrik), 1 male elf cleric (Gradon), 1 female elf cleric (Cheiskaia), 1 female human wizard (Zimandi), 1 pawn per PC 
+SUMMARY 
+After traveling with Sandpoint’s own Mayor Deverin to Magnimar aboard the Sunrise’s Kiss, the PCs attend the annual Angel Day masquerade ball thrown by House Versade in the extravagant Alabaster District. House Versade is displaying its wealth and influence by unveiling a huge new ruby, and has become the target of a doppelganger thief named Nazari. Nazari attempts to steal the Fire of Versade during the party, but when discoveredtrying to flee, he activates the elemental gem to summon a fire elemental that wreaks havoc among Magnimar’s most important families. 
+
+
+GETTING STARTED 
+Read the following to get the adventure underway: 
+Mayor Kendra Deverin of Sandpoint has summoned you to her office. “Welcome friends!” she says. “As you may know, my uncle, Lord Hobart Deverin, is head of the influential House Deverin in Magnimar. He has sent word that he would like me to attend an important social function in the City of Monuments on his behalf. Every year, another house—House Versade—holds a glorious masquerade ball in celebration of
+Angel Day. I have secured passage on a ship, but it would be a great honor if you would accompany me. In the company of friends, the sharks of Magnimar’s nobility won’t seem so daunting. If you’re willing, meet me at the docks in two days at the Sunrise’s Kiss.” 
+The PCs may have questions for Mayor Deverin. Below are some likely exchanges. 
+What’s Magnimar like? “Magnimar is an amazing, exciting place. There are ancient ruins, as well as more modern monuments. It’s more than ten times the size of Sandpoint, ruled by the Lord-Mayor and the Council of Ushers.” 
+Why is your uncle unable to attend? “His health has been deteriorating, making it difficult to maintain a full social calendar.” 
+What is Angel Day? “A celebration of the city’s founding.” 
+Is there a theme to this masquerade? “Yes, the theme ties into the celestial beauty of the angelic beings that helped guide the founders of Magnimar to greatness.” 
+What should we wear? “If you don’t already have suitably uncomfortable social wear, you can purchase something here in Sandpoint or get the latest trendy fashions from the Bazaar of Sails in Magnimar when we arrive. Masks will be provided.” 
+What about our weapons? “Should you choose to wear them, they’ll have to be peace-bonded, of course.” 
+The PCs might wish to spend 80 gp on a courtier’s outfit with accompanying jewelry or 175 gp noble’s outfit with a signet ring and various jewelry—characters not wearing at least a courtier’s outfit take a –2 penalty to Diplomacy at the high-society party. 
+The journey aboard the Sunrise’s Kiss is uneventful. As it enters Magnimar’s harbor, Kendra points out the Irespan, the ancient ruins of an enormous bridge towering hundreds of feet above the water, as well as other landmarks. The ship ties up in the Dockway district, and Mayor Deverin emerges in an elegant green dress, reminding PCs that they can go shopping in the Bazaar of Sails if they haven’t already acquired fancy attire. 
+
+OUTSIDE VERSADE VILLA 
+The finely cut stone blocks that pave the roads in the Alabaster district lead past villa after magnificent villa along the eastern edge of the Fogwall Cliffs. The fine marble facade of Versade Villa
+is well lit, and the massive gates stand open to welcome Angel Day revelers. Two blond men dressed in scraps of white silk and sporting false wings harnessed to their backs greet guests at the gate, asking them to select masks from a small table behind them. 
+At first glance, it is difficult to tell the masks apart. Each mask covers the entire face, with gold trim around the eye and noseholes and white silk ribbon as ties. Painted in tiny detail where
+the eyebrows would be are stylized characters which Mayor Deverin says are words in the language of celestials. In total there are four different masks, each type bearing a different Celestial word: “Eye,” “Glory,” “Honor,” and “Radiance”. PCs can select their own masks or roll 1d4 to choose randomly. Mayor Deverin explains that it is tradition to seek out others who are not wearing the same mask as you to socialize with during the party, but to dance with those who are wearing the same mask. To notice the word written on someone else’s mask at a social distance requires a successful DC 15 Perception check. 
+INSIDE VERSADE VILLA 
+Elegant ladies and noble lords fill this large reception room decorated with pictures framed in gold, exquisite dark wood furniture, and richly appointed rugs over the marble floor. A three-piece band plays in the corner. Everyone in the room seems engaged in one way or another: dancing, socializing just loud enough to be overheard, eating, and more. Servants dressed in the same fashion as the gate guards work their way about the room offering food and drink to the guests. At one end of the room is a raised wooden platform in the center of a beautiful golden rug. A 4-foot-tall pedestal of black marble sits in the middle of the platform; the top is covered with a crimson cloth. 
+THE PARTY 
+Several different guests might interact with PCs at the party: 
+Nindrik Versade: A handsome and dashing adventurer with a high opinion of himself. 
+Gradon Scarnetti: Ruthless and humorless, Gradon’s family controls Magnimar’s shipyards. 
+Cheiskaia Nirodin: The matron of the Nirodin family and an avid patron of the arts. Rumored to have ties to Korvosa. 
+Zimandi Kaddren: Young head of the Kaddren family who recently lost her parents. 
+Encourage the PCs to mingle and roleplay. Many of the lords and ladies of Magnimar would be unabashedly fascinated to hear tales of heroic adventures. If the PCs ask any of the guests what is under the cloth on the pedestal, they learn that it is the Fire of Versade awaiting it’s unveiling. Mayor Deverin remains close to the PCs initially, but as the evening progresses, she works her way around the room attempting to socialize. Any time a PC attempts to positively influence a specific noble, have them makea Diplomacy check: the nobles start off Indifferent, but a result of 15 or better makes them Friendly. 
+After the PCs have all had an opportunity to enjoy the party, read or paraphrase the following. 
+
+A servant announces Savasha Versade as she enters the room, wearing an expensive, black dress and no mask. The band stops playing as she steps up on the platform behind the pedestal, laying her hands on the cloth. “Ladies and lords,” 
+she says, “Thank you all for coming this evening. Each year we celebrate the founding of our great, powerful, and free city of Magnimar!” She pauses as a round of applause breaks out. 
+“This year, I have something very special to share with you all, recently discovered for us by my dear cousin, Nindrik.” Again she pauses, motioning to a man across the room who raises his glass back at her. “I present to you the largest ruby ever found in western Varisia: the Fire of Versade!” 
+With that, she pulls the cloth back to reveal the empty cornice of the pedestal to the shocked gasps of the gathered guests. After a stunned silence, she shouts for the guards. 
+
+Creatures: Any PC succeeding at a DC 10 Perception check notices Savasha palming the plum-sized ruby as she withdraws the cloth. In truth, “she” is a doppelganger named Nazari who subdued Savasha Versade, took her form, and is attempting touse the chaos to steal the Fire of Versade. If the PCs try and stop her from leaving, Nazari dives into the nearby crowd of guests, knocking over Nindrik Versade in the process and shapeshifting into his form. She covertly crushes the elemental gem, releasing the fire elemental within, and gives a subtle signal (DC 15 Perception check to notice) for it to attack partygoers, hoping to escape in the confusion. 
+Guests scatter and scream as the elemental attacks. If no one stops her, Nazari escapes in 5 rounds, still disguised as Nindrik. 
+If confronted, she tries to finger the real Nindrik as an imposter, but if anyone moves to restrain her physically she transforms into his natural form: a white creature with white eyes and a
+long blue tongue. 
+NAZARI 
+CR 3 
+XP 800 
+Doppelganger (Game Master’s Guide 66) 
+AC 17, touch 13, flat-footed 15 
+hp 26 
+Equipment amulet of natural armor +1, potion of cure light wounds 
+D = DOPPELGANGER 
+FIRE ELEMENTAL 
+1 SQUARE = 5 FEET 
+CR 3 
+XP 800 
+Fire Elemental (Game Master’s Guide 69) 
+hp 30 
+
+
+CONCLUSION 
+Whether the PCs defeat Nazari or the doppelganger manages to escape, shortly after the chaotic scene ends, the real Savasha Versade emerges, nursing a lump on her head. She thanks the PCs profusely for their efforts and discreetly offers to pay them 500 gp each for helping to protect her family’s good name. Despite the chaos, Savasha has managed to pull off a masquerade ball that will be the talk of the town for years to come. 
+PFRPG CONVERSION 
+Pawns: 1 doppelganger (Bestiary Box), 1 large fire elemental 
+(Bestiary Box) 
+NAZARI 
+CR 3 
+XP 800 
+Doppelganger (Pathfinder RPG Bestiary 89) 
+AC 17, touch 13, flat-footed 15 
+hp 26 
+Combat Gear potion of cure light wounds; Other Gear amulet of natural armor +1
+LARGE FIRE ELEMENTAL 
+CR 5 
+XP 1,600 
+Fire Elemental (Pathfinder RPG Bestiary 124) 
+hp 60 
+

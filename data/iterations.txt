@@ -1,0 +1,12 @@
+Iteration 1 – character-tokenisation, 3-layered LSTM, word-embedding – results is meh
+
+25 epoch, 300sec, 0.1, 0.95
+
+Iteration 2 – word tokenisation, 3-layered LSTM, word-embedding, 200 epochs, 30min – high accuracy, low loss
+
+200 epoch, 600sec, 0.3 .90
+
+Iteration 3 – word-tokenisation, 3-layered LSTM, word2vec, 100 epochs, 15min – high accuracy, low loss
+
+50epoch, 300sec, 0.05, 0.97
+

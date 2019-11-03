@@ -1,0 +1,80 @@
+
+Isles 
+
+Weeks ago, a sailor named Aldemar Lenstra shipwrecked on a small island in the Varisian Gulf. A beautiful young woman named Shabana who claimed to also be shipwrecked on the island nursed Aldemar back to health. 
+In truth, Shabana is a green hag who has lived on this small island for years, scavenging off the wrecks of passing ships. 
+Aldemar, suspicious of his good fortune, played along for severaldays. When Shabana left to gather food for them, however, he followed her and was shocked to see her in her true form, burying a chest of valuables he knew to belong to the captain of his wrecked ship, the Foul Thunder. Determined to leave the island, Aldemar quickly patched up a broken longboat and took his chances with the sea, where he was rescued by a passing ship. 
+Map: GameMastery Map Pack: Lost Island 
+
+Pawns: 1 elf cleric, 1 green hag, 1 pawn per PC 
+SUMMARY 
+A local scoundrel named Krzysztof Szabo bought a map from Aldemar showing the location of Scuttle Isle, as he called it. 
+Krzysztof hinted strongly at the presence of treasure, but left out any mention of Shabana for fear of losing the sale. Hired by Krzysztof, the PCs travel aboard the Sunrise’s Kiss to Scuttle Isle and
+accompany Krzysztof ashore in his search for the treasure, but not before meeting the beautiful Shabana. Unprepared for this many visitors, Shabana feigns happiness to see the PCs and tries to get
+them to “rescue” her before they discover her collected treasures. 
+GETTING STARTED 
+
+The Hagfish is well known in Sandpoint, particularly to gamblers, sailors, and fisherfolk along the waterfront area of town. Tonight the strong, delicious smell of Jargie’s Sea Stew draws in patrons, filling the popular tavern nearly to capacity. 
+Raucous laughter comes from the bar where an overdressed, black-haired young man is talking with Jargie, the owner. The man places an order, then wanders around the common room looking for an empty table, finding none. 
+Finally approaching your table, he smiles and asks to join you, not waiting for a response before sitting. 
+“My name is Krzysztof” he says, “Krzysztof Szabo. You know, I was just talking yesterday to the mayor about some of the great things you and your friends have done for Sandpoint recently.” His green eyes widen with excitement. “I’ve come into possession of a treasure map, and I could use the help of a few“—he looks from side to side, leaning in to the table— “trustworthy folks to help retrieve it.” He leans back and arches his eyebrow, patting his left breast. “I have secured passage on a ship, the Sunrise’s Kiss, which can take us to the island in question—Scuttle Isle, it’s called. I can promise you each a five percent share in what we find there once we safely return here to Sandpoint. We can leave tomorrow!” 
+The PCs may have questions for Krzysztof. Below are somelikely questions and answers. 
+How did you come by this map? “Through many indulgences with an old sea-dog named Aldemar. He was recently shipwrecked on this island, which is how he learned of the treasure buried there.” 
+How did Aldemar get rescued? “He says he patched a broken longboat and was picked up by a passing ship.” 
+Why didn’t he take the treasure with him (or go back for it)? “I couldn’t say. When he got back to dry land, he swore off the sea, and now spends most his days drinking heavily.” 
+What do you know about this island? “According to Aldemar, most of it is covered in dense growth, but he did mention there was at least some fresh water and a few fruit trees. There’s a nasty crosswind offshore that can smash a ship into the reef without much warning, causing a lot of wrecks and debris to wash up on the island.” 
+
+CAPTAIN ELLIANA SILVA 
+The Sunrise’s Kiss and Captain Elliana Silva are meant to be a recurring element in these Beginner Box Demos. Since the demos can be played in any order, the PCs may or may not have already had prior exposure to Captain Silva. She plays a small part in the demos Isles, Masks, and Waves. She is a friendly, tough but fair captain who follows Sarenrae and enjoys the sunrise at sea (hence the ship’s name). 
+SUNRISE’S KISS 
+At the end of the dock waits a three-masted sailing vessel, the Sunrise’s Kiss. Both the dock and the deck are a frenzy of activity, with sailorsand dockhands busy making preparations for the ship to depart. Fromthe deck, a raven-haired woman in a tricorne hat takes notice of the PCs’ approach and calls out, “Ahoy, Szabo! Captain Elliana Silva at your service. I take these to be the friends you spoke of? Welcome aboard the Sunrise’s Kiss. We’ll get you settled into the...’guest suite.’” A few of the sailors chuckle but continue working. “We should be underway within the hour.” 
+Shortly after being shown to the quarters below, next to the ship’s hold, Krzysztof excuses himself to make final preparations with Captain Silva. When he returns he seems agitated, explaining that
+after showing the map to the captain he had to offer her a larger share of the treasure because of the danger of sailing so close to Scuttle Isle. 
+The ship gets underway shortly afterward, and the 2-day journey is uneventful. The ship’s mess is located next to the PCs quarters and is a central point of activity at night, with card and dice games following the meal. Captain Silva joins her crew for meals and makes a point toinvite the PCs to join her to watch the sunrise in the morning so they can “start the day off right.” She asks any cleric of Sarenrae PC to lead a prayer, though she is not offended or upset by those who do not take her up on the offer. Krzysztof has a difficult time imagining starting his day that early and does not participate. 
+THE ISLAND 
+Shortly after dawn of the third day, the Sunrise’s Kiss drops anchor as close as Captain Silva is willing to take her. The crew lowers a small, six-person longboat that the PCs and Krzysztof can maneuver
+to the nearby Scuttle Isle. 
+There is a beach landing clear of shipwreck debris at the base of a freshwater waterfall that empties into a small brackish cove. 
+Upon securing the rowboat, Krzysztof’s excitement and enthusiasm are nearly unbearable. This energy quickly fades, though, with the discovery of fresh footprints near the waterfall and a well-worn
+switchback path up the cliff face. (PCs can notice this with a successful DC 10 Perception check, or else one of the sailors points them outto the rest of the group.) From the top of the waterfall, the green hag Shabana watches the PCs arrive. Acting quickly, she transforms her appearance to that of a beautiful young woman dressed in rags via disguise self. Hiding in the undergrowth, she makes her presence known to the PCs by pretending to lose her balance and fall. Once the PCs discover her, read the following. 
+
+“Oh! You’re real! Have my prayers are finally been answered?!” 
+The young woman is aflutter with relief and confusion. “Are you here to rescue me? Did my uncle’s men finally come save me?” Shabana lunges at the strongest-looking PC, embracing him or her and kissing both cheeks repeatedly. 
+Krzysztof seems confused by this development. “Your uncle?” he asks, shaking his head, “Krzysztof Szabo is nobody’s errand boy. We’re here on my own personal business. You can accompany us back when we’re done. How is it that you came to be stranded here?” 
+The PCs are likely to have many questions of their own at this point. The young woman introduces herself as Shabana Neergah, from a moderately wealthy family in Magnimar. Shabana seems very cold toward Krzysztof, talking mainly to the PCs and making lots of eye contact. 
+How long have you been here? “A lifetime, it seems. I’ve lost count of the days—maybe thirty? Fifty?” 
+How did you get here? “I was a passenger on a ship from Magnimar to Riddleport that sailed off course and wrecked. It was called the Coral’s Pride.” 
+
+1 SQUARE = 5 FEET 
+What have you been surviving off of? “I managed to find a few things washed up on the shore and used some of the debris to help protect me from the weather. There are plenty of fruits and plants to eat that grow here.” 
+What can you tell us about the treasure? “Treasure? Here?” 
+She laughs. “You’re welcome to what I have, but I’m afraid you’ll be disappointed. Most of my possessions were lost in the wreck. 
+Do you know Aldemar? “That lying rat! I nursed him back to health when his ship wrecked, and what did he do? Stole our food and left me behind in order to improve his own chances!” 
+When they’re done talking, Shabana says, “I should go back to my camp and get the few things I have left.” Giving an icy stare to Krzysztof, she continues, “I’m sure you’ll be done with your business
+by then. Whatever that is.” She then takes the hand of the PC she’sbeen flirting with, saying, “You can come with me while the others get the boat ready.” 
+
+SHABANA’S HUT 
+Shabana wades across the river at a shallow point, then heads down a faint trail that opens into a clearing. There is a small, wooden hut with a firepit to one side. Shabana asks any accompanying PCs to wait while she retrieves her bag from inside the hut—then reverts to her true form and attacks as soon as they aren’t looking. 
+SHABANA 
+CR 5 
+XP 1,600 
+Green Hag (Game Master’s Guide 73) 
+hp 58 
+Equipment Shabana carries nothing of value except a weathered key that unlocks the buried chest, on a cord around her neck. 
+HIDDEN TREASURE 
+Whether the treasure is mentioned directly or not, Shabana suspects that is why the PCs are here, and if she survives the encounter at the hut, she immediately races to the treasure site to ambush the PCs there. 
+Following Aldemar’s map, it’s easy to pick up the trail at the top of the waterfall leading right toward the buried treasure. 
+Once there it takes 4 rounds of digging with a shovel or similar tool in the freshly turned dirt to uncover a locked wooden chest. 
+A PC can unlock the chest with a successful DC 25 Disable Device check or by using the key Shabana carries. 
+Treasure: The chest contains an elemental gem (water); a scroll of vampiric touch; a wand of web; and various gold and platinum coins, gems, and jewelry worth 10,000 gp in total. 
+
+CONCLUSION 
+Defeating the green hag Shabana leaves the PCs free to recover the buried chest and return to the Sunrise’s Kiss. Captain Silva is relieved to have the rowboat return and gets underway back to Sandpoint immediately. Once in Sandpoint, Krzysztof sets out to sell the treasure, splitting the resulting coins as promised (500 gp for each PC). Smugly satisfied with his performance as a treasure hunter, he tells the PCs that he will gladly contact them again should he come across a similar opportunity. 
+PFRPG CONVERSION 
+SHABANA 
+CR 6 
+XP 2,400 
+Advanced Green Hag (Pathfinder RPG Bestiary 167, 294) 
+hp 76 
+
+

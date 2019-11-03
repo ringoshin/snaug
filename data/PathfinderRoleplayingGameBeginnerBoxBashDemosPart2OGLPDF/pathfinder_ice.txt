@@ -1,0 +1,82 @@
+Ice Cavern 
+Pawns: 1 human cleric (male), 2 ghouls, 1 pawn per PC 
+The scholars Mena Zamola of Sandpoint and Duso Galino of Galduria have been great friends for years. Though both towns are under the regional administration of Magnimar, Galduria is slightly larger than Sandpoint, due in part to the presence of the Twilight Academy, a well-respected school of arcane arts. 
+Several times a year, Mena and Duso exchange letters and take turns traveling to visit each other. Duso made plans to come to Sandpoint and stay through the winter, but he is now nearly a week overdue, making Mena quite concerned. 
+Unbeknownst to her, Tibaldo Russo, a monk from the nearby Windsong Abbey, has been reading and researching several ancient texts forgotten in the abbey’s extensive private library. Long hours reading accounts of madness and the power of ancient demon spirits have shattered his grip on reality and driven him insane, and as a result, Tibaldo has become obsessed with the notion of feeding on the 
+flesh of his fellow monks. When he and two other monks journeyed to Galduria to resupply the monastery, they met Duso Galino and decided to escort him back to their monastery, which lies halfway between the two towns. In truth, Tibaldo is about to feed Galino and the unsuspecting monks to himself and his ghoul minions. 
+SUMMARY 
+Mena Zamola hires the PCs to locate her friend Duso. Traveling north from Sandpoint to the coastal mountains, the PCs must brave the elements as late fall turns to winter. Once there, they follow a trail
+into a frigid mountain pass, discovering a cave that travellers often use as shelter. Inside the cave, the PCs must deal with an insane monk and his hungry ghoul minions. 
+GETTING STARTED 
+Read the following to get the adventure underway: 
+A middle-aged woman wearing a simple cloak over a blue dress enters the cozy warmth of the Rusty Dragon Inn, a gust of late fall chill blowing in behind her. She walks purposefully toward your table, her face tight and serious. “Good day to you, adventurers. May I join you? I have need of your help.” 
+Her expression relaxes slightly and she lets out a sigh as she sits down. “My name is Mena Zamola. I have been expecting a friend from Galduria, a man named Duso Galino, but he’s s ix days overdue. I fear the worst. I know he was traveling west out of Galduria and following the coastal mountains south to Windsong Abbey, and then from there to Sandpoint. 
+I have sent a messenger to the Abbey already, but he hasn’t arrived there, either. I know there’s a cave sometimes used by travelers in a valley pass between the two—maybe he took shelter there. I have a map.” She reaches into a pocket and withdraws a folded parchment, then and lays it on the table. 
+“Ordinarily I would probably go to Shelalu for her help, but Sheriff Hemlock told me she hasn’t been around town the last several days.” She pauses to calm herself. “I can pay you,” she blurts out, tears welling up in her eyes. “Four hundred gold. It’s all I have. Please, you have to find Duso!” 
+
+The PCs likely have questions for Mena. Below are some sample answers. Mena answers any questions to the best of her ability. 
+How long should the trip take? “That route should take eight or nine days. It’s a two-day trip from Sandpoint to Windsong Abbey.” 
+Who was Duso traveling with? “According to the letter he sent me a few days before leaving, Duso was to join several priests heading back to Windsong Abbey for the first part of his trip.” 
+Where can we get traveling supplies? “Ven Vinder’s General Store would be a good place to get what you need for traveling into the mountains and cave—ropes and climbing aids, cold weather gear, and so on.” (The cold weather outfit can be found in Ultimate Equipment, page 88, and grants a +5 bonus to Fort saves vs. cold weather.) 
+WINDSONG ABBEY 
+Located along the northern portion of the Lost Coast Road, Windsong Abbey is a religious retreat for devotees of any faith to study, worship, and grow in peace; its doors are closed to all but those who have taken a vow of pacifism. The PCs may wish to stop here along the way to further investigate what Mena has told them. A monk named Joachim can tell them three monks of the Abbey traveled to Galduria a few weeks ago and have not yet returned. The three missing monks are Piotr Oja, Ollie Lenstra,and Tibaldo Russo. Brother Joachim informs the PCs there is a cave that has been used for shelter in the mountains along the route to Galduria, and describes how the PCs can locate it. 
+THE VALLEY PASS 
+As the PCs travel further north, they can see and feel winter’s approach. Small patches of snow linger in shaded areas, the grasses are a dull yellow, and trees have dropped their leaves. 
+The temperature is cool but not yet cold enough to expose them to any environmental hazards, even overnight. 
+Locating the valley pass and the cave is not difficult thanks to Mena’s map, but as the PCs approach, the winds shift out of the north, bringing a sudden, frigid cold that dangerously drops the  temperature. In the time that it takes the PCs to reach the cave, each must succeed at a DC 15 Fort save against the cold (Game Master’s Guide 49) or take 1d6 points of damage and be fatigued 
+(Game Master’s Guide 94). 
+THE CAVE 
+The mouth of the cave is somewhat worn by the passage of travelers, as it disappears into the mountain darkness within, and the trail markings of Varisian travelers around the entrance indicate 
+safe shelter within. What little of the tunnel is visible is icy and slopes upward into the caves within, and the roof is blackened with many layers of soot. 
+The PCs need to provide some source of light once they enter the cave, as it is dark inside. Movement in the tunnel is made difficult by ice (see page 49 of the Game Master’s Guide). Characters 
+spend 2 squares of movement to enter a square covered by ice, and the DC for Acrobatics checks increases by 5. 
+THE ICY TUNNEL 
+Although narrow and icy, the tunnel is tall enough to accommodate even the tallest human. The soot on the ceiling marks a rudimentary trail that leads further, but the rocky, ice-covered western passage
+continues to slope upward at a treacherous angle. Each PC attempting to climb up the icy slope to the west must succeed at a DC 15 Climb check. Failing the check by 5 or more results in the character taking 1d6 points of nonlethal damage as he tumbles ungracefully to the bottom. Clever PCs might use rope to make the climb easier. 
+
+THE SLIPPERY SLOPE 
+The slick tunnel ascends, narrowing sharply to the south before veering down and to the east. Beyond, the tunnel widens again, but icy stalactites hanging from the ceiling fill much of that space.
+A dim light flickers from much deeper within the cave system. The light is actually coming from the Back Cavern, lighting that area and spilling into the Front Cavern. 
+Each PC attempting to climb down the icy slope must succeed at a DC 15 Climb check. When the PCs enter this area, make a Perception check for the ghouls waiting in the Front Cavern. Unless the PCs are
+making an effort to approach stealthily, the DC for this Perception check is 13. If the ghouls notice the PCs, they move to set an ambush. 
+THE FRONT CAVERN 
+Chunks of icy rubble litter the ground of the western portion of this cavern. There is a faint drip coming from the back of the cavern, and an icy, haphazard mess of jagged rocks juts from the walls.
+Along the eastern wall, a corpse lies face-down in a brownish-red mix of snow, slush, and scraps of fabric. A soot trail snakes across the cavern’s ceiling. 
+Creatures: There are two ghouls here making a meal out of what is left of a human man. Preferring fresh meat, the ghouls try to ambush the PCs using the partial walls to their advantage. After the first round of combat Tibaldo Russo joins the fight, entering from the Back Cavern shouting about the arrival of “fresh meat.”  
+Treasure: The corpse is Piotr Oja, who was returning to Windsong Abby as part of Duso’s group. Half buried in the snow is a backpack and bedroll, a flint and steel, a small cooking pot, a masterwork silver starknife, and a very slushy potion of cure moderate wounds. 
+
+
+GHOULS (2) 
+CR 1 
+XP 400 each 
+Ghoul (Game Master’s Guide 70) 
+hp 13 each 
+TIBALDO RUSSO 
+CR 3 
+XP 800 
+Evil Cleric (Game Master’s Guide 67) 
+hp 32 
+THE BACK CAVERN 
+It’s warmer here than in the tunnels to the south, and the cavern seems to have been converted into a makeshift living area. The walls are slick and damp, and there is a strong earthy fragrance. A
+cooking spit with an iron kettle hanging on it stands over a fire pit ringed with large stones, and a pile of furs, bedrolls, and blankets lies near the warmth of the pit in the northwestern corner. In the
+far south end of the cavern lie a corpses stripped entirely of flesh, muscle, and organs, and a groaning, terribly wounded man. 
+Creature: Tibaldo has taken up residence here and—along with the ghouls—has gorged himself on the flesh of his fellow monks, and is now starting in on Duso, slowly nibbling the man’s intestines. If for some reason he did not engage the PCs along with the ghouls in the Front Cavern, he shouts with joy and attacks with an insane, glassy-eyed stare. 
+Treasure: Hidden under the makeshift bed is a small chest that contains some assorted gems worth 300 gp, a scroll of stinking cloud, a man’s gold band ring with the name Galino engraved on the inner edge (125 gp), and 500 gold coins. 
+
+CONCLUSION 
+Duso is still alive, but in terrible shape. If the PCs patch him up (such as by giving him the potion of cure moderate wounds from the front cavern, using healing spells, or succeeding at a DC 15 Heal check), he grows well enough to finish his journey. If not, he dies within the hour. 
+Depending on the PCs’ results, Mena is either ecstatic or devastated. Either way, she insists on paying the PCs the gold as promised—though if Duso dies, she demands his gold ring as proof, asking that they leave it with her. The monks of Windsong Abbey are saddened to learn of the loss of their brothers but thank the PCs for putting an end to Tibaldo’s predation. 
+PFRPG CONVERSION 
+Pawns: 1 cruel devotee (NPC Codex Box), 2 ghouls (Bestiary Box) 
+TIBALDO RUSSO 
+CR 4 
+XP 1,200 
+Cruel Devotee (Pathfinder RPG NPC Codex 98) 
+hp 31 
+GHASTS (2) 
+CR 2 
+XP 600 each 
+Ghast (Pathfinder RPG Bestiary 146) 
+hp 17 each 
+
+

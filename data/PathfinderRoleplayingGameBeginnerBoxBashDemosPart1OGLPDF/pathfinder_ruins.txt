@@ -1,0 +1,77 @@
+Ruins 
+Pawns: 1 × goblin boss, 4 × goblin, 1 × wolf, 1 pawn per PC 
+Having purchased information from a roving band of Varisian wanderers coming through Absalom, the Pathfinder Society has tasked the PCs with investigating a set of ruins in northern Varisia. Believing the site to be a lost Thassilonian outpost, the Society wants the PCs to bring back any artifacts relating to the ancient culture. of the Runelord, the image grants them a rare and valuable Thassilonian relic.
+As the PCs continue to explore the ruins, the self-imposed goblin guardians of the Rockwhelp tribe assault them. 
+Adventure Summary 
+The PCs make their way into the depths of the Lurkwood in northern Varisia and come upon a series of ruins. There, they trigger a long-dormant programmed illusion, which demands they declare the glories of Xanderghul, Runelord of Pride. If they can convince the illusion of their admiration Getting Started “Esteemed adventurers, we have a wonderful opportunity to be among the first to explore an ancient Thassilonian ruin here in Varisia,” Pathfinder Venture-Captain Sheila Heidmarch exclaims as you sit in the Rusty Dragon tavern and inn, eating your breakfast. The offer extended by her last night over drinks piqued your curiosity regarding both treasure to be gained and possible recruitment into the Pathfinder Society. 
+“While our land is full of such sites, many have been scoured by adventurers and wanderers since Thassilon fell ten thousand years ago. Few empires have risen to the same height of power and mastery of magic since the runelords’ demise, and the wealth of knowledge hidden in the stones of the monuments they left behind is beyond compare in the Inner Sea. I need you to explore this site and retrieve whatever relics you can find. They will be invaluable to our research and may open further opportunities for exploration in the future.” 
+Allow the PCs to ask any questions they may have of Sheila Heidmarch regarding the ruins they are about to explore. 
+
+Below are some of the more common questions and the venture-captain’s responses. 
+Where is this ruin? “It’s deep in the forest of Lurkwood, north of Riddleport. I’ve arranged a small fishing vessel to escort you as far as the city, but you’ll need to travel over land to the forest itself.” 
+What can you tell us about Thassilon or the runelords? 
+“Thassilon was a powerful ancient empire that once spanned all of what is now Varisia and beyond. It was broken into seven realms, each ruled by a different feuding runelord who had gained power by harnessing the power of sin magic. Despite its power, Thassilon crumbled and the Runelords disappeared ten thousand years ago.” 
+What sort of dangers do you expect us to run into?
+“That’s hard to say. While Thassilon is long dead, many of its defenses and guardians still remain and protect the runelords’ ancient secrets. Be ready for anything!” 
+When the PCs are ready to move on, describe their journey to Riddleport and a brief overland trek into the forest of Lurkwood and proceed directly into the first encounter. 
+
+The Runelord’s Gift 
+The densely packed trees of the Lurkwood forest begin to thin until a great clearing comes into view. Beyond the forest clearing and past the white stone walkway stand the remains of what must have once been a striking structure. 
+Only fragments of the eastern and western walls remain, with a walkway leading up from the south. In the center of this now open edifice is a ten-foot-wide elevated stone platform decorated with various strange runes. 
+Aside from the platform, there is little of note here. Those inspecting the runes on the platform can make a DC 15 Knowledge Arcana check to recognize them as Thassilonian runes. The first PC who comes within 5 feet of the platform in the center of the structure triggers a long-forgotten programmed illusion effect as described below: 
+A flicker of light encompasses the platform for a moment, only to be replaced by the form of a beautiful middle-aged woman draped in the finest of rune-covered robes. 
+The woman’s eyes look out toward the walkway, taking no note of the decay or destruction—her gaze intent on something beyond sight. Without warning, a soothing voice comes from the form as her lips begin to move. 
+“Servant of the blessed Runelord Xanderghul, I speak on behalf of the mighty lord of this land. As you have come to this place, you no doubt seek the great gifts that mighty Xanderghul has to offer, and they shall be yours. All the great Xanderghul asks in return is your supplication and statement of devotion to the powerful lord of these lands. I await your reply so I may relay it to the great one.”  
+This illusory envoy from the Runelord of Pride is a highly specialized spell meant to receive praise for the Runelord. Be sure to clarify that the voice itself is a telepathic effect, so the PCs can understand the words of the image. 
+When the PCs are ready, they may at tempt to appease the envoy with praises of the great Runelord Xanderghul. 
+Each PC is allowed one attempt, though other PCs may assist without giving up their own attempt. If a PC assists, he must add in his own embellishment of Xanderghul’s greatness. In order to satisfy the envoy, at least one PC needs to make a successful DC 16 Bluff or Diplomacy check. 
+If a PC fails a check, that PC suffers the ire of Xanderghul’s envoy and is shaken (Game Master’s Guide 95) for the next minute. Should all PCs fail the check, the spell resets after 1 hour. 
+Once a PC successfully appeases the envoy of Xanderghul, the image smiles and nods her head before disappearing in another flash of light. In the wake of her disappearance, the envoy is replaced with a token—a stone medallion emblazoned with a rune of a seven-pointed star that would be of great interest to the Pathfinder Society. After bestowing the medallion, the remaining magical power of the outpost is exhausted and the envoy does not return. 
+Treasure: A DC 20 Knowledge Arcana or Knowledge History check reveals the historical significance of the device: it is a symbol of dedication to the runelords and a means for the runelords to keep an eye on their subjects from a distance. 
+During Combat On his first turn, Hork uses his arcane bond special ability to cast burning hands (DC 12). On subsequent turns Hork tries to bash any PC who targets him with spells, any PC tripped
+by Yarg, or a PC wearing the Thassilonian medallion. 
+Morale Hork cannot stand the thought of anybody else bearing “his” rune, and he fights to the death even if given the PCs’ medallion.
+
+Yarg 
+CR 1 
+XP 400 
+Inheritors of Thassilon (CR 4)
+As the PCs make their way further into the ruins, their path takes them down a long-crumbled avenue of columns and archways. 
+Wolf (Game Master’s Guide 83) 
+hp 13 
+Fort +5, Ref +5, Will +1 
+TACTICS 
+The sun beams from the sky above into the open grassland, reflecting off scattered white stones that litter the area. 
+Leading back to the forest is a long stretch of stonework road; toppled columns and pillars hint at its great age. 
+The walkway is surrounded by open grass, but any areasalong the path covered in debris are considered dense rubble (Game Master’s Guide 42). 
+Creatures: Hiding among the columns are several raiders from the Rockwhelp goblin tribe, which moved into the area only recently. It did not take long for them to trip the programmed illusion effect, and the entire tribe fell in love with the conjured woman. Ever since, they have jealously guarded her from outsiders. None is so fierce a champion of the nameless woman as Hork Shalesmash, who managed
+to win a medallion from the envoy, and has now claimed Xanderghul’s rune as his own. Despite his recklessness, he has successfully led the tribe in countless raids on would-be trespassers to defend the site. 
+If the PCs are not actively stealthy while dealing with the earlier encounter and traversing the walkway, the goblins are aware of their presence and hide behind pillars in preparation to attack. Allow the PCs a DC 18 Perception check to noticethe raiders and act in a surprise round (Hero’s Handbook 54). 
+Hork Shalesmash rides into view on Yarg, his wolf mount, at the beginning of the first round and does not participate in the surprise round. 
+
+Hork Shalesmash 
+CR 1 
+XP 400 
+Goblin Boss (Game Master’s Guide 72) 
+hp 16 
+TACTICS 
+Before Combat Hork brazenly strides up towards the PCs once his followers are in place. 
+Before Combat Yarg is loyal to Hork, and waits to attack until Hork casts burning hands. 
+During Combat Yarg attempts to bite and trip any PC Hork is focusing on attacking. He continues to attack the same PC until Hork shifts to a new target. If Hork falls in combat, Yarg guards him against any further PC attacks. 
+Morale Yarg fights to the death, protecting Hork. 
+Rockwhelp Raider (4) 
+
+CR 1/3 
+XP 135 each 
+Goblin (Game Master’s Guide 72) 
+hp 6 each 
+TACTICS 
+Before Combat The raiders hide themselves among the ruins where the PCs are likely to wander. 
+During Combat The raiders attack viciously but with little direction. 
+They try to give Hork plenty of space, as he is known to be reckless for even a goblin. 
+Morale If Hork is defeated, all remaining goblins attempt to flee. 
+Development: After the PCs defeat Hork Shalesmash, Yarg, and the goblin warriors, they may continue to explore the ruins, but can’t find anything of particular value other than as historical novelties.  They face no further threats as they explore the ruins. 
+Conclusion 
+When the PCs return to Sandpoint, Venture-Captain Heidmarch thanks them for their efforts in exploring the newly discovered ruin and praises them for retrieving the ancient medallion. 
+She remarks that possessing the medallion might have helped them evade other guardians of the ruins. Any PC who elaborates on the battle with the goblins receives only a slow, chagrined shake of the head from Venture-Captain Heidmarch in response. 
+

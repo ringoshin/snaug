@@ -1,0 +1,440 @@
+
+
+DEADLY MINE ADVENTURE 
+This is a short dungeon adventure for four 1st-level characters, set near the town of Sandpoint. If you’ve run “Black Fang’s Dungeon” from the Game Master’s Guide and need a short adventure to go after that, “Deadly Mine” is an adventure you should be able to finish in just a couple of hours. You can also use it as a “side quest” between other adventures. 
+
+MONSTERS 
+There are hundreds of monsters in the Pathfinder Roleplaying Game. This two-page section has four monsters to add to the list of potential foes for your PCs! The giant black widow spider is a tough, CR 3 poisonous spider. The marsh-dwelling lizardfolk can be dangerous enemies or helpful—if cautiously neutral—allies. The flesh-eating minotaur is a tough solo opponent for higher-level characters or the deadly boss of a tribe of orcs or goblins. The wererat is a sneaky shapeshifter, relying on stealth and sneak attacks instead of a frontal assault like the werewolf. 
+
+MAGIC ITEMS 
+Everyone loves magic items! This section gives two more pages of magic items, including several valuable items intended for higher-level characters, as well as potions, scrolls, and wands of the new spells found in the Player Pack. 
+
+USING PUBLISHED ADVENTURES 
+There are dozens of complete adventures published for the full version of the Pathfinder Roleplaying Game. This section tells you how to use those adventures with the introductory rules in the Beginner Box, and recommends a couple of 1st-level adventures you can easily use. 
+
+THE DEADLY MINE 
+This adventure is intended to give a novice Game Master a short adventure to run after “Black Fang’s Dungeon” in the Beginner Box. Your players may use the same characters they used for “Black Fang’s Dungeon” or they can use other characters—whether that means they use pregenerated characters or ones they created themselves. 
+
+This adventure is designed with four 1st-level characters in mind, but it will work with two or three characters. To run this adventure, you should be familiar with the basics of being a Game Master, such as having run “Black Fang’s Dungeon” in the Beginner Box. This adventure assumes you know how to make skill checks, initiative checks, attack rolls, damage rolls, and saving throws, and that you know how to run a combat encounter. Read pages 3–8 before you run this adventure so you’re familiar with what is going to happen. 
+
+STARTING THE ADVENTURE 
+Once the players have characters and are ready to play, you should begin the game. Make sure everyone is within easy reach of the dice and character sheets. Place the Flip-Mat from the Beginner Box in the middle of the table with the blank side up (grid only, no dungeon). Use a dry-erase or wet-erase marker to draw the outside part of the mine (the bottom part of this map) and have the players place their pawns outside the mine entrance. When you are ready to start, read aloud the text in the blue box at the bottom of this page. Then turn to Area 1 on page 3. If you’re interested in using the map tiles this adventure’s map was made with rather than drawing it out yourself, see Using Map Tiles on page 8! 
+
+ADVENTURE MAP 
+GOLD ELEMENTAL 
+
+SPIDER LAIR 
+SINKHOLE 
+
+INTERSECTION 
+PROSPECTOR 
+A week ago, a pair of dwarven surveyors came to the town of Sandpoint asking about an old gold mine in the nearby hills. The mine was abandoned a generation ago after an earthquake collapsed part of it and left the rest unstable. The surveyors wanted to see if the old tunnel could be stabilized, and if so, they’d pay Sandpoint for the rights to mine the gold. Nobody has seen the surveyors since they left three days ago, and Mayor Kendra Deverin is concerned they’ve run into trouble—or are trying to steal the gold! Either way, she needs someone to check up on the dwarves. She’s offering 100 gp each to any adventurer who can bring back information about the missing surveyors. You’ve decided you’re the right ones for the job. Just in case the dwarves are thieves, Sheriff Belor Hemlock deputizes you, giving you the authority to arrest the dwarves and bring them back to Sandpoint. Armed with your gear, a map from the mayor, and the law on your side, you travel one day into the hills and approach
+the entrance to the old mine. The outside of the mine is a natural cave supported by thick timbers and extending straight into the hillside. You can see fragments of old tools, rusted mine cart rails, and a few recent dwarven boot prints, but it is otherwise quiet. Before you enter the mine, you have time to light torches, cast spells, and make other preparations. 
+
+
+ADVENTURE: DEADLY MINE 
+INTERSECTION 
+PALE STONE 
+This room has clues that the mines are inhabited by monsters and the missing dwarves fought here. When the PCs enter this area, draw it on the map, and read the following to them. 
+
+The rusty mine cart rails crisscross the floor in this area, leading west, north, east, and back south to the entrance. Dwarven boot prints are visible all over the dirt floor. The ground to the northeast was recently scorched by fire. A patch of stone on the northwest wall looks paler than the surrounding stone. When the dwarf prospectors were here, they looked around and used a mining pick to chisel out a piece of the wall to examine it for gold (creating the pale patch). When they went north to Area 2, they found a swarm of hatchling spiders and the spider mother, ran back to this area, then used alchemist’s fire to kill the swarm (which created the scorched area on the ground). The mother spider retreated to her lair, and the dwarves went east to Area 3. 
+
+FIRE SCORCH 
+BOOT PRINTS: If any PCs examine the boot prints, have each searching PC make a Perception check. Any PC who gets a 15 or higher can tell that while there are prints leading east, none of the prints are coming from the east—whatever dwarves went that way never came back again. Any PC who gets a 20 or higher can tell that some of the prints are from walking, but there are two sets of running prints coming from the north. 
+
+SCORCH MARK: If any PCs examine the scorch mark, have each searching PC make a Perception check. Any PC who gets a 10 or higher finds a dozen hand-sized dead, burned spiders in the blackened dirt. Any PC who gets a 15 or higher spots the broken glass remnants of a flask of alchemist’s fire.  
+
+PALE STONE PATCH: The walls of the mine are dirty and covered in soot from long-ago torches, except in this area, where it looks like a chunk of stone was broken out of the wall with a tool. If a PC examines the pale area using a light (not with darkvision), have the PC make a DC 15 Perception check. If the PC succeeds, she notices a few faint yellow glitters in the rock—gold! 
+
+FINDING CLUES 
+Leaving clues about recent encounters helps make a dungeon feel like a living place. For an adventure like this one where the PCs are investigating, clues help the PCs figure out what’s going on and make decisions about what to do next. Remember that you want the PCs to find most of the clues; otherwise they’re just wandering around the dungeon with no plan. When you assign Perception check DCs to find things, make some of them easy (such as DC 10) so the PCs are sure to notice them if they look. It’s okay to make some of the DCs harder (such as DC 15), especially if it’s a clue that gives the
+PCs an advantage in a later battle. Very hard-to-spot clues may be DC 20 or higher, and only PCs with very good bonuses on Perception checks have a reasonable chance of finding them. 
+
+
+SPIDER LAIR 
+Although the dwarf prospectors managed to kill the swarm of little spiders, the mother spider still lairs in this cave, and she needs to eat well so she can lay more eggs. When the PCs enter this area, draw it on the map, and read the following to them. 
+
+The mine cart rails continue northward into a collapsed mine tunnel. The walls, floor, and ceiling are covered in a light layer of spider webbing, as is the rubble from the collapse. Webbed to the floor in the far-right corner is a crusty mass of hatched spider eggs and the bloodless carcasses of several rabbits and a fox. Dwarven footprints enter this area but don’t get far before turning south again. 
+
+WEBS: The webs cling to the rocks like they’re forming the inside of a cocoon. They do not fill squares, trap characters, or block vision, but they are sticky enough that they slow down PCs walking on them, and count as difficult terrain (Hero’s Handbook, page 55). The webs don’t slow down the mother spider. 
+
+XP 400 
+GIANT SPIDER 
+INITIATIVE +3 
+COMBAT! 
+This combat begins with a surprise round. Any characters who are surprised can’t take any actions in the surprise round, and creatures that aren’t surprised (including the spider) can only take one standard action or one move action in the surprise round, not both. Have everyone roll initiative as normal (even if they are surprised). The spider and any PCs who aren’t surprised take their actions in the surprise round, in initiative order (skip anyone who is surprised). After the surprise round, everyone can act normally—nobody is surprised, and everyone can take a standard action, move action, and free action each round. 
+
+SPEED 30 FT. (6 SQUARES) 
+DEFENSE 
+ARMOR CLASS 14, touch 13, flat-footed 11 
+FORTITUDE SAVE +4, REFLEX SAVE +4, WILL SAVE +1 
+SPECIAL mindless creature 
+
+CREATURE: 
+The mother spider living here is hiding in asmall gap in the rubble, as marked on the map. If a PC gets within 5 feet (1 square) of her, or if the PCs remain in this room for more than 2 rounds, she attacks. When the spider decides to attack, all PCs must make Perception skill checks. Secretly roll a Stealth skill check for the spider (1d20+13). PCs whose result on the Perception check is equal to or greater than the result of the spider’s Stealth check notice the spider before she attacks and are not surprised. Those who fail are surprised. Proceed to the Combat! section. 
+
+HIT POINTS 16 
+OFFENSE 
+CLIMB 30 ft. (6 squares) 
+MELEE (standard action) bite +2 attack (1d6 damage plus poison—see below) 
+STATISTICS 
+SKILLS Climb +16, Perception +4, Stealth +7 (+11 when in webs) 
+POISON 
+Each time the spider bites a character, the character must make a Fortitude saving throw with a Difficulty Class (DC) of 14. If the character is successful, he resists the poison. If the character fails the save, he is sickened for 1 minute (10 rounds). A sickened character takes a –2 penalty on attack rolls, weapon damage rolls, saving throws, skill checks, and ability checks. If bitten again, another failed save increases the duration by 1 minute. 
+TREASURE: Stuck in the spider’s webs are 15 gp, 55 sp, and a vial of orange liquid (a potion of healing). 
+
+
+ADVENTURE: DEADLY MINE 
+XP 200 
+PROSPECTOR 
+The dwarves went through this area and north to Area 4, where an earth elemental attacked them. When the PCs enter this area, draw it on the map, and read the following to them. 
+
+The tunnel continues eastward, then turns north. In the northwest corner on the ground is a male dwarf dressed in miner’s work clothes. He looks like he’s been beaten, and it’s hard to tell if he is alive or not. Based on the direction of his body, it looks like he was running toward the southwest before he was struck down. 
+
+
+ROLEPLAYING ENCOUNTERS 
+Fighting monsters is fun, but so is interacting with NPCs! How you choose to speak for Grald helps make him memorable and fun for your PCs. Perhaps he speaks with an unusual accent, or he keeps poking at his bruised face and wincing—anything you can do to make him someone the PCs want to help. One of the prospectors was able to flee back to here before the elemental chased him down and knocked him into negative hit points. Fortunately, he’s tough, and managed to stabilize on his own (Hero’s Handbook, page 60), but is still unconscious. EXPERIENCE POINTS: Rescuing Grald is a CR 1/2 roleplaying
+DWARF: The unconscious dwarf is a prospector named Grald. encounter (Game Master’s Guide, page 27), worth 200 XP (the amount indicated on this page’s map). Any PC who spends a standard action examining him can see that he is still alive, but unconscious from his injuries. He currently has –2 hit points. If the PCs can raise his hit points to at least 0 (such as by using a cure light wounds spell, channel energy, the Heal skill, or a cleric of Sarenrae’s rebuke death ability), he wakes up. When he realizes where he is, he gestures for the PCs to be quiet, then whispers to them. Read the following to the players. 
+
+"My brother Durn and I were attacked by a golden rock monster living in a pile of ore to the north. We ran, but it got Durn first, then caught up to me. I don’t know if Durn is still alive. Can you get us out of here?" 
+
+If asked, Grald tells the PCs what happened with the spiders (Area 2), the alchemist fire and broken part of the wall (Area 1), and the large pit (Area 5). All he knows of the tunnel north of here (Area 4) is that the monster lives there and there is a large collapsed area that glitters with gold. The PCs can talk with Grald as much as they want, but if they make a lot of noise or are using lights instead of darkvision, this alerts the monster in Area 4 (it doesn’t come to this location to attack, but it is aware of the PCs when they approach its lair, even if the PCs are using Stealth). 
+Grald is a miner, not an adventurer, and does not want to fight any monsters. If the PCs ask him to accompany them, he follows behind the PCs, as he knows he is not much help in a battle. If Grald is attacked, use the attack, damage, AC, and saving throws of a goblin (Game Master’s Guide, page 72), except he tries to run away rather than fight. He becomes a little more confident if the PCs heal him up to his full 6 hit points, but still doesn’t fight unless he has to. 
+
+
+GOLD ELEMENTAL 
+This is the “boss” encounter of this mini-dungeon. Nearby is the unconscious form of Grald’s brother, Durn. When the PCs enter this area, draw it on the map, and read the following to them. 
+
+After a short distance, the mine cart rails come to a halt. The tunnel progresses beyond this, shored up with wooden braces to stabilize the unfinished ceiling. Up ahead, a mass of loose rock fills the end of the corridor, though at this distance it’s uncertain whether the rock is from a cave-in or just debris from digging the mine. Some of the loose rock has flecks of gold in it. Halfway down the
+tunnel is another male dwarf in workman’s clothes, lying face up. Two sets of dwarf footprints lead into this area, and only one set leads out. 
+
+DWARF: The unconscious dwarf, Durn, is alive and stable at –1 hit points. The PCs can help him after they defeat the elemental, or can carry him to safety if they decide to flee the combat. 
+
+
+XP 800 + 200 
+CREATURE: 
+The earth elemental has partially buried itself in the pile of gold ore, leaving half of its rocky body visible. Though the elemental does not need to eat, breathe, or sleep, it enjoys the feel and “smell” of the gold in the ore, and is content to stay there unless it is disturbed. Grald and Durn disturbed it, so it attacked them. Noticing the elemental in the rock pile takes a DC 10 Perception check (it’s not really trying to hide itself), but remember the –1 penalty on Perception checks per 10 feet of distance (Hero’s Handbook, page 38). If the PCs try to sneak into this area, have them make
+Stealth checks opposed by the elemental’s Perception check. If they succeed and they start combat, the first round is a surprise round and the elemental is surprised (the PCs are not). However, if the elemental is alerted to the presence of the PCs (see Area 3), nobody is surprised, there is no surprise round, and combat happens normally. 
+
+COMBAT! 
+If the PCs surprised the elemental, this combat begins with a surprise round where the elemental is surprised and the PCs are not surprised. If the PCs didn’t surprise the elemental, this is a normal combat with no surprise round. This is a challenging encounter for 1st-level PCs. If they are having a hard time with the monster, remind them that they can retreat, rest outside the mine to recover hit points, and try again with a better idea of what the monster can do. For example, because the elemental doesn’t have fear attacks and isn’t evil, a cleric PC shouldn’t prepare protection from evil or remove fear because those spells won’t be useful in the battle. Likewise, because the elemental is an outsider and not a humanoid, a wizard PC shouldn’t prepare charm person since that spell only works on humanoid creatures. 
+
+EARTH ELEMENTAL STAT BLOCK 
+Instead of repeating the earth elemental’s stat block from page 66 of the Game Master’s Guide, when you start this combat you should have that page open and ready (or you can photocopy or hand-copy the elemental’s stat block). Many published adventures refer to monster stat blocks in another book, so you should get used to this method (doing this also means a book isn’t wasting space reprinting monster stat blocks that you already have). 
+
+TREASURE: 
+When the elemental is killed, it shatters and collapses into a human-sized pile of rocks. If the PCs dig through the rocks, they find 10 turquoise gems worth 10 gp each and 5 pure gold nuggets worth 50 gp each. The raw ore in this area needs to be smelted to produce usable gold, so there’s no point in the PCs collecting it—they’d have to mine several hundred pounds of ore to smelt a pound of gold, and they don’t have the equipment to mine or smelt it. Besides, the ore belongs to Sandpoint, and taking it without permission from the mayor is stealing from the town. The PCs could decide to sneak up here with the necessary equipment, but it is hard, slow work, and not nearly as exciting or profitable as fighting monsters! 
+
+EXPERIENCE POINTS: 
+Rescuing the prospector, Durn, is a CR 1/2 roleplaying encounter (Game Master’s Guide, page 27). This is marked on the map (as well as the 800 XP combat encounter for defeating the elemental). 
+
+
+ADVENTURE: DEADLY MINE 
+
+XP 400 
+SINKHOLE 
+The earthquake that shut down the mine 30 years ago created a sinkhole here. The dwarven prospectors saw there was no easy way across and left this area to examine the other tunnels. When the PCs enter this area, draw it on the map,and read the following to them. 
+
+The mine cart rails end no more than ten feet ahead, twisting and hanging over a rough sinkhole that blocks further progress in this direction. Fifteen feet beyond the near edge, the cart rails and solid ground continue as the tunnel continues west. 
+
+BOOT PRINTS: 
+If the PCs search this area, have them make DC 10 Perception checks. Those who succeed easily find dwarven boot prints in this area that come near the sinkhole, but none of them indicate that the dwarves tried to jump across or climb past this obstacle. 
+
+SINKHOLE: 
+The sinkhole is 15 feet square. The east side is about 15 feet deep, sloping upward on the west side to only 10 feet. It takes a DC 15 Acrobatics check to jump across the pit, or DC 30 without a 10-foot running start (see Jumping, Hero’s Handbook, page 35). The mine walls are smooth, and climbing across takes a DC 20 Climb check. The PCs can also climb into the sinkhole, walk across the bottom, and climb up the other side. for all the encounters the PCs faced, divide this XP total by the number of PCs, and award each PC that amount of XP. 
+
+USING MAP TILES 
+The color maps in this adventure come from a Paizo map supplement called GameMastery Map Pack: Mines, which gives you eighteen 5-inch-by-8-inch map tiles. Some GMs use map tiles because they don’t like to hand-draw maps, while others use map tiles because they like how the tiles look during a game. Just like your Flip-Mat from the Beginner Box, you can use wet-erase, dry-erase, and permanent markers with GameMastery Map Packs! 
+
+WESTERN TUNNEL: 
+The purpose of this area is to give you room to expand the mine by adding more encounters. Perhaps there are monsters within who can fly or climb past the sinkhole, or the earthquake opened a connection to a deeper area inhabited by underground monsters. 
+
+CONCLUDING THIS ADVENTURE 
+Once the PCs rescue the dwarf prospectors, they should return to town (with the dwarves) to collect their reward from the mayor. The dwarves are still interested in the mine but first would like some adventurers to clear out any monsters living there. The dwarves can’t afford to pay the PCs more than a few gold coins, but not every adventure has to start with offering the PCs money to do something! If the PCs want to explore the old mine, that’s great! Add some tunnels, rooms, and monsters and you’re ready to go. If the PCs would rather adventure elsewhere, there are several adventure ideas on
+page 15 of the Game Master’s Guide to choose from. 
+
+EXPERIENCE POINTS: The PCs earn experience points for defeating the monsters and rescuing the dwarves. Each room’s map has an XP total for that encounter. Add up the XP awards. 
+
+
+GIANT BLACK WIDOW SPIDER 
+NEUTRAL 
+These spiders are larger, tougher, and more dangerous than other giant spiders, and use their thick webs to slow and capture foes before cocooning and devouring them. 
+INITIATIVE +2 
+SPEED 30 FT. 
+CR 3 
+SENSES DARKVISION 60 FT. 
+XP 800 
+NEUTRAL 
+Lizardfolk are proud and powerful reptilian predators that live in swamps, marshes, and coasts. They reject civilization and prefer simple tribal life in their own lands. They are known to eat their dead enemies and allies. 
+INITIATIVE +0 
+SPEED 30 FT. 
+CR 1 
+XP 400 
+SENSES NORMAL (HUMAN) 
+HP 11 
+PERCEPTION +1 
+HP 37 
+PERCEPTION +4 
+DEFENSE 
+
+LIZARDFOLK 
+MONSTERS 
+
+AC 15, touch 11, flat-footed 13 
+FORT +7, REF +3, WILL +1 
+SPECIAL DEFENSES mindless creature 
+OFFENSE DEFENSE 
+CLIMB 30 ft. 
+MELEE (standard action) bite +6 (1d8+6 plus poison) 
+SPECIAL ATTACK web AC 17, touch 10, flat-footed 17 
+FORT +4, REF +0, WILL +0 
+SPECIAL DEFENSES hold breath 
+STATISTICS OFFENSE 
+STR +4, DEX +2, CON +3, INT —, WIS +0, CHA –4 
+SKILLS Climb +20, Perception +4, Stealth +7 (+11 in webs) ITEMS MELEE (standard action) club +2 (1d6+1) 
+MELEE (standard and move action) club +2 (1d6+1), bite +0 (1d4) 
+RANGED (standard action) javelin +1 (1d6+1) 
+EQUIPMENT none 
+TREASURE none STATISTICS 
+SPECIAL ABILITIES STR +1, DEX +0, CON +1, INT –1, WIS +0, CHA +0 
+SKILLS Acrobatics +2, Perception +1, Swim +8 
+POISON Whenever a giant black widow spider bites a foe, that creature must make a DC 17 Fortitude save or take 1d8 additional points of damage from the poison and a –1 penalty on Fort saves for 1 hour. This penalty increases by 1 each time the creature is bitten and fails its Fort save. 
+WEB As a standard action, a giant black widow spider can shoot webbing at a creature within 30 feet by making a +5 ranged touch attack. If the web hits, the target cannot move from its current space until it spends a standard action to make a DC 16 STR check to break free. 
+ITEMS 
+EQUIPMENT club, heavy shield (wooden instead of steel), 3 javelins 
+TREASURE 2 Minor Random Treasure rolls (Game Master’s Guide, page 30) 
+SPECIAL ABILITIES 
+HOLD BREATH A lizardfolk can hold its breath for twice as long as normal (see Suffocation, Game Master’s Guide, page 47). 
+
+
+MONSTERS 
+MINOTAUR 
+CHAOTIC EVIL 
+Minotaurs are angry, violent, and fond of mazes where they can trap and confuse their prey. They never get lost. They sometimes work for more powerful monsters, or bully a tribe of orcs or goblins into serving them. 
+INITIATIVE +0 
+SPEED 30 FT. 
+CR 4 
+XP 1,200 HP 45 
+SENSES DARKVISION 60 FT. 
+PERCEPTION +10 
+WERERAT 
+LAWFUL EVIL 
+Wererats are stealthy and nervous. Cursed to turn into hungry rat-human hybrids on the nights of the full moon, they live in sewers and sneak out to rob people. Many work for or run thieves’ guilds. 
+INITIATIVE +3 
+SPEED 30 FT. 
+CR 2 
+XP 600 
+SENSES LOW-LIGHT VISION, SCENT 
+HP 20 
+PERCEPTION +8 
+DEFENSE 
+AC 19, touch 14, flat-footed 15 
+FORT +3, REF +6, WILL +3 
+DEFENSIVE ABILITIES evasion (as a rogue) 
+DAMAGE REDUCTION 10/silver 
+DEFENSE 
+AC 14, touch 9, flat-footed 14 (but see below) 
+FORT +6, REF +5, WILL +5 
+DEFENSIVE ABILITIES never flat-footed 
+OFFENSE 
+MELEE (standard action) greataxe +9 (3d6+6) or powerful charge 
+MELEE (standard and move action) greataxe +9 (3d6+6), greataxe +4 (3d6+4), gore +4 (1d6+2) 
+SPECIAL ATTACKS long reach, powerful charge 
+OFFENSE 
+
+ 
+MELEE (standard action) short sword +4 (1d6+2/19–20) 
+MELEE (standard and move action) short sword +4 (1d6+2/19–20), bite –1 (1d4+1 plus sickness and curse of lycanthropy) 
+RANGED (standard action) light crossbow +4 (1d8/19–20) 
+SPECIAL ATTACKS sneak attack +1d6 (as a rogue) 
+STATISTICS 
+STR +2, DEX +3, CON +3, INT +0, WIS +3, CHA –2 
+SKILLS Climb +4, Perception +4 
+STATISTICS 
+STR +4, DEX +0, CON +2, INT –2, WIS +0, CHA –1 
+SKILLS Perception +10, Stealth +2 
+ITEMS 
+EQUIPMENT greataxe 
+TREASURE 1 Major Random Treasure roll (Game Master’s Guide, page 30) 
+SPECIAL ABILITIES 
+LARGE A minotaur a large creature. It takes up a 10-foot-by- 10-foot space (2 squares by 2 squares). 
+LONG REACH A minotaur can make its melee attacks against creatures 5 feet (1 square) or 10 feet (2 squares) away from it. 
+POWERFUL CHARGE If a minotaur charges, it makes a gore attack against its target (+11 attack bonus, 2d6+6 points of damage). 
+ITEMS 
+EQUIPMENT studded leather armor, short sword, light crossbow with 20 bolts 
+TREASURE 3 Minor Random Treasure rolls (Game Master’s Guide, page 30) 
+SPECIAL ABILITIES 
+CURSE OF LYCANTHROPY This works like a werewolf’s curse of lycanthropy (Game Master’s Guide, page 82), except the victim turns into a wererat. 
+DAMAGE REDUCTION Whenever a wererat takes damage from a non-silver melee or ranged weapon, reduce the damage by 10 (to a minimum of 0). 
+RAT EMPATHY A wererat can communicate and empathize with rats and dire rats. 
+SICKNESS This works like the dire rat’s sickness ability 
+
+
+MAGIC ITEMS 
+These items are good treasure rewards for adventurers. If you roll a random magic item treasure using the tables in the Game Master’s Guide, feel free to substitute one of these items for a randomly rolled item of equal or greater value. Some of these items are so valuable that only adventurers of 5th-level or higher should have one. 
++1 FIRE RESISTANCE CHAINMAIL 
++1 
+ARMOR 
++1 ARROW CATCHING SHIELD 
++1 
+2,000 
+3,450 GP 
+
+A cleric or wizard can cast any 1st-level spell into this ring. You can cast that spell once from the ring as a standard action, expending the stored spell and allowing the ring to hold another spell. 
+STAFF OF ENCHANTMENT 
+STAFF 
+4,500 
+3,450 GP 
+ 
+This staff is made from golden wood with a circle of braided gold at the top. It allows you to use sleep (1 charge), hideous laughter (2 charges), and deep slumber (3 charges). 
+STAFF OF THE UNDEAD SLAYER 
+4,170 
+3,450 GP 
+
+This +1 heavy steel shield gives you an additional +1 to your Armor Class against ranged weapons. However, ranged attacks against you never have to roll d% miss chances from concealment or invisibility. 
+CURSED LONGSWORD –2 
+STAFF 
+5,750 
+3,450 GP 
+
+This staff is made from bone-white wood, with a carved bone top studded with gems. It allows you to use magic stone (1 charge), consecrate (2 charges), and remove disease (3 charges). 
+AMULET OF NATURAL ARMOR +2 
+WEAPON 
+RING 
+6,300 
+3,450 GP 
+
+Anytime you take fire damage, subtract 5 from the damage. If you are also protected by resist energy (Hero’s Handbook, page 20), you only subtract the 10 points from that spell, not a total of 15 points. 
+SHIELD 
+RING OF MINOR SPELL STORING 
+COST 
+3,450 GP 
+This appears to be a +1 longsword , but it has a –2 penalty on attack and damage rolls. Once you use it, you have to use it instead of other weapons, and you can’t get rid of it without a remove curse spell. 
+SLEEP AMMUNITION 
+NECK 
+8,000 
+3,450 GP 
+
+This iron amulet toughens your flesh, giving you a +2 bonus to your Armor Class. 
+BELT OF PHYSICAL MIGHT 
+WEAPON 
+3,132 
+450 GP 
+
+If this hits a living creature (other than a construct or elemental), the target takes normal damage and has to make a Will save (DC 11) or fall asleep as if from a sleep spell. 
+UNDEAD-SLAYING AMMUNITION 
+WEAPON 
+RING OF PROTECTION +2 
+10,000 GP 
+3,450 GP 
+This leather-and-gold belt has all the powers of a belt of giant strength and a belt of mighty constitution (Game Master’s Guide, page 56). 
+BOOTS OF LEVITATION 
+2,280 
+3,450 GP 
+
+If this hits an undead creature, the monster must make a Fortitude save (DC 20) or take +50 damage (this doesn’t multiply on a critical hit). If you miss, the ammunition is destroyed and its power is lost. 
+RING 
+BELT 
+FEET 
+7,500 
+3,450 GP 
+
+You can use the levitate spell (Hero’s Handbook, page 30) on yourself as a move action, unlimited times per day. The boots can only lift 300 pounds at a time. 
+BRACERS OF ARMOR +3 
+8,000 
+3,450 GP 
+
+This silver ring gives you a +2 bonus to your Armor Class. You can only wear one ring of protection at a time (wearing a second one has no effect, whether it is a +1 or a +2 ring). 
+WRISTS 
+9,000 
+3,450 GP 
+
+These arm guards can be found in a wide variety of styles. They surround you with an invisible force field that gives you a +3 bonus to your Armor Class. The bracers do not work if you are wearing armor. 
+
+
+MAGIC ITEMS 
+NECK 
+1,000 
+3,450 GP 
+
+You gain a +1 bonus on Fort saves. If Erastil is your god, once per day as a standard action you can activate true strike on yourself (as the 1st-level wizard spell). 
+CAPE OF THE MOUNTEBANK 
+GP 
+SHOULDERS 10,000 
+3,450 GP 
+Once per day you can speak a command word as a standard action, disappear in a puff of smoke, and teleport safely up to 700 feet away, arriving in a puff of smoke. 
+CLOAK OF RESISTANCE +3 
+SHOULDERS 
+9,000 
+3,450 GP 
+
+This cloak can come in almost any color or style. When worn, it gives you a +3 bonus on all saving throws. 
+DEATHBANE SKULL 
+NONE 
+
+
+MINOR SCROLLS 
+BRONZE DEADEYE AMULET 
+1,000 
+3,450 GP 
+
+When you hold this skull in your hand, you gain a +1 bonus on attack and damage rolls against undead and on saving throws against attacks from undead. You can only hold one at a time. 
+HEADBAND OF MENTAL PROWESS 
+HEADBAND 
+10,000 GP 
+3,450 GP 
+This jeweled golden headband has all the powers of a headband of inspired wisdom and a headband of vast intelligence (Game Master’s Guide, page 58). 
+ROPE OF CLIMBING 
+NECK 
+NONE 
+3,000 
+3,450 GP 
+
+This fine rope can hold 3,000 pounds. You can command it to snake outward at 10 feet per round and tie itself securely, unfasten itself and return to you, or knot itself in 1-foot increments. 
+POTIONS 
+CAT’S GRACE 
+PROTECTION FROM ARROWS 
+REMOVE PARALYSIS 
+WATER WALK 
+300 GP 
+300 GP 
+750 GP 
+750 GP 
+BANE 25 GP 
+GREASE 25 GP 
+MAGIC STONE 25 GP 
+MOUNT 25 GP 
+CAT’S GRACE 150 GP 
+CONSECRATE 200 GP 
+PROTECTION FROM ARROWS 150 GP 
+REMOVE PARALYSIS 150 GP 
+MAJOR SCROLLS 
+DEEP SLUMBER 375 GP 
+GLYPH OF WARDING 575 GP 
+HALT UNDEAD 375 GP 
+WATER WALK 375 GP 
+
+WANDS 
+BANE 150 GP 
+GREASE 150 GP 
+MOUNT 150 GP 
+MAGIC STONE 150 GP 
+CAT’S GRACE 900 GP 
+CONSECRATE 1,400 GP 
+PROTECTION FROM ARROWS 900 GP 
+REMOVE PARALYSIS 900 GP 
+DEEP SLUMBER 2,250 GP 
+GLYPH OF WARDING 4,250 GP 
+HALT UNDEAD 2,250 GP 
+WATER WALK 2,250 GP 
+
+
+
+CRYPT OF THE EVERFLAME 
+The adventure Crypt of the Everflame is a great starting point for Beginner Box GMs who want to try using adventures for the full Pathfinder Roleplaying Game. It’s for 1st-level characters, so it works well with the Beginner Box, and since it’s an introductory adventure for the full Pathfinder Roleplaying Game, it explains how new options work. Also, all of the adventures monster’s have full stat blocks (instead of saying “see the skeleton stat block on page 80”), so all the information is right there in the adventure. The adventure even includes a six-page section on the town of Kassen, if your PCs travel far from Sandpoint! You can buy Crypt of the Everflame in hobby stores, book stores, and from paizo.com. 
+
+
+CRYPT OF THE EVERFLAME 
+Young heroes set out to retrieve an eternal flame burning in the tomb of their town’s founder, but find only the corpses of their fellow townsfolk, dead bandits, and animated skeletons. The heroes must
+evade traps and discover the source of corruption and defeat a vengeful menace that threatens their home town. This is a dungeon adventure for four 1st-level characters. 
+

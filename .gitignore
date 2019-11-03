@@ -1,0 +1,6 @@
+.ipynb_checkpoints/
+.vscode/
+model/
+saved_models/
+results/
+venv/

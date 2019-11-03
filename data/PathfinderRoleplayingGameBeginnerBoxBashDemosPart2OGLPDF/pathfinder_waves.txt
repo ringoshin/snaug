@@ -1,0 +1,94 @@
+Waves 
+
+Over the last few months, travel across the Varisian Gulf has become increasingly dangerous, for a pirate gang of crafty monsters has been harassing, pillaging, and sinking ships with growing frequency. Led by an orc pirate named One-Tusk Tauk, the so-called Horde of the Crimson Maw has struck fear into ships’ captains all along the Lost Coast. 
+SUMMARY 
+Elliana Silva, Captain of the Sunrise’s Kiss, hires the PCs to aid in protecting her ship as they transport an important load of ancient Thassilonian artifacts from Sandpoint north to Riddleport. While
+at sea on the 3-day journey, the ship is attacked by pirates, and the PCs must repel the Horde of the Crimson Maw if they want to escape with the relics and their lives. 
+Map: GameMastery Map Pack: Ship’s Cabins 
+
+Pawns: 3 goblins, 2 orcs, 1 orc boss, 1 pawn per PC 
+CAPTAIN ELLIANA SILVA 
+The Sunrise’s Kiss and Captain Elliana Silva are meant to be a recurring element in these Beginner Box Demos, also appearing in Isles and Masks. Since the adventures can be played in any order, the PCs may or may not have already had prior exposure to Captain Silva. She is a friendly, tough but fair captain who follows Sarenrae and enjoys the sunrise at sea. 
+GETTING STARTED 
+When the adventure begins, another raucous night is underway at the Hagfish on Sandpoint’s waterfront. Named for Norah, the beloved (and disgusting) creature in the filthy glass aquarium behind the bar, the establishment invites patrons to pay a silver coin to try to drink a tankard full of aquarium water. The few who can manage it win the coin purse hanging next to the aquarium, which holds the coins of everyone who has attempted it since the last winner. More important than the coins, though, the winner gets to carve his name in the ceiling beam over the bar. 
+A young sailor, cheered on by his shipmates, has just failed tochoke down the viscous yellow-green algae water full of hagfish slime. The assembled crowd lets out a disappointed groan as Jargie empties the rest of the tankard back into the aquarium. 
+Norah slaps her circular, jawless mouth against the glass, then secretes more slime, making it impossible to see anything inside the aquarium. 
+Allow the PCs to attempt to drink the tankard if they wish. 
+The cost is 1 sp and they need to succeed at three consecutive Fortitude saves (DC 19, 20 and 21) in order to drink the entire tankard. Should one of the PCs manage to gulp down the contents of the tankard, he wins the current purse of 156 sp and may carve his name in the ceiling beam. The crowd cheers its support. 
+Whether or not the PCs participate, a darkly tanned dwarven sailor approaches them and says, “Cap’n’d like a word with ya,” 
+while gesturing to a table near the back of the common room. 
+Seated at the table are three women and two men. One woman wears a tricorne hat and a long black coat, her demeanor clearly singling her out as the captain. As the PCs approach the table, the other sailors stand up and leave. When they arrive, read or paraphrase the following. 
+Dressed in a black longcoat trimmed in red and gold, the raven-haired woman is middle-aged, her face worn by exposure. She gestures for you to sit. “I’m Elliana Silva,” she says, “captain of the Sunrise’s Kiss. You and your friends come highly recommended by Mayor Deverin. I’m hopin’ you can help me with a problem.” She raises a hand and whistles, and one of the servers brings a round of ale for the table.  “I sail up and down the Varisian coast carrying cargo, people, sometimes animals. I’m prepared for most trouble, but lately a pirate named One-Tusk and what he calls his Horde of the Crimson Maw have been trying to make a name for themselves by attacking ships, extorting safe passage ‘taxes,’ and all manner of rudeness.” She raises her mug of ale in your direction. “The Sunrise’s Kiss sets sail north for Riddleport in two days. I’m looking to hire on some extra muscle in case the Horde decides to make a show of things, and Mayor Deverin says I’d be a fool not to hire you. All these years at sea, one thing I ain’t is a fool. So how ‘bout it?” 
+
+Allow the PCs to ask any questions they may have of Captain Silva; likely questions and answers appear below. 
+You know we aren’t sailors, right? “I’m not hiring you to sail my boat; I’ve already got a fine crew for that. I’m hiring you to fight!” 
+How much are you paying us? “When we make it to Riddleport, there’s two hundred gold for each of you. When we make it back to Sandpoint, that changes to three hundred.” 
+What can you tell us about One-Tusk or the Horde? “One-Tusk Tauk is as mean and ruthless a pirate as we’ve had in years. The Horde is mostly made up of goblins, orcs, and whatever other wretches he can dredge up.” 
+What’s the cargo? “It’s best if I keep that to myself, if you don’t mind—loose lips and all. Nothing that’ll hurt anyone, if that puts your minds at ease.” If a PC succeeds at a DC 15 Diplomacy check,
+she smiles conspiratorially and confides the truth. “They’re relics from Thassilon, an ancient empire that used to rule these parts long ago. I don’t know if they’re magic or not—they look like a
+bunch of old junk to me—but the Cyphermages up in Riddleport’ll pay a pretty penny for them!” 
+What can you tell us about Riddleport? “Riddleport is a dangerous place for the unprepared. Lots of brigands, thieves and pirates. Lots of money to be made for the right trader, though!” 
+Give the PCs 2 days to attend to any business or shopping they might have before setting sail from Sandpoint. The same stout dwarven sailor finds them on the evening of the second day and informs them that Captain Silva is ready to depart at sunrise. 
+SUNRISE’S KISS 
+The Sunrise’s Kiss is a three-masted galley currently anchored in Sandpoint Bay. When the PCs arrive at the docks, nearly all the crew is aboard and busily working as Captain Silva waits by a longboat, talking with the harbormaster. She shakes hands with him, calling out as the PCs approach: “Ready to take to the seas? You’ll be bunking in the passenger’s cabin since we’re just running cargo this time around. Welcome aboard!” 
+Captain Silva expects the PCs to stay out from underfoot as the crew goes about its daily tasks. She invites the PCs to her daily sunrise prayer, asking any Cleric of Sarenrae PC to lead the prayer
+personally. Dinner is served daily about an hour before sunset, after which those who are off duty engage in drinking, card games and story swapping. Captain Silva asks the PCs to assist the crew in posting watches, including at night. Give the PCs time to plan the logistics of their watch schedule and for raising the alarm in the event of an attack. It takes two full rounds to reach
+the deck of the ship from the cabin where the PCs bunks are located. Captain Silva allows the PCs to hang hammocks on the deck overnight if they wish, but threaten to lash any of her crew
+caught napping in them. 
+
+HORDE ATTACK 
+At midnight on the second night, the Horde attacks, with a rowboat full of goblins and orcs rowing out from a concealed watch post on the shoreline and pulling up alongside the Sunrise’s
+Kiss so that the pirates can fling grappling hooks that attach to the side of the ship. Noticing the boarding party in time to act in the surprise round requires a successful DC 15 Perception check
+from any PC on watch—those PCs not actively on deck do not get to make this check. 
+During the surprise round, the three goblins are able to scramble up and onto the Sunrise Kiss’s deck. In contrast, the orcs must each spend a full-round action to climb onto the boat, meaning
+that they reach the deck at the beginning of the second round. 
+One-Tooth Tauk arrives at the beginning of the third round. A total of six grapnels affix to the ship during the surprise round—a PC can dislodge a single grapnel with a successful DC 15 Strength
+check or by dealing 2 or more points of damage to the rope with a slashing or piercing weapon, forcing that boarder to wait for another rope to become free or attempt to throw a new grapnel. 
+
+
+Neither Captain Silva nor any of her sailors engage in combat— that’s why they’ve hired the PCs, after all. 
+Remember that the goblins and orcs all have darkvision, and so do not need any light to fight. When One-Tooth Tauk climbs aboard, he immediately demands Captain Silva turn over the Thassilonian relics to him. If things are going badly for his pirates, he joins in the melee without hesitation. If he ever feels like he personally is in danger, he attempts to take Silva prisoner and ransom her in exchange for the cargo. If the PCs still refuse to lay down their arms in this situation, he stabs her in the side and runs for his rowboat, attempting to escape. 
+
+GOBLINS (3) 
+CR 1/3 
+XP 135 each 
+Goblin (Game Master’s Guide 72) 
+hp 6 each 
+
+
+Captain Silva expresses her sincere gratitude to the PCs, saying, “The mayor is a good judge of character; I knew you lot wouldn’t disappoint! Even when things seem their darkest, the Dawnflower lights our way.” The remainder of the journey to Riddleport and then back up to Sandpoint is uneventful, and Captain Silva gladly pays as promised, adding “May Sarenrae’s light warm you until our paths cross again.” 
+If One-Tusk Tauk manages to successfully escape with the relics, Captain Silva is understandably furious. When the Sunrise’s Kiss reaches Riddleport she pays the PCs only 100 gold and suggests
+they find another way back home to Sandpoint. 
+
+PFRPG CONVERSION 
+Pawns: 1 border guard (NPC Codex Box), 2 cutpurses (NPC Codex Box), 3 orc warriors (Bestiary Box)
+ORCS (2) 
+CR 1/3 
+XP 135 each 
+Orc (Game Master’s Guide 77) 
+hp 6 each 
+Equipment potion of cure light wounds 
+ONE-TUSK TAUK 
+CR 2 
+XP 600 
+Orc Boss (Game Master’s Guide 77) 
+hp 37 
+CONCLUSION 
+If the PCs defeat One-Tusk Tauk and his Horde of the Crimson Maw, Captain Silva and her crew cut the rowboat loose, setting ORCS (3) 
+CR 1/3 
+XP 135 each 
+Orc (Pathfinder RPG Bestiary 222) 
+hp 6 each 
+Combat Gear potion of cure light wounds 
+SKILLED SNIPERS (2) 
+CR2 
+XP 600 each 
+Skilled Sniper (Pathfinder RPG NPC Codex 145) 
+hp 23 
+ONE-TUSK TAUK 
+CR 3 
+XP 800 
+Border Guard (Pathfinder RPG NPC Codex 129) 
+hp 30 
+
+

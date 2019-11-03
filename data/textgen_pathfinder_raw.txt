@@ -1,0 +1,1195 @@
+
+
+DEADLY MINE ADVENTURE 
+This is a short dungeon adventure for four 1st-level characters, set near the town of Sandpoint. If you’ve run “Black Fang’s Dungeon” from the Game Master’s Guide and need a short adventure to go after  that, “Deadly Mine” is an adventure you should be able to finish in just a couple of hours. You can also use it as a “side quest” between other adventures. 
+
+MONSTERS 
+There are hundreds of monsters in the Pathfinder Roleplaying Game. This two-page section has four monsters to add to the list of potential foes for your PCs! The giant black widow spider is a tough, CR 3  poisonous spider. The marsh-dwelling lizardfolk can be dangerous enemies or helpful—if cautiously neutral—allies. The flesh-eating minotaur is a tough solo opponent for higher-level characters or the  deadly boss of a tribe of orcs or goblins. The wererat is a sneaky shapeshifter, relying on stealth and sneak attacks instead of a frontal assault like the werewolf. 
+
+MAGIC ITEMS 
+Everyone loves magic items! This section gives two more pages of magic items, including several valuable items intended for higher-level characters, as well as potions, scrolls, and wands of the new  spells found in the Player Pack. 
+
+USING PUBLISHED ADVENTURES 
+There are dozens of complete adventures published for the full version of the Pathfinder Roleplaying Game. This section tells you how to use those adventures with the introductory rules in the Beginner  Box, and recommends a couple of 1st-level adventures you can easily use. 
+
+THE DEADLY MINE 
+This adventure is intended to give a novice Game Master a short adventure to run after “Black Fang’s Dungeon” in the Beginner Box. Your players may use the same characters they used for “Black Fang’s Dungeon” or they can use other characters—whether that means they use pregenerated characters or ones they created themselves. 
+
+This adventure is designed with four 1st-level characters in mind, but it will work with two or three characters. To run this adventure, you should be familiar with the basics of being a Game Master, such as having run “Black Fang’s Dungeon” in the Beginner Box. This adventure assumes you know how to make skill checks, initiative checks, attack rolls, damage rolls, and saving throws, and that you know how to run a combat encounter. Read pages 3–8 before you run this adventure so you’re familiar with what is going to happen. 
+
+STARTING THE ADVENTURE 
+Once the players have characters and are ready to play, you should begin the game. Make sure everyone is within easy reach of the dice and character sheets. Place the Flip-Mat from the Beginner Box in the middle of the table with the blank side up (grid only, no dungeon). Use a dry-erase or wet-erase marker to draw the outside part of the mine (the bottom part of this map) and have the players place their pawns outside the mine entrance. When you are ready to start, read aloud the text in the blue box at the bottom of this page. Then turn to Area 1 on page 3. If you’re interested in using the map tiles this adventure’s map was made with rather than drawing it out yourself, see Using Map Tiles on page 8! 
+
+ADVENTURE MAP 
+GOLD ELEMENTAL 
+
+SPIDER LAIR 
+SINKHOLE 
+
+INTERSECTION 
+PROSPECTOR 
+A week ago, a pair of dwarven surveyors came to the town of Sandpoint asking about an old gold mine in the nearby hills. The mine was abandoned a generation ago after an earthquake collapsed part of it and left the rest unstable. The surveyors wanted to see if the old tunnel could be stabilized, and if so, they’d pay Sandpoint for the rights to mine the gold. Nobody has seen the surveyors since they left three days ago, and Mayor Kendra Deverin is concerned they’ve run into trouble—or are trying to steal the gold! Either way, she needs someone to check up on the dwarves. She’s offering 100 gp each to any adventurer who can bring back information about the missing surveyors. You’ve decided you’re the right ones for the job. Just in case the dwarves are thieves, Sheriff Belor Hemlock deputizes you, giving you the authority to arrest the dwarves and bring them back to Sandpoint. Armed with your gear, a map from the mayor, and the law on your side, you travel one day into the hills and approach
+the entrance to the old mine. The outside of the mine is a natural cave supported by thick timbers and extending straight into the hillside. You can see fragments of old tools, rusted mine cart rails, and a few recent dwarven boot prints, but it is otherwise quiet. Before you enter the mine, you have time to light torches, cast spells, and make other preparations. 
+
+
+ADVENTURE: DEADLY MINE 
+INTERSECTION 
+PALE STONE 
+This room has clues that the mines are inhabited by monsters and the missing dwarves fought here. When the PCs enter this area, draw it on the map, and read the following to them. 
+
+The rusty mine cart rails crisscross the floor in this area, leading west, north, east, and back south to the entrance. Dwarven boot prints are visible all over the dirt floor. The ground to the northeast was recently scorched by fire. A patch of stone on the northwest wall looks paler than the surrounding stone. When the dwarf prospectors were here, they looked around and used a mining pick to chisel out a piece of the wall to examine it for gold (creating the pale patch). When they went north to Area 2, they found a swarm of hatchling spiders and the spider mother, ran back to this area, then used alchemist’s fire to kill the swarm (which created the scorched area on the ground). The mother spider retreated to her lair, and the dwarves went east to Area 3. 
+
+FIRE SCORCH 
+BOOT PRINTS: 
+If any PCs examine the boot prints, have each searching PC make a Perception check. Any PC who gets a 15 or higher can tell that while there are prints leading east, none of the prints are coming from the east—whatever dwarves went that way never came back again. Any PC who gets a 20 or higher can tell that some of the prints are from walking, but there are two sets of running prints coming from the north. 
+
+SCORCH MARK: 
+If any PCs examine the scorch mark, have each searching PC make a Perception check. Any PC who gets a 10 or higher finds a dozen hand-sized dead, burned spiders in the blackened dirt. Any PC who gets a 15 or higher spots the broken glass remnants of a flask of alchemist’s fire.  
+
+PALE STONE PATCH: 
+The walls of the mine are dirty and covered in soot from long-ago torches, except in this area, where it looks like a chunk of stone was broken out of the wall with a tool. If a PC examines the pale area using a light (not with darkvision), have the PC make a DC 15 Perception check. If the PC succeeds, she notices a few faint yellow glitters in the rock—gold! 
+
+FINDING CLUES 
+Leaving clues about recent encounters helps make a dungeon feel like a living place. For an adventure like this one where the PCs are investigating, clues help the PCs figure out what’s going on and make decisions about what to do next. Remember that you want the PCs to find most of the clues; otherwise they’re just wandering around the dungeon with no plan. When you assign Perception check DCs to find things, make some of them easy (such as DC 10) so the PCs are sure to notice them if they look. It’s okay to make some of the DCs harder (such as DC 15), especially if it’s a clue that gives the
+PCs an advantage in a later battle. Very hard-to-spot clues may be DC 20 or higher, and only PCs with very good bonuses on Perception checks have a reasonable chance of finding them. 
+
+
+SPIDER LAIR 
+Although the dwarf prospectors managed to kill the swarm of little spiders, the mother spider still lairs in this cave, and she needs to eat well so she can lay more eggs. When the PCs enter this area, draw it on the map, and read the following to them. 
+
+The mine cart rails continue northward into a collapsed mine tunnel. The walls, floor, and ceiling are covered in a light layer of spider webbing, as is the rubble from the collapse. Webbed to the floor in the far-right corner is a crusty mass of hatched spider eggs and the bloodless carcasses of several rabbits and a fox. Dwarven footprints enter this area but don’t get far before turning south again. 
+
+WEBS: 
+The webs cling to the rocks like they’re forming the inside of a cocoon. They do not fill squares, trap characters, or block vision, but they are sticky enough that they slow down PCs walking on them, and count as difficult terrain (Hero’s Handbook, page 55). The webs don’t slow down the mother spider. 
+
+XP 400 
+GIANT SPIDER 
+INITIATIVE +3 
+COMBAT! 
+This combat begins with a surprise round. Any characters who are surprised can’t take any actions in the surprise round, and creatures that aren’t surprised (including the spider) can only take one standard action or one move action in the surprise round, not both. Have everyone roll initiative as normal (even if they are surprised). The spider and any PCs who aren’t surprised take their actions in the surprise round, in initiative order (skip anyone who is surprised). After the surprise round, everyone can act normally—nobody is surprised, and everyone can take a standard action, move action, and free action each round. 
+
+SPEED 30 FT. (6 SQUARES) 
+DEFENSE 
+ARMOR CLASS 14, touch 13, flat-footed 11 
+FORTITUDE SAVE +4, REFLEX SAVE +4, WILL SAVE +1 
+SPECIAL mindless creature 
+
+CREATURE: 
+The mother spider living here is hiding in asmall gap in the rubble, as marked on the map. If a PC gets within 5 feet (1 square) of her, or if the PCs remain in this room for more than 2 rounds, she attacks. When the spider decides to attack, all PCs must make Perception skill checks. Secretly roll a Stealth skill check for the spider (1d20+13). PCs whose result on the Perception check is equal to or greater than the result of the spider’s Stealth check notice the spider before she attacks and are not surprised. Those who fail are surprised. Proceed to the Combat! section. 
+
+HIT POINTS 16 
+OFFENSE 
+CLIMB 30 ft. (6 squares) 
+MELEE (standard action) bite +2 attack (1d6 damage plus poison—see below) 
+STATISTICS 
+SKILLS Climb +16, Perception +4, Stealth +7 (+11 when in webs) 
+POISON 
+Each time the spider bites a character, the character must make a Fortitude saving throw with a Difficulty Class (DC) of 14. If the character is successful, he resists the poison. If the character fails the save, he is sickened for 1 minute (10 rounds). A sickened character takes a –2 penalty on attack rolls, weapon damage rolls, saving throws, skill checks, and ability checks. If bitten again, another failed save increases the duration by 1 minute. 
+TREASURE: 
+Stuck in the spider’s webs are 15 gp, 55 sp, and a vial of orange liquid (a potion of healing). 
+
+
+ADVENTURE: DEADLY MINE 
+XP 200 
+PROSPECTOR 
+The dwarves went through this area and north to Area 4, where an earth elemental attacked them. When the PCs enter this area, draw it on the map, and read the following to them. 
+
+The tunnel continues eastward, then turns north. In the northwest corner on the ground is a male dwarf dressed in miner’s work clothes. He looks like he’s been beaten, and it’s hard to tell if he is alive or not. Based on the direction of his body, it looks like he was running toward the southwest before he was struck down. 
+
+
+ROLEPLAYING ENCOUNTERS 
+Fighting monsters is fun, but so is interacting with NPCs! How you choose to speak for Grald helps make him memorable and fun for your PCs. Perhaps he speaks with an unusual accent, or he keeps poking at his bruised face and wincing—anything you can do to make him someone the PCs want to help. One of the prospectors was able to flee back to here before the elemental chased him down and knocked him into negative hit points. Fortunately, he’s tough, and managed to stabilize on his own (Hero’s Handbook, page 60), but is still unconscious. EXPERIENCE POINTS: Rescuing Grald is a CR 1/2 roleplaying
+DWARF: The unconscious dwarf is a prospector named Grald. encounter (Game Master’s Guide, page 27), worth 200 XP (the amount indicated on this page’s map). Any PC who spends a standard action examining him can see that he is still alive, but unconscious from his injuries. He currently has –2 hit points. If the PCs can raise his hit points to at least 0 (such as by using a cure light wounds spell, channel energy, the Heal skill, or a cleric of Sarenrae’s rebuke death ability), he wakes up. When he realizes where he is, he gestures for the PCs to be quiet, then whispers to them. Read the following to the players. 
+
+"My brother Durn and I were attacked by a golden rock monster living in a pile of ore to the north. We ran, but it got Durn first, then caught up to me. I don’t know if Durn is still alive. Can you get us out of here?" 
+
+If asked, Grald tells the PCs what happened with the spiders (Area 2), the alchemist fire and broken part of the wall (Area 1), and the large pit (Area 5). All he knows of the tunnel north of here (Area 4) is that the monster lives there and there is a large collapsed area that glitters with gold. The PCs can talk with Grald as much as they want, but if they make a lot of noise or are using lights instead of darkvision, this alerts the monster in Area 4 (it doesn’t come to this location to attack, but it is aware of the PCs when they approach its lair, even if the PCs are using Stealth). 
+Grald is a miner, not an adventurer, and does not want to fight any monsters. If the PCs ask him to accompany them, he follows behind the PCs, as he knows he is not much help in a battle. If Grald is attacked, use the attack, damage, AC, and saving throws of a goblin (Game Master’s Guide, page 72), except he tries to run away rather than fight. He becomes a little more confident if the PCs heal him up to his full 6 hit points, but still doesn’t fight unless he has to. 
+
+
+GOLD ELEMENTAL 
+This is the “boss” encounter of this mini-dungeon. Nearby is the unconscious form of Grald’s brother, Durn. When the PCs enter this area, draw it on the map, and read the following to them. 
+
+After a short distance, the mine cart rails come to a halt. The tunnel progresses beyond this, shored up with wooden braces to stabilize the unfinished ceiling. Up ahead, a mass of loose rock fills the end of the corridor, though at this distance it’s uncertain whether the rock is from a cave-in or just debris from digging the mine. Some of the loose rock has flecks of gold in it. Halfway down the
+tunnel is another male dwarf in workman’s clothes, lying face up. Two sets of dwarf footprints lead into this area, and only one set leads out. 
+
+DWARF: The unconscious dwarf, Durn, is alive and stable at –1 hit points. The PCs can help him after they defeat the elemental, or can carry him to safety if they decide to flee the combat. 
+
+
+XP 800 + 200 
+CREATURE: 
+The earth elemental has partially buried itself in the pile of gold ore, leaving half of its rocky body visible. Though the elemental does not need to eat, breathe, or sleep, it enjoys the feel and “smell” of the gold in the ore, and is content to stay there unless it is disturbed. Grald and Durn disturbed it, so it attacked them. Noticing the elemental in the rock pile takes a DC 10 Perception check (it’s not really trying to hide itself), but remember the –1 penalty on Perception checks per 10 feet of distance (Hero’s Handbook, page 38). If the PCs try to sneak into this area, have them make
+Stealth checks opposed by the elemental’s Perception check. If they succeed and they start combat, the first round is a surprise round and the elemental is surprised (the PCs are not). However, if the elemental is alerted to the presence of the PCs (see Area 3), nobody is surprised, there is no surprise round, and combat happens normally. 
+
+COMBAT! 
+If the PCs surprised the elemental, this combat begins with a surprise round where the elemental is surprised and the PCs are not surprised. If the PCs didn’t surprise the elemental, this is a normal combat with no surprise round. This is a challenging encounter for 1st-level PCs. If they are having a hard time with the monster, remind them that they can retreat, rest outside the mine to recover hit points, and try again with a better idea of what the monster can do. For example, because the elemental doesn’t have fear attacks and isn’t evil, a cleric PC shouldn’t prepare protection from evil or remove fear because those spells won’t be useful in the battle. Likewise, because the elemental is an outsider and not a humanoid, a wizard PC shouldn’t prepare charm person since that spell only works on humanoid creatures. 
+
+EARTH ELEMENTAL STAT BLOCK 
+Instead of repeating the earth elemental’s stat block from page 66 of the Game Master’s Guide, when you start this combat you should have that page open and ready (or you can photocopy or hand-copy the elemental’s stat block). Many published adventures refer to monster stat blocks in another book, so you should get used to this method (doing this also means a book isn’t wasting space reprinting monster stat blocks that you already have). 
+
+TREASURE: 
+When the elemental is killed, it shatters and collapses into a human-sized pile of rocks. If the PCs dig through the rocks, they find 10 turquoise gems worth 10 gp each and 5 pure gold nuggets worth 50 gp each. The raw ore in this area needs to be smelted to produce usable gold, so there’s no point in the PCs collecting it—they’d have to mine several hundred pounds of ore to smelt a pound of gold, and they don’t have the equipment to mine or smelt it. Besides, the ore belongs to Sandpoint, and taking it without permission from the mayor is stealing from the town. The PCs could decide to sneak up here with the necessary equipment, but it is hard, slow work, and not nearly as exciting or profitable as fighting monsters! 
+
+EXPERIENCE POINTS: 
+Rescuing the prospector, Durn, is a CR 1/2 roleplaying encounter (Game Master’s Guide, page 27). This is marked on the map (as well as the 800 XP combat encounter for defeating the elemental). 
+
+
+ADVENTURE: DEADLY MINE 
+
+XP 400 
+SINKHOLE 
+The earthquake that shut down the mine 30 years ago created a sinkhole here. The dwarven prospectors saw there was no easy way across and left this area to examine the other tunnels. When the PCs enter this area, draw it on the map,and read the following to them. 
+
+The mine cart rails end no more than ten feet ahead, twisting and hanging over a rough sinkhole that blocks further progress in this direction. Fifteen feet beyond the near edge, the cart rails and solid ground continue as the tunnel continues west. 
+
+BOOT PRINTS: 
+If the PCs search this area, have them make DC 10 Perception checks. Those who succeed easily find dwarven boot prints in this area that come near the sinkhole, but none of them indicate that the dwarves tried to jump across or climb past this obstacle. 
+
+SINKHOLE: 
+The sinkhole is 15 feet square. The east side is about 15 feet deep, sloping upward on the west side to only 10 feet. It takes a DC 15 Acrobatics check to jump across the pit, or DC 30 without a 10-foot running start (see Jumping, Hero’s Handbook, page 35). The mine walls are smooth, and climbing across takes a DC 20 Climb check. The PCs can also climb into the sinkhole, walk across the bottom, and climb up the other side. for all the encounters the PCs faced, divide this XP total by the number of PCs, and award each PC that amount of XP. 
+
+USING MAP TILES 
+The color maps in this adventure come from a Paizo map supplement called GameMastery Map Pack: Mines, which gives you eighteen 5-inch-by-8-inch map tiles. Some GMs use map tiles because they don’t like to hand-draw maps, while others use map tiles because they like how the tiles look during a game. Just like your Flip-Mat from the Beginner Box, you can use wet-erase, dry-erase, and permanent markers with GameMastery Map Packs! 
+
+WESTERN TUNNEL: 
+The purpose of this area is to give you room to expand the mine by adding more encounters. Perhaps there are monsters within who can fly or climb past the sinkhole, or the earthquake opened a connection to a deeper area inhabited by underground monsters. 
+
+CONCLUDING THIS ADVENTURE 
+Once the PCs rescue the dwarf prospectors, they should return to town (with the dwarves) to collect their reward from the mayor. The dwarves are still interested in the mine but first would like some adventurers to clear out any monsters living there. The dwarves can’t afford to pay the PCs more than a few gold coins, but not every adventure has to start with offering the PCs money to do something! If the PCs want to explore the old mine, that’s great! Add some tunnels, rooms, and monsters and you’re ready to go. If the PCs would rather adventure elsewhere, there are several adventure ideas on
+page 15 of the Game Master’s Guide to choose from. 
+
+EXPERIENCE POINTS: The PCs earn experience points for defeating the monsters and rescuing the dwarves. Each room’s map has an XP total for that encounter. Add up the XP awards. 
+
+
+GIANT BLACK WIDOW SPIDER 
+NEUTRAL 
+These spiders are larger, tougher, and more dangerous than other giant spiders, and use their thick webs to slow and capture foes before cocooning and devouring them. 
+INITIATIVE +2 
+SPEED 30 FT. 
+CR 3 
+SENSES DARKVISION 60 FT. 
+XP 800 
+NEUTRAL 
+Lizardfolk are proud and powerful reptilian predators that live in swamps, marshes, and coasts. They reject civilization and prefer simple tribal life in their own lands. They are known to eat their dead enemies and allies. 
+INITIATIVE +0 
+SPEED 30 FT. 
+CR 1 
+XP 400 
+SENSES NORMAL (HUMAN) 
+HP 11 
+PERCEPTION +1 
+HP 37 
+PERCEPTION +4 
+DEFENSE 
+
+LIZARDFOLK 
+MONSTERS 
+
+AC 15, touch 11, flat-footed 13 
+FORT +7, REF +3, WILL +1 
+SPECIAL DEFENSES mindless creature 
+OFFENSE DEFENSE 
+CLIMB 30 ft. 
+MELEE (standard action) bite +6 (1d8+6 plus poison) 
+SPECIAL ATTACK web AC 17, touch 10, flat-footed 17 
+FORT +4, REF +0, WILL +0 
+SPECIAL DEFENSES hold breath 
+STATISTICS OFFENSE 
+STR +4, DEX +2, CON +3, INT —, WIS +0, CHA –4 
+SKILLS Climb +20, Perception +4, Stealth +7 (+11 in webs) ITEMS MELEE (standard action) club +2 (1d6+1) 
+MELEE (standard and move action) club +2 (1d6+1), bite +0 (1d4) 
+RANGED (standard action) javelin +1 (1d6+1) 
+EQUIPMENT none 
+TREASURE none STATISTICS 
+SPECIAL ABILITIES STR +1, DEX +0, CON +1, INT –1, WIS +0, CHA +0 
+SKILLS Acrobatics +2, Perception +1, Swim +8 
+POISON
+Whenever a giant black widow spider bites a foe, that creature must make a DC 17 Fortitude save or take 1d8 additional points of damage from the poison and a –1 penalty on Fort saves for 1 hour. This penalty increases by 1 each time the creature is bitten and fails its Fort save. 
+WEB 
+As a standard action, a giant black widow spider can shoot webbing at a creature within 30 feet by making a +5 ranged touch attack. If the web hits, the target cannot move from its current space until it spends a standard action to make a DC 16 STR check to break free. 
+ITEMS 
+EQUIPMENT club, heavy shield (wooden instead of steel), 3 javelins 
+TREASURE 2 Minor Random Treasure rolls (Game Master’s Guide, page 30) 
+SPECIAL ABILITIES 
+HOLD BREATH 
+A lizardfolk can hold its breath for twice as long as normal (see Suffocation, Game Master’s Guide, page 47). 
+
+
+MONSTERS 
+MINOTAUR 
+CHAOTIC EVIL 
+Minotaurs are angry, violent, and fond of mazes where they can trap and confuse their prey. They never get lost. They sometimes work for more powerful monsters, or bully a tribe of orcs or goblins into serving them. 
+INITIATIVE +0 
+SPEED 30 FT. 
+CR 4 
+XP 1,200 HP 45 
+SENSES DARKVISION 60 FT. 
+PERCEPTION +10 
+WERERAT 
+LAWFUL EVIL 
+Wererats are stealthy and nervous. Cursed to turn into hungry rat-human hybrids on the nights of the full moon, they live in sewers and sneak out to rob people. Many work for or run thieves’ guilds. 
+INITIATIVE +3 
+SPEED 30 FT. 
+CR 2 
+XP 600 
+SENSES LOW-LIGHT VISION, SCENT 
+HP 20 
+PERCEPTION +8 
+DEFENSE 
+AC 19, touch 14, flat-footed 15 
+FORT +3, REF +6, WILL +3 
+DEFENSIVE ABILITIES evasion (as a rogue) 
+DAMAGE REDUCTION 10/silver 
+DEFENSE 
+AC 14, touch 9, flat-footed 14 (but see below) 
+FORT +6, REF +5, WILL +5 
+DEFENSIVE ABILITIES never flat-footed 
+OFFENSE 
+MELEE (standard action) greataxe +9 (3d6+6) or powerful charge 
+MELEE (standard and move action) greataxe +9 (3d6+6), greataxe +4 (3d6+4), gore +4 (1d6+2) 
+SPECIAL ATTACKS long reach, powerful charge 
+OFFENSE 
+
+ 
+MELEE (standard action) short sword +4 (1d6+2/19–20) 
+MELEE (standard and move action) short sword +4 (1d6+2/19–20), bite –1 (1d4+1 plus sickness and curse of lycanthropy) 
+RANGED (standard action) light crossbow +4 (1d8/19–20) 
+SPECIAL ATTACKS sneak attack +1d6 (as a rogue) 
+STATISTICS 
+STR +2, DEX +3, CON +3, INT +0, WIS +3, CHA –2 
+SKILLS Climb +4, Perception +4 
+STATISTICS 
+STR +4, DEX +0, CON +2, INT –2, WIS +0, CHA –1 
+SKILLS Perception +10, Stealth +2 
+ITEMS 
+EQUIPMENT greataxe 
+TREASURE 1 Major Random Treasure roll (Game Master’s Guide, page 30) 
+SPECIAL ABILITIES 
+LARGE 
+A minotaur a large creature. It takes up a 10-foot-by- 10-foot space (2 squares by 2 squares). 
+LONG REACH 
+A minotaur can make its melee attacks against creatures 5 feet (1 square) or 10 feet (2 squares) away from it. 
+POWERFUL CHARGE 
+If a minotaur charges, it makes a gore attack against its target (+11 attack bonus, 2d6+6 points of damage). 
+ITEMS 
+EQUIPMENT studded leather armor, short sword, light crossbow with 20 bolts 
+TREASURE 3 Minor Random Treasure rolls (Game Master’s Guide, page 30) 
+SPECIAL ABILITIES 
+CURSE OF LYCANTHROPY 
+This works like a werewolf’s curse of lycanthropy (Game Master’s Guide, page 82), except the victim turns into a wererat. 
+DAMAGE REDUCTION 
+Whenever a wererat takes damage from a non-silver melee or ranged weapon, reduce the damage by 10 (to a minimum of 0). 
+RAT EMPATHY 
+A wererat can communicate and empathize with rats and dire rats. 
+SICKNESS This works like the dire rat’s sickness ability 
+
+
+MAGIC ITEMS 
+These items are good treasure rewards for adventurers. If you roll a random magic item treasure using the tables in the Game Master’s Guide, feel free to substitute one of these items for a randomly rolled item of equal or greater value. Some of these items are so valuable that only adventurers of 5th-level or higher should have one. 
++1 FIRE RESISTANCE CHAINMAIL 
++1 
+ARMOR 
++1 ARROW CATCHING SHIELD 
++1 
+2,000 
+3,450 GP 
+
+A cleric or wizard can cast any 1st-level spell into this ring. You can cast that spell once from the ring as a standard action, expending the stored spell and allowing the ring to hold another spell. 
+STAFF OF ENCHANTMENT 
+STAFF 
+4,500 
+3,450 GP 
+ 
+This staff is made from golden wood with a circle of braided gold at the top. It allows you to use sleep (1 charge), hideous laughter (2 charges), and deep slumber (3 charges). 
+STAFF OF THE UNDEAD SLAYER 
+4,170 
+3,450 GP 
+
+This +1 heavy steel shield gives you an additional +1 to your Armor Class against ranged weapons. However, ranged attacks against you never have to roll d% miss chances from concealment or invisibility. 
+CURSED LONGSWORD –2 
+STAFF 
+5,750 
+3,450 GP 
+
+This staff is made from bone-white wood, with a carved bone top studded with gems. It allows you to use magic stone (1 charge), consecrate (2 charges), and remove disease (3 charges). 
+AMULET OF NATURAL ARMOR +2 
+WEAPON 
+RING 
+6,300 
+3,450 GP 
+
+Anytime you take fire damage, subtract 5 from the damage. If you are also protected by resist energy (Hero’s Handbook, page 20), you only subtract the 10 points from that spell, not a total of 15 points. 
+SHIELD 
+RING OF MINOR SPELL STORING 
+COST 
+3,450 GP 
+This appears to be a +1 longsword , but it has a –2 penalty on attack and damage rolls. Once you use it, you have to use it instead of other weapons, and you can’t get rid of it without a remove curse spell. 
+SLEEP AMMUNITION 
+NECK 
+8,000 
+3,450 GP 
+
+This iron amulet toughens your flesh, giving you a +2 bonus to your Armor Class. 
+BELT OF PHYSICAL MIGHT 
+WEAPON 
+3,132 
+450 GP 
+
+If this hits a living creature (other than a construct or elemental), the target takes normal damage and has to make a Will save (DC 11) or fall asleep as if from a sleep spell. 
+UNDEAD-SLAYING AMMUNITION 
+WEAPON 
+RING OF PROTECTION +2 
+10,000 GP 
+3,450 GP 
+This leather-and-gold belt has all the powers of a belt of giant strength and a belt of mighty constitution (Game Master’s Guide, page 56). 
+BOOTS OF LEVITATION 
+2,280 
+3,450 GP 
+
+If this hits an undead creature, the monster must make a Fortitude save (DC 20) or take +50 damage (this doesn’t multiply on a critical hit). If you miss, the ammunition is destroyed and its power is lost. 
+RING 
+BELT 
+FEET 
+7,500 
+3,450 GP 
+
+You can use the levitate spell (Hero’s Handbook, page 30) on yourself as a move action, unlimited times per day. The boots can only lift 300 pounds at a time. 
+BRACERS OF ARMOR +3 
+8,000 
+3,450 GP 
+
+This silver ring gives you a +2 bonus to your Armor Class. You can only wear one ring of protection at a time (wearing a second one has no effect, whether it is a +1 or a +2 ring). 
+WRISTS 
+9,000 
+3,450 GP 
+
+These arm guards can be found in a wide variety of styles. They surround you with an invisible force field that gives you a +3 bonus to your Armor Class. The bracers do not work if you are wearing armor. 
+
+
+MAGIC ITEMS 
+NECK 
+1,000 
+3,450 GP 
+
+You gain a +1 bonus on Fort saves. If Erastil is your god, once per day as a standard action you can activate true strike on yourself (as the 1st-level wizard spell). 
+CAPE OF THE MOUNTEBANK 
+GP 
+SHOULDERS 10,000 
+3,450 GP 
+Once per day you can speak a command word as a standard action, disappear in a puff of smoke, and teleport safely up to 700 feet away, arriving in a puff of smoke. 
+CLOAK OF RESISTANCE +3 
+SHOULDERS 
+9,000 
+3,450 GP 
+
+This cloak can come in almost any color or style. When worn, it gives you a +3 bonus on all saving throws. 
+DEATHBANE SKULL 
+NONE 
+
+
+MINOR SCROLLS 
+BRONZE DEADEYE AMULET 
+1,000 
+3,450 GP 
+
+When you hold this skull in your hand, you gain a +1 bonus on attack and damage rolls against undead and on saving throws against attacks from undead. You can only hold one at a time. 
+HEADBAND OF MENTAL PROWESS 
+HEADBAND 
+10,000 GP 
+3,450 GP 
+This jeweled golden headband has all the powers of a headband of inspired wisdom and a headband of vast intelligence (Game Master’s Guide, page 58). 
+ROPE OF CLIMBING 
+NECK 
+NONE 
+3,000 
+3,450 GP 
+
+This fine rope can hold 3,000 pounds. You can command it to snake outward at 10 feet per round and tie itself securely, unfasten itself and return to you, or knot itself in 1-foot increments. 
+POTIONS 
+CAT’S GRACE 
+PROTECTION FROM ARROWS 
+REMOVE PARALYSIS 
+WATER WALK 
+300 GP 
+300 GP 
+750 GP 
+750 GP 
+BANE 25 GP 
+GREASE 25 GP 
+MAGIC STONE 25 GP 
+MOUNT 25 GP 
+CAT’S GRACE 150 GP 
+CONSECRATE 200 GP 
+PROTECTION FROM ARROWS 150 GP 
+REMOVE PARALYSIS 150 GP 
+MAJOR SCROLLS 
+DEEP SLUMBER 375 GP 
+GLYPH OF WARDING 575 GP 
+HALT UNDEAD 375 GP 
+WATER WALK 375 GP 
+
+WANDS 
+BANE 150 GP 
+GREASE 150 GP 
+MOUNT 150 GP 
+MAGIC STONE 150 GP 
+CAT’S GRACE 900 GP 
+CONSECRATE 1,400 GP 
+PROTECTION FROM ARROWS 900 GP 
+REMOVE PARALYSIS 900 GP 
+DEEP SLUMBER 2,250 GP 
+GLYPH OF WARDING 4,250 GP 
+HALT UNDEAD 2,250 GP 
+WATER WALK 2,250 GP 
+
+
+
+CRYPT OF THE EVERFLAME 
+The adventure Crypt of the Everflame is a great starting point for Beginner Box GMs who want to try using adventures for the full Pathfinder Roleplaying Game. It’s for 1st-level characters, so it works well with the Beginner Box, and since it’s an introductory adventure for the full Pathfinder Roleplaying Game, it explains how new options work. Also, all of the adventures monster’s have full stat blocks (instead of saying “see the skeleton stat block on page 80”), so all the information is right there in the adventure. The adventure even includes a six-page section on the town of Kassen, if your PCs travel far from Sandpoint! You can buy Crypt of the Everflame in hobby stores, book stores, and from paizo.com. 
+
+
+CRYPT OF THE EVERFLAME 
+Young heroes set out to retrieve an eternal flame burning in the tomb of their town’s founder, but find only the corpses of their fellow townsfolk, dead bandits, and animated skeletons. The heroes must
+evade traps and discover the source of corruption and defeat a vengeful menace that threatens their home town. This is a dungeon adventure for four 1st-level characters. 
+
+
+
+Pawns: 1 × human cleric, 2 × human fighters, 1 pawn per PC 
+SUMMARY 
+Eberius Tauranor calls in a team of fledgling mercenaries to Sandpoint to “help” an ailing business contact and relieve him of his family’s shepherd’s crosier. In order to retrieve the relic, the PCs must first survive or bypass a complex trap involving a series of collapsing columns. On the far side of the trap floor, they may search the ceremonial statues located there to discover the hidden cache beneath and retrieve the shepherd’s crosier they seek. As the PCs attempt to leave the chamber, however, the Bloody Knuckles gang ambush the PCs to snatch the relic for themselves. 
+GETTING STARTED 
+Read the following to get the adventure underway: 
+“Ah, so you’re finally here,” grumbles Eberius Tauranor as you pile into a private dining room. As the caked mud from your boots peels and flecks off, it disappears into the intricate pattern of the plush carpet in the private dining room. A pale reflection of the impatience that flashes across Eberius’ bloodshot eyes sparkles in the light from the common room as you close the door behind yourselves.  Although you are winded from your hasty preparations at his request to see you immediately, Eberius gives you almost no time to rest before giving you the lowdown. 
+“A business contact of mine has recently fallen on hard times, but he can’t risk letting his rivals perceive his weakness. I offered him my assistance, and since then he has been... all too eager to try and pay back the favor with a single item from his collection. A few hundred years ago, one of his ancestors rose rather high in the hierarchy of Aroden—high enough to be granted a shepherd’s crosier, a two-foot-long mithral rod covered in gold leaf and gems. My contact may not even be aware that he possesses such a treasure, and I’d rather you not jog his memory. Since we have so graciously been granted this opportunity to explore his family’s property, I want you to recover that scepter. 
+“Do this,” he purrs, pulling out a small sack that jangles as it lands on the table, “and I’ll see you get your just rewards. Just be mindful of the Bloody Knuckles; I understand several just arrived in town, and we can’t risk them sniffing out our find.” Pulling out a crumpled note, he tosses it across the table. “This map will show you how to reach the vault. From there, you’re on your own.” 
+
+Relics 
+
+The PCs have no difficulty traversing Sandpoint’s busy streets, reaching the edge of town, and traveling to the nearby estate. Once there, they enter the ill-maintained mausoleum and pass chamber upon chamber of crypts and memorials before coming across a secret door indicated on Eberius’s map. 
+As the PCs descend a narrow stairway, they enter the secret chamber rumored to hold the shepherd’s crosier.  
+THE RUNE-COLUMN FLOOR 
+Magical, flameless torches illuminate this massive stone chamber, which features a strange series of columns rising from a deep chasm in the room’s center. The top of each column is flush with the surface of the floor and features an arcane rune. At the far end of the room stand two stone thrones on a raised dais. On the wall behind the left throne is a relief of a king signing a document while speaking to a crowd of featureless faces. Behind the right throne is a relief of a thief who holds a knife to a featureless man’s throat while picking the pocket of a nearby woman. 
+Trap: The 20-foot-by-40-foot pit in the center of the room is 40 feet deep. The 25 rune-topped columns arranged in the pit are level with the floor, allowing the PCs to walk across with a DC 5 Acrobatics check. Each time a rune column is stepped on, the rune changes color. All runes begin inactive, but when a character steps on a rune it beings to glow. The runes first glow bright yellow, and change color each subsequent time they are stepped on, moving from yellow to orange, to deep crimson on the third activation. When a column turns crimson, the entire pillar drops 20 feet straight down, shuddering the
+entire fall. A character standing on a crimson column can attempt a DC 15 Reflex save to jump to safety before the pillar begins descending. If the character is unable to jump to safety, he must make an additional DC 15 Reflex save to avoid falling off the column when it suddenly stops after its rapid descent. 
+Failing the save means the character falls into the pit below, taking 2d6 points of damage. The rune stops glowing after a column falls and all columns return to their unlit, raised state after 1 hour. 
+ANCIENT THRONES 
+At the far end of the room sit two dust-covered stone thrones, and ancient Azlanti words are carved into the stone walls. Many holes and gaps exist in suspicious places, but none bear traps. A successful DC 15 Perception check allows a PC to notice that the thrones can be lifted up (DC 20 Strength check), revealing hidden caches underneath. Religious scholars might note that one of the relief carvings does not depict an aspect of Aroden—a point that might help them identify which scepter is fake. PCs may make a Knowledge Religion check upon reaching the thrones and studying the wall relief carvings. 
+
+
+Details 
+Aroden—also known as the Last Azlanti—was a god of culture, humanity, and innovation, but he died around 100 years ago. It is said he walked Golarion in several different guises. 
+Aroden’s 12 guises were the artist, beggar, craftsman, farmer, fisherman, hunter, merchant, scholar, shepherd, soldier, tailor, and thief. 
+Treasure: On the wall behind the right throne is carved a scene showing an artist, a beggar, a craftsman, a scholar, a soldier, and a tailor. Beneath the throne is a small cache containing the shepherd’s crosier, wrapped in a ceremonial cloth covered in holy sigils of Aroden, and 400 gp. The scepter is approximately 2 feet long and 2 inches in diameter, is covered in gold leaf and small semi-precious gems, and terminates in a shepherd’s crook. Anytime the scepter catches the light, the bluish outline of a small winged eye framed by the hook shimmers into view. 
+
+On the wall behind the left throne is carved a scene showing a farmer, a fisherman, a hunter, a monk, a shepherd, and a thief. The left throne hides a trove of holy texts, a scroll of daylight, and a fake shepherd’s crosier. This fake looks identical to the true scepter, which is located in the right cache. The false scepter has been altered by a permanent magical effect to make it radiate magic like the true relic, but a DC 15 Knowledge Arcana or Spellcraft check reveals it to be a fake. The false scepter, while not genuine, is nevertheless worth 150 gp. 
+
+RIVALS ATTACK (CR 3) attitude of hostile); see page 36 of the Hero’s Handbook for information on NPC attitudes. The Bloody Knuckles use ranged attacks to target foes on the far side of the chasm, and they
+hope to hold the first PC to make it to their side hostage until they get the scepter. 
+BLOODY KNUCKLES LEADER 
+CR 3 
+XP 800 
+Evil Cleric (Game Master’s Guide 67) 
+hp 32 
+BLOODY KNUCKLES THUG (2) 
+As the first PC makes his way back across the rune columns, a band of thieves from the Bloody Knuckles gang enters the room on the far side and threatens the party.  
+Creatures: The Bloody Knuckles have learned of the vault and followed the PCs, lying in wait so the PCs could take care of the traps and other dangerous elements of the vault. The three ruffians pour into the room through the door the PCs came through and block the way. They demand that the PCs give up the shepherd’s crosier and threaten to kill them all and leave them as the newest corpses in the ancient tomb if they refuse. The Bloody Knuckles are amenable to embarrassing this new group without resorting to violence, however, so the PCs can use the Bluff skill on these rivals, convincing them to take
+the fake scepter and leave the PCs in peace if the new arrivals can be made indifferent. 
+
+CONCLUSION 
+If the PCs defeat the Bloody Knuckles or otherwise trick the thugs into leaving with the fake scepter, Eberius awards them with rationed praise. As an added bonus, he slips them a pouch containing a handful of gold coins and tells them to celebrate in style while here in Sandpoint. If, however, they allowed the Bloody Knuckles to make off with the true shepherd’s crosier, Eberius rages for a few painful moments before muttering to himself that he’ll need to find another team to hunt down the Bloody Knuckles before the relic disappears from Sandpoint for good. 
+
+
+
+Ruins 
+Pawns: 1 × goblin boss, 4 × goblin, 1 × wolf, 1 pawn per PC 
+Having purchased information from a roving band of Varisian wanderers coming through Absalom, the Pathfinder Society has tasked the PCs with investigating a set of ruins in northern Varisia. Believing the site to be a lost Thassilonian outpost, the Society wants the PCs to bring back any artifacts relating to the ancient culture. of the Runelord, the image grants them a rare and valuable Thassilonian relic.
+As the PCs continue to explore the ruins, the self-imposed goblin guardians of the Rockwhelp tribe assault them. 
+Adventure Summary 
+The PCs make their way into the depths of the Lurkwood in northern Varisia and come upon a series of ruins. There, they trigger a long-dormant programmed illusion, which demands they declare the glories of Xanderghul, Runelord of Pride. If they can convince the illusion of their admiration Getting Started “Esteemed adventurers, we have a wonderful opportunity to be among the first to explore an ancient Thassilonian ruin here in Varisia,” Pathfinder Venture-Captain Sheila Heidmarch exclaims as you sit in the Rusty Dragon tavern and inn, eating your breakfast. The offer extended by her last night over drinks piqued your curiosity regarding both treasure to be gained and possible recruitment into the Pathfinder Society. 
+“While our land is full of such sites, many have been scoured by adventurers and wanderers since Thassilon fell ten thousand years ago. Few empires have risen to the same height of power and mastery of magic since the runelords’ demise, and the wealth of knowledge hidden in the stones of the monuments they left behind is beyond compare in the Inner Sea. I need you to explore this site and retrieve whatever relics you can find. They will be invaluable to our research and may open further opportunities for exploration in the future.” 
+Allow the PCs to ask any questions they may have of Sheila Heidmarch regarding the ruins they are about to explore. 
+
+Below are some of the more common questions and the venture-captain’s responses. 
+Where is this ruin? “It’s deep in the forest of Lurkwood, north of Riddleport. I’ve arranged a small fishing vessel to escort you as far as the city, but you’ll need to travel over land to the forest itself.” 
+What can you tell us about Thassilon or the runelords? 
+“Thassilon was a powerful ancient empire that once spanned all of what is now Varisia and beyond. It was broken into seven realms, each ruled by a different feuding runelord who had gained power by harnessing the power of sin magic. Despite its power, Thassilon crumbled and the Runelords disappeared ten thousand years ago.” 
+What sort of dangers do you expect us to run into?
+“That’s hard to say. While Thassilon is long dead, many of its defenses and guardians still remain and protect the runelords’ ancient secrets. Be ready for anything!” 
+When the PCs are ready to move on, describe their journey to Riddleport and a brief overland trek into the forest of Lurkwood and proceed directly into the first encounter. 
+
+The Runelord’s Gift 
+The densely packed trees of the Lurkwood forest begin to thin until a great clearing comes into view. Beyond the forest clearing and past the white stone walkway stand the remains of what must have once been a striking structure. 
+Only fragments of the eastern and western walls remain, with a walkway leading up from the south. In the center of this now open edifice is a ten-foot-wide elevated stone platform decorated with various strange runes. 
+Aside from the platform, there is little of note here. Those inspecting the runes on the platform can make a DC 15 Knowledge Arcana check to recognize them as Thassilonian runes. The first PC who comes within 5 feet of the platform in the center of the structure triggers a long-forgotten programmed illusion effect as described below: 
+A flicker of light encompasses the platform for a moment, only to be replaced by the form of a beautiful middle-aged woman draped in the finest of rune-covered robes. 
+The woman’s eyes look out toward the walkway, taking no note of the decay or destruction—her gaze intent on something beyond sight. Without warning, a soothing voice comes from the form as her lips begin to move. 
+“Servant of the blessed Runelord Xanderghul, I speak on behalf of the mighty lord of this land. As you have come to this place, you no doubt seek the great gifts that mighty Xanderghul has to offer, and they shall be yours. All the great Xanderghul asks in return is your supplication and statement of devotion to the powerful lord of these lands. I await your reply so I may relay it to the great one.”  
+This illusory envoy from the Runelord of Pride is a highly specialized spell meant to receive praise for the Runelord. Be sure to clarify that the voice itself is a telepathic effect, so the PCs can understand the words of the image. 
+When the PCs are ready, they may at tempt to appease the envoy with praises of the great Runelord Xanderghul. 
+Each PC is allowed one attempt, though other PCs may assist without giving up their own attempt. If a PC assists, he must add in his own embellishment of Xanderghul’s greatness. In order to satisfy the envoy, at least one PC needs to make a successful DC 16 Bluff or Diplomacy check. 
+If a PC fails a check, that PC suffers the ire of Xanderghul’s envoy and is shaken (Game Master’s Guide 95) for the next minute. Should all PCs fail the check, the spell resets after 1 hour. 
+Once a PC successfully appeases the envoy of Xanderghul, the image smiles and nods her head before disappearing in another flash of light. In the wake of her disappearance, the envoy is replaced with a token—a stone medallion emblazoned with a rune of a seven-pointed star that would be of great interest to the Pathfinder Society. After bestowing the medallion, the remaining magical power of the outpost is exhausted and the envoy does not return. 
+Treasure: A DC 20 Knowledge Arcana or Knowledge History check reveals the historical significance of the device: it is a symbol of dedication to the runelords and a means for the runelords to keep an eye on their subjects from a distance. 
+During Combat On his first turn, Hork uses his arcane bond special ability to cast burning hands (DC 12). On subsequent turns Hork tries to bash any PC who targets him with spells, any PC tripped
+by Yarg, or a PC wearing the Thassilonian medallion. 
+Morale Hork cannot stand the thought of anybody else bearing “his” rune, and he fights to the death even if given the PCs’ medallion.
+
+Yarg 
+CR 1 
+XP 400 
+Inheritors of Thassilon (CR 4)
+As the PCs make their way further into the ruins, their path takes them down a long-crumbled avenue of columns and archways. 
+Wolf (Game Master’s Guide 83) 
+hp 13 
+Fort +5, Ref +5, Will +1 
+TACTICS 
+The sun beams from the sky above into the open grassland, reflecting off scattered white stones that litter the area. 
+Leading back to the forest is a long stretch of stonework road; toppled columns and pillars hint at its great age. 
+The walkway is surrounded by open grass, but any areasalong the path covered in debris are considered dense rubble (Game Master’s Guide 42). 
+Creatures: Hiding among the columns are several raiders from the Rockwhelp goblin tribe, which moved into the area only recently. It did not take long for them to trip the programmed illusion effect, and the entire tribe fell in love with the conjured woman. Ever since, they have jealously guarded her from outsiders. None is so fierce a champion of the nameless woman as Hork Shalesmash, who managed
+to win a medallion from the envoy, and has now claimed Xanderghul’s rune as his own. Despite his recklessness, he has successfully led the tribe in countless raids on would-be trespassers to defend the site. 
+If the PCs are not actively stealthy while dealing with the earlier encounter and traversing the walkway, the goblins are aware of their presence and hide behind pillars in preparation to attack. Allow the PCs a DC 18 Perception check to noticethe raiders and act in a surprise round (Hero’s Handbook 54). 
+Hork Shalesmash rides into view on Yarg, his wolf mount, at the beginning of the first round and does not participate in the surprise round. 
+
+Hork Shalesmash 
+CR 1 
+XP 400 
+Goblin Boss (Game Master’s Guide 72) 
+hp 16 
+TACTICS 
+Before Combat Hork brazenly strides up towards the PCs once his followers are in place. 
+Before Combat Yarg is loyal to Hork, and waits to attack until Hork casts burning hands. 
+During Combat Yarg attempts to bite and trip any PC Hork is focusing on attacking. He continues to attack the same PC until Hork shifts to a new target. If Hork falls in combat, Yarg guards him against any further PC attacks. 
+Morale Yarg fights to the death, protecting Hork. 
+Rockwhelp Raider (4) 
+
+CR 1/3 
+XP 135 each 
+Goblin (Game Master’s Guide 72) 
+hp 6 each 
+TACTICS 
+Before Combat 
+The raiders hide themselves among the ruins where the PCs are likely to wander. 
+During Combat The raiders attack viciously but with little direction. 
+They try to give Hork plenty of space, as he is known to be reckless for even a goblin. 
+Morale If Hork is defeated, all remaining goblins attempt to flee. 
+Development: After the PCs defeat Hork Shalesmash, Yarg, and the goblin warriors, they may continue to explore the ruins, but can’t find anything of particular value other than as historical novelties.  They face no further threats as they explore the ruins. 
+Conclusion 
+When the PCs return to Sandpoint, Venture-Captain Heidmarch thanks them for their efforts in exploring the newly discovered ruin and praises them for retrieving the ancient medallion. 
+She remarks that possessing the medallion might have helped them evade other guardians of the ruins. Any PC who elaborates on the battle with the goblins receives only a slow, chagrined shake of the head from Venture-Captain Heidmarch in response. 
+
+
+
+
+
+Crypts 
+Pawns: 1 × skeletal champion, 4 × skeletons, 1 pawn per PC 
+Several nights ago, a group of thugs pulled off a successful scam in the town of Sandpoint. At their leader’s urging, they immediately set off through the countryside, thinking to put some distance  between themselves and the now-upset villagers of Sandpoint and let the incident fade. Two nights ago, they found themselves on the outskirts of the town of Galduria, and decided to make a tour of every tavern in town to celebrate their recent success. Midway through their tour, they encountered a horse-drawn wagon carrying a lone, haggard crone. Heavily influenced by the flagons of wine and ale they had consumed, the revelers stopped the vulnerable-looking old woman and roughed her up, beating her into unconsciousness and stealing a few gunny sacks of seemingly random possessions from her wagon. 
+Among the items they found when they dumped the contents on the ground, the miscreants discovered a macabre black candle covered in strange sigils and smelling faintly of blood. In their drunken haze, they went to a local cemetery and lit it, performing a mock rite, imitating witches’ hexes and cultish chants. Amid all their fun, they didn’t notice when a pair of shambling corpses rose from a nearby  crypt and began dancing among them. Before they could recover from their drunken torpor, the undead tore them all to shreds. 
+The player characters are sent by visiting Pathfinder Society Venture-Captain Sheila Heidmarch from Sandpoint into the Varisian town of Galduria to investigate rumors of an undead uprising. There, they must question the townsfolk before venturing into the cemetery late at night to confront the menace head-on. no obstacles. A successful DC 15 Knowledge Local check allows a PC to remember that the unorthodox magical studies of Galduria’s Twilight Academy recently led to a group necromancers losing control of their experimental zombies, which ended up wreaking havoc on the city and the surrounding countryside. As the PCs approach the town, they find the streets are largely empty and a constant fog hangs in the air, the result of vapor from the hot spring waters filling nearby Ember Lake condensing in the chill of early Varisian winter. A feeling of isolation and loneliness permeates the destitute boundary of town. When the PCs arrive, they find it devoid of the hustle and bustle of crowds that they are accustomed to from Sandpoint. The few folks walking down the streets move at a brisk pace, looking ready to break into a run at a moment’s notice. 
+GETTING STARTED GALDURIA OUTSKIRTS 
+SUMMARY 
+Venture-Captain Sheila Heidmarch leads the PCs through the town of Sandpoint as she visits her contacts in the city. On a crowded street, a man suddenly approaches her and presents his wayfinder (a magical compass used by Pathfinders). He speaks to her quickly and softly, then departs into the crowd and is never seen again. Read the following to get the adventure underway. 
+In the hustle and bustle of Sandpoint’s market, the smells of spices and other exotic aromas dance in the air. After a brief conversation with a man brandishing a mysterious golden compass, Venture-Captain Sheila Heidmarch turns around. She glance at of you, gathering your attention before she begins speaking in a low voice. 
+“It has come to my attention that trouble is afoot in the small town of Galduria, northeast of our current location. The town is known for being home to the Twilight Academy, a school of magic dedicated to... unconventional topics. Reports among our fellow agents speak of the disappearance of some young thugs who assaulted a teacher of the Academy, Hazelindra, on her way home. Furthermore, rumors speak of terrors that lurk around the town’s graveyard, which are being blamed on the Academy. I also heard that a strange light emanates from the graveyard at night. I believe the light, the disappearances, and the walking dead may be linked. If this is indeed the case, whatever ties the three together is worthy of investigation and research. Find out everything you can about the situation, and report
+back to me. Keep your work quiet.” 
+With that, the venture-captain whispers to her servant, who immediately begins digging for small bags of coin to hand out. Heidmarch says, “This should be enough money for each of you to secure safe passage to and from Galduria. I look forward to hearing your report.” She turns and disappears with her servant into the crowds of the marketplace. 
+
+Terrors
+The travel to Galduria takes 2 days, and the PCs meet no difficulty along the roads, encountering few travelers and Galduria is a small trading town on the banks of Ember Lake. 
+The disturbances have come from the western part of the town, the area closest to the graveyard. A widening in the street forms a plaza where a small stream flows into a cracked fountain. Around the plaza are the local inn, a small temple of Desna, and a watch post from which a single guard eyes anyone approaching suspiciously but does nothing. 
+The PCs have a number of options to investigate the strange happenings in and around the area, which they can pursue in any order. They need not engage in all the listed activities, and GMs should feel free to move the story along as they see fit by interjecting one or skipping another. Only the meeting with the witch Hazelindra is mandatory for the adventure, as she is knows about the haunted candle
+and can provide the PCs with the information they need to complete their mission. 
+Innkeeper: 
+The local innkeeper, a man named Eldon Forber, knows that a few nights ago, a group of thugs came through, but they paid him not to tell anyone about their presence in town. While his inebriated patrons rambled to one another about their exploits that night, the innkeeper overheard that they planned to use “the candle from that old crone” in some game of dark mockery at the graveyard. Assuming the candle was associated with the Twilight Academy, he purposefully stopped listening to the drunken ruffians’ tale, if only so he could plausible deny any knowledge down the line. Forber
+takes his promise not to speak of the thugs seriously, and can only be convinced to talk about them through trickery. A PC can get the above information out of him with a successful DC 15 Bluff check.
+Peasants: 
+The town’s poor and downtrodden inhabitants have heard the sounds of wailing and shuffling movements in the night air, emanating from the graveyard west of town, and because of their superstition, refuse to go out at night. 
+Rumors suggest that another of the Twilight Academy’s fell rituals must have gone awry. Stoic and resigned, the peasants seem to accept their self-imposed curfew as their lot in life and don’t give any signs that they feel anything needs to change. If PCs ask about the missing thugs or inquire about anything suspicious on the night they disappeared, they can learn from one peasant that she heard drunken singing from the graveyard on the night in question with a successful DC 15 Diplomacy check to gather information. 
+Priest: 
+Amelon Birm, the local priest of Desna and sole curate of the small temple that graces the center of the village, has been missing since the day after the undead first appeared. While the townsfolk assume he went to Sandpointto retrieve necessary spell components or reinforcements to fight what they believe to be a growing threat to their town, he was in fact killed the very first night after the drunken thugs’ visit, when he tried to end the undead threat himself. 
+A successful DC 15 Perception check while searching the church uncovers the priest’s records, the last entry in which states that he was going to investigate the old cemetery near town to see what the shapes moving in front of that strange light were. 
+Watch:
+Galduria’s watch, composed of four stout men led by a myopic retired crusader, reports a few run-ins with stray undead that wandered down from the graveyard in the past few days, generally alone and without purpose. The men are worried, and none of them are willing to leave the town after dark. PCs who succeed at a DC 15 Sense Motive check realize that one of the watchmen isn’t telling the whole truth; if coerced a little, he reveals that he has seen an eerie light in the graveyard the past few nights, flickering from dusk until dawn, and that he thinks the undead abominations are 
+burning a bright fire each night. 
+Witch: 
+The old witch Hazelindra lives outside of town and was attacked by the thugs on the way home from her teaching position at the Twilight Academy. Hazelindra is particularly suspicious of strangers after being beaten and robbed the other night—and she also fears that she’ll be blamed for the current undead uprising. The PCs must convince her of their benign intentions before she is willing
+to speak with them, much less open her shuttered home to them. They can convince her with a successful DC 15 Bluff or Diplomacy check. 
+If they convince her to talk, she tells them that a group of thugs beat her up while she was traveling on the road home and stole some of her items, including a magical item she’s been studying recently called a candle of night. She informs them that when the candle is lit, it animates any dead bodies within the area around it as undead, but it remains invisible during daylight. In addition, it cannot be extinguished save by snuffing the flame with live-flowing blood. Hazelindra adds that the PCs can keep the candle as long as they do not tell the Academy of her connection to this situation.
+
+THE MAUSOLEUM (CR 4) 
+The cemetery is half a mile west of the town, and is accessible via a narrow footpath through the dense, foggy foothills surrounding Galduria. If the PCs travel there during the day, they find the remains of the undead’s previous victims and signs of undead activity, but see neither walking undead nor the candle. 
+At night, however, a bright, flickering light pierces the cold mist that permeates the graveyard, emanating from a crypt in the center of the necropolis. Following the beacon leads the  PCs to the candle, which is in a small mausoleum. As the PCs approach the mausoleum at night, read the following to set the scene. 
+A flickering candle shines like a beacon from atop a stone sarcophagus in this cold, dank crypt. Two rows of columns support the ceiling around a second sarcophagus, and six somber statues stand vigil  over the place of rest. The figures throw broken shadows on the walls, giving the appearance of movement and leaving swathes of the room enshrouded in darkness. The air smells of dampness and freshly  churned earth. Creatures: A group of skeletons, raised by the candle of night, lurk in the dark shadows of the mausoleum, and attack the PCs as they enter to retrieve the magic candle. The four skeletons are dressed like thugs—in fact, these are the remains of the thugs who activated the candle. The skeletal champion wears the garb of a cleric of Desna (identifiable with a successful DC 15 Knowledge Local or Knowledge Religion check). Defeating the undead is easier if the PCs extinguish the candle of night—see the Development section. 
+HUMAN SKELETON (4) 
+CR 1/3 
+XP 135 each 
+hp 4 each (Game Master’s Guide 80) 
+SKELETAL CHAMPION 
+XP 600 
+hp 17 (Game Master’s Guide 79) 
+CR 2 
+Development: 
+With the skeletons defeated, the PCs can deal with the candle of night. With a successful DC 15 Knowledge Arcana or Knowledge Religion check, the PCs learn this minor magic item cannot be extinguished save by snuffing the flame with live-flowing blood. In order for the PCs to put out its flame (and prevent more undead from rising from graves along their path back to Sandpoint), they must douse the candle in blood from an open wound (dealing at least 1d4 points of damage). When the flame goes out, any animated undead in the graveyard quickly break apart, losing 1 of hit point per round.
+CONCLUSION 
+The townsfolk of Galduria thank the PCs for ending the threat, and Hazelindra is most pleased, offering them a hearty meal as a reward for their efforts, as well as allowing them to keep the candle of night. When the PCs head back to Sandpoint to deliver the candle to Venture-Captain Sheila Heidmarch, she expresses her gratitude and admiration of the PCs’ work, and promises that she will consider them for any future missions she may have. 
+
+
+
+
+
+
+
+Magic Academy 
+
+Pawns: 1 × mimic, 1 pawn per PC 
+The largest magic academy near Sandpoint is Korvosa’s Acadamae, where the staff and students summon countless devils and other horrors from beyond this world each year. 
+Like most universities, the Acadamae is rife with intense academic rivalries, and sometimes the rivalries can escalate with lethal consequences. Linna Montrovale, an instructor and faithful worshipper of Desna, recently decided that the increasing friction between her and another instructor was growing too volatile to manage, given her advanced age. 
+Concerned with her security, she seeks to sell an ancient spellbook to the Pathfinder Society and make her escape from Korvosa with other sensitive documents tied to her research. The spellbook is titled the Azlanti Apprentice’s Codex—a book of 1st-level spells and notes. What makes the tome valuable is that many believe it was penned by an apprentice of Aroden before he rose to godhood thousands of years ago. While the veracity of the book’s origin remains unconfirmed, the arcane spells within are worth investigation by the Pathfinder Society, and perhaps the diviners in the organization can determine the book’s true nature. 
+To make good her escape, she contacted Venture-Captain Sheila Heidmarch, who is currently visiting Sandpoint. Being cautious, she only told Heidmarch what she thought the venture-captain needed to know: she has the Codex, and for a fairly modest price she will let the Society have it, but she needs to be discrete about it. 
+Heidmarch, suspicious that Montrovale might be in trouble, decided to act quickly, even if her instincts told her that getting involved with Academae politics could be risky. 
+Knowing that making the trip to Korvosa herself would likely tip off whoever might be watching the elderly professor and put both at greater risk, the venture-captain cobbled together a team in Sandpoint to hand over the agreed-on price to Montrovale, return with the Codex, and hopefully find out what the professor is up to. 
+As it turns out, the venture-captain was right to worry -- Montrovale’s rival, Gorbic Salmore, learned of her duplicity and sought the Codex for himself. With little time to prepare, he dispatched Cheh, a captive mimic, to subdue Montrovale in her private classroom and retrieve the book from her. 
+Salmore warned the mimic that Pathfinders might be on the way, and instructed it to be quick about its work. Cheh sneaked into Linna’s classroom and performed a quick search for the book. 
+When it heard someone approaching the room, it jammed the room’s lectern in a closet and shapechanged to disguise itself as the hidden reading stand. Montrovale entered the room just as Cheh finished its preparations, and noticing nothing amiss, she began to transfer several books from the classroom’s shelves to her desk near the lectern. Once Linna had gathered several volumes, Cheh lashed out and
+grabbed the aging instructor. Stuck in Cheh’s adhesive, Linna was unable to escape, and she struggled to resist Cheh’s brief interrogation before the mimic’s constriction caused her to pass out. 
+Cheh searched through the books that Montrovale had gathered, but he still could not find the Azlanti Apprentice’s Codex among them. Bored, and content to lick its wounds until somebody else finds the  book for it, the mimic now waits in the classroom. 
+
+SUMMARY 
+The player characters are dispatched by Sandpoint’s venture-captain, Sheila Heidmarch. Quickly moving to the Acadamae in nearby Korvosa, they make inquiries to find Montrovale’s classroom and discover her in a state of distress with her pet cat crying out and trying to rouse her. Should the PCs revive her, the mimic attacks and attempts to steal the Azlanti Apprentice’s Codex. 
+GETTING STARTED 
+A cool breeze blows through the streets of Sandpoint, circulating the spicy scent of the thileu bark dipping sauce that accompanies your reefclaw pasties. Having just concluded business to the north, you are enjoying the first meal in weeks that wasn’t roasted on a stick or boiled in a helmet; the difference, you determine while licking sauce from your fingers, is refreshing. Suddenly Venture-Captain
+Sheila Heidmarch storms into the Rusty Dragon’s open door and immediately joins you at your table. 
+“Well met, friends! I regret sending you out on such short notice, but I have need of your services quickly. 
+“An friend of mine has agreed to turn over a very important text to the Pathfinder Society at great risk to herself. In return I’m sending you with funds to assist in her escape from increasingly hostile elements in the Korvosan magic school known as the Academae. 
+“Take this payment to Professor Linna Montrovale at the Academae, and let her know that I sent you. When you present the payment to her, she should provide you with the Azlanti Apprentice’s Codex. Once you have it, make haste returning to Sandpoint, and of course, be careful! Other scholars might not take kindly to losing a text they never realized existed under their own roof, so try to avoid bringing up the subject around them.” 
+Sheila drops a clinking bag of valuable gems on the table, passes a map to Korvosa across the steaming plates to your hands, and nods authoritatively. She stands, cocks her head to one side, and exits the tavern as quickly as she entered, obviously busy. 
+
+LINNA MONTROVALE’S CLASSROOM (CR 2 AND CR 4) 
+The adventurers travel to Korvosa without incident and begin just outside the locked wooden door to Professor Montrovale’s classroom in one of the many academic buildings of the imposing Academae (hardness 5, hp 15, Break DC 18, Disable Device DC 15; see page 34 of the Game Master’s Guide formore information on breaking objects). A PC who succeeds on a DC 15 Perception check can hear the sound of a cat mewling on the other side of the door. 
+When the adventurers open the door to the room, read the following text. 
+This old classroom has been well kept—magical, flameless torches light the room, darkwood bookshelves line the walls, and the hardwood floors are well polished. But the room is marred by signs of a recent scuffle. Books have been pulled down and thrown to the floor, papers are scattered, and in the classroom’s summoning circle near a polished mahogany lectern lies the crumpled form of an elderly human female. She lies face up, dressed in a dark-colored professor’s smock. A black cat perches on the woman’s chest, alternately crying out and licking her face, as if trying to awaken its master. 
+
+
+Creatures: 
+The mimic Cheh lurks in this room, which also contains Apex, Professor Montrovale’s pet cat, and the unconscious body of Professor Montrovale herself. Apex acts distraught at her master’s  injuries, while Cheh hides in plain sight as a lectern until he can get what he wants from the PCs. 
+CHEH 
+CR 4 
+XP 1,200 
+Mimic (Game Master’s Guide 75) 
+hp 52 
+PCs who examine Montrovale may make Heal checks to discover the following information: 
+
+Montrovale is alive, but her breathing is shallow. 
+
+Montrovale has several cracked ribs and serious bruising. In places her robes are coated in a gray powdery substance (a further DC 15 Knowledge Dungeoneering check identifies this powder as the dried adhesive of an underground creature). 
+
+It appears that the trauma was caused by something constricting Montrovale until she passed out. 
+Cheh’s attack has left Montrovale on the verge of death. 
+But Desna smiled upon her, and though she lies unconscious on the floor, she is currently stable at –1 hit point. Should the mimic attack her again, however, she has no way to defend herself. To revive her to the point that she can answer questions, the PCs will have to think on their feet. Montrovale can be healed to a maximum of 7 hit points. Healing her brings her to consciousness, but she is barely coherent and extremely fragile. 
+Once Montrovale regains her senses, she is able to recount what little she remembers of what happened to her and how she ended up unconscious on the floor. She tells the characters, “I was trying to find some papers on the lectern, and that’s the last thing I remember.” 
+Trap: While the characters assist Montrovale, Apex moves to a nearby bookshelf and starts to yowl. Should the PCs investigate (Perception DC 15 or easier if they pull books from the shelves), they notice a safe located behind the books. 
+Cheh wanted to open the safe but found it too difficult for his aberrant form to manipulate. The cat, seeing the mimic focusing its attention there, knew something must be hidden there. Apex continues to howl someone opens the safe or Montrovale awakens. 
+
+The safe is not very high quality, and it serves as a trap rather than a secure means of storage. PCs can pick the lock with a DC 15 Disable Device check, but doing so triggers a burning hands trap (see below). 
+A DC 15 
+Disable Device check allows a PC to determine that the safe is not very secure at all and can be bypassed by merely prying it from the wall (Break DC 15), exposing a hole in which the safe’s contents are visible. 
+BURNING HANDS TRAP 
+CR 2 
+Type magic; Perception DC 26; Disable Device DC 26 
+If the PCs set off the trap and it appears that the book is lost, or if Cheh finds out that the book is a fake, he attacks the PCs if he hasn’t already.
+Treasure: 
+Professor Montrovale has a small cache of potions in her desk drawer, which the PCs can find with a successful DC 20 Perception check. Among the items within are two potions of cure light wounds, a potion of bull’s strength, and a scroll of mage armor. She also keeps a bottle labeled “Medicinal Brew” underneath her desk. The bottle contains a strong alcohol that, if poured on the mimic, negates its adhesive for 3 rounds. 
+EFFECTS CONCLUSION 
+Trigger touch; Reset none 
+Effect spell effect burning hands (2d4 fire damage, DC 11 Reflex save for half damage); multiple targets (all targets in a 15-ft.-long cone) Once the PCs dispatch the mimic, Montrovale thanks them for
+rescuing her from certain death. If they present her with the bag of gems given to them by Sheila Heidmarch, she in turn gives them the Academae badge she wears upon her cloak. 
+She tells them that Sheila will know the command word to change it back into the spellbook. If the PCs question her about the command word, she states that it was the nickname she had for the venture-captain when they were childhood friends. She then dons a hat of disguise, taking the form of a pimply young student, and quickly departs. 
+Once the safe has been opened, the players find the burned remains of a false copy of the Azlanti Apprentice’s Codex. If the PCs somehow open the safe without setting off the trap, the book they find in the safe looks authentic from the outside, but all its pages are blank except for the inscription below. 
+
+“Dear Gorbic, 
+Nice try! 
+Best Wishes, 
+Linna Montrovale” 
+
+
+
+
+Ice Cavern 
+Pawns: 1 human cleric (male), 2 ghouls, 1 pawn per PC 
+The scholars Mena Zamola of Sandpoint and Duso Galino of Galduria have been great friends for years. Though both towns are under the regional administration of Magnimar, Galduria is slightly larger than Sandpoint, due in part to the presence of the Twilight Academy, a well-respected school of arcane arts. 
+Several times a year, Mena and Duso exchange letters and take turns traveling to visit each other. Duso made plans to come to Sandpoint and stay through the winter, but he is now nearly a week overdue, making Mena quite concerned. 
+Unbeknownst to her, Tibaldo Russo, a monk from the nearby Windsong Abbey, has been reading and researching several ancient texts forgotten in the abbey’s extensive private library. Long hours reading accounts of madness and the power of ancient demon spirits have shattered his grip on reality and driven him insane, and as a result, Tibaldo has become obsessed with the notion of feeding on the 
+flesh of his fellow monks. When he and two other monks journeyed to Galduria to resupply the monastery, they met Duso Galino and decided to escort him back to their monastery, which lies halfway between the two towns. In truth, Tibaldo is about to feed Galino and the unsuspecting monks to himself and his ghoul minions. 
+SUMMARY 
+Mena Zamola hires the PCs to locate her friend Duso. Traveling north from Sandpoint to the coastal mountains, the PCs must brave the elements as late fall turns to winter. Once there, they follow a trail
+into a frigid mountain pass, discovering a cave that travellers often use as shelter. Inside the cave, the PCs must deal with an insane monk and his hungry ghoul minions. 
+GETTING STARTED 
+Read the following to get the adventure underway: 
+A middle-aged woman wearing a simple cloak over a blue dress enters the cozy warmth of the Rusty Dragon Inn, a gust of late fall chill blowing in behind her. She walks purposefully toward your table, her face tight and serious. “Good day to you, adventurers. May I join you? I have need of your help.” 
+Her expression relaxes slightly and she lets out a sigh as she sits down. “My name is Mena Zamola. I have been expecting a friend from Galduria, a man named Duso Galino, but he’s s ix days overdue. I fear the worst. I know he was traveling west out of Galduria and following the coastal mountains south to Windsong Abbey, and then from there to Sandpoint. 
+I have sent a messenger to the Abbey already, but he hasn’t arrived there, either. I know there’s a cave sometimes used by travelers in a valley pass between the two—maybe he took shelter there. I have a map.” She reaches into a pocket and withdraws a folded parchment, then and lays it on the table. 
+“Ordinarily I would probably go to Shelalu for her help, but Sheriff Hemlock told me she hasn’t been around town the last several days.” She pauses to calm herself. “I can pay you,” she blurts out, tears welling up in her eyes. “Four hundred gold. It’s all I have. Please, you have to find Duso!” 
+
+The PCs likely have questions for Mena. Below are some sample answers. Mena answers any questions to the best of her ability. 
+How long should the trip take? “That route should take eight or nine days. It’s a two-day trip from Sandpoint to Windsong Abbey.” 
+Who was Duso traveling with? “According to the letter he sent me a few days before leaving, Duso was to join several priests heading back to Windsong Abbey for the first part of his trip.” 
+Where can we get traveling supplies? “Ven Vinder’s General Store would be a good place to get what you need for traveling into the mountains and cave—ropes and climbing aids, cold weather gear, and so on.” (The cold weather outfit can be found in Ultimate Equipment, page 88, and grants a +5 bonus to Fort saves vs. cold weather.) 
+WINDSONG ABBEY 
+Located along the northern portion of the Lost Coast Road, Windsong Abbey is a religious retreat for devotees of any faith to study, worship, and grow in peace; its doors are closed to all but those who have taken a vow of pacifism. The PCs may wish to stop here along the way to further investigate what Mena has told them. A monk named Joachim can tell them three monks of the Abbey traveled to Galduria a few weeks ago and have not yet returned. The three missing monks are Piotr Oja, Ollie Lenstra,and Tibaldo Russo. Brother Joachim informs the PCs there is a cave that has been used for shelter in the mountains along the route to Galduria, and describes how the PCs can locate it. 
+THE VALLEY PASS 
+As the PCs travel further north, they can see and feel winter’s approach. Small patches of snow linger in shaded areas, the grasses are a dull yellow, and trees have dropped their leaves. 
+The temperature is cool but not yet cold enough to expose them to any environmental hazards, even overnight. 
+Locating the valley pass and the cave is not difficult thanks to Mena’s map, but as the PCs approach, the winds shift out of the north, bringing a sudden, frigid cold that dangerously drops the  temperature. In the time that it takes the PCs to reach the cave, each must succeed at a DC 15 Fort save against the cold (Game Master’s Guide 49) or take 1d6 points of damage and be fatigued 
+(Game Master’s Guide 94). 
+THE CAVE 
+The mouth of the cave is somewhat worn by the passage of travelers, as it disappears into the mountain darkness within, and the trail markings of Varisian travelers around the entrance indicate 
+safe shelter within. What little of the tunnel is visible is icy and slopes upward into the caves within, and the roof is blackened with many layers of soot. 
+The PCs need to provide some source of light once they enter the cave, as it is dark inside. Movement in the tunnel is made difficult by ice (see page 49 of the Game Master’s Guide). Characters 
+spend 2 squares of movement to enter a square covered by ice, and the DC for Acrobatics checks increases by 5. 
+THE ICY TUNNEL 
+Although narrow and icy, the tunnel is tall enough to accommodate even the tallest human. The soot on the ceiling marks a rudimentary trail that leads further, but the rocky, ice-covered western passage
+continues to slope upward at a treacherous angle. Each PC attempting to climb up the icy slope to the west must succeed at a DC 15 Climb check. Failing the check by 5 or more results in the character taking 1d6 points of nonlethal damage as he tumbles ungracefully to the bottom. Clever PCs might use rope to make the climb easier. 
+
+THE SLIPPERY SLOPE 
+The slick tunnel ascends, narrowing sharply to the south before veering down and to the east. Beyond, the tunnel widens again, but icy stalactites hanging from the ceiling fill much of that space.
+A dim light flickers from much deeper within the cave system. The light is actually coming from the Back Cavern, lighting that area and spilling into the Front Cavern. 
+Each PC attempting to climb down the icy slope must succeed at a DC 15 Climb check. When the PCs enter this area, make a Perception check for the ghouls waiting in the Front Cavern. Unless the PCs are
+making an effort to approach stealthily, the DC for this Perception check is 13. If the ghouls notice the PCs, they move to set an ambush. 
+THE FRONT CAVERN 
+Chunks of icy rubble litter the ground of the western portion of this cavern. There is a faint drip coming from the back of the cavern, and an icy, haphazard mess of jagged rocks juts from the walls.
+Along the eastern wall, a corpse lies face-down in a brownish-red mix of snow, slush, and scraps of fabric. A soot trail snakes across the cavern’s ceiling. 
+Creatures: There are two ghouls here making a meal out of what is left of a human man. Preferring fresh meat, the ghouls try to ambush the PCs using the partial walls to their advantage. After the first round of combat Tibaldo Russo joins the fight, entering from the Back Cavern shouting about the arrival of “fresh meat.”  
+Treasure: 
+The corpse is Piotr Oja, who was returning to Windsong Abby as part of Duso’s group. Half buried in the snow is a backpack and bedroll, a flint and steel, a small cooking pot, a masterwork silver starknife, and a very slushy potion of cure moderate wounds. 
+
+
+GHOULS (2) 
+CR 1 
+XP 400 each 
+Ghoul (Game Master’s Guide 70) 
+hp 13 each 
+TIBALDO RUSSO 
+CR 3 
+XP 800 
+Evil Cleric (Game Master’s Guide 67) 
+hp 32 
+THE BACK CAVERN 
+It’s warmer here than in the tunnels to the south, and the cavern seems to have been converted into a makeshift living area. The walls are slick and damp, and there is a strong earthy fragrance. A
+cooking spit with an iron kettle hanging on it stands over a fire pit ringed with large stones, and a pile of furs, bedrolls, and blankets lies near the warmth of the pit in the northwestern corner. In the
+far south end of the cavern lie a corpses stripped entirely of flesh, muscle, and organs, and a groaning, terribly wounded man. 
+Creature: Tibaldo has taken up residence here and—along with the ghouls—has gorged himself on the flesh of his fellow monks, and is now starting in on Duso, slowly nibbling the man’s intestines. If for some reason he did not engage the PCs along with the ghouls in the Front Cavern, he shouts with joy and attacks with an insane, glassy-eyed stare. 
+Treasure: Hidden under the makeshift bed is a small chest that contains some assorted gems worth 300 gp, a scroll of stinking cloud, a man’s gold band ring with the name Galino engraved on the inner edge (125 gp), and 500 gold coins. 
+
+CONCLUSION 
+Duso is still alive, but in terrible shape. If the PCs patch him up (such as by giving him the potion of cure moderate wounds from the front cavern, using healing spells, or succeeding at a DC 15 Heal check), he grows well enough to finish his journey. If not, he dies within the hour. 
+Depending on the PCs’ results, Mena is either ecstatic or devastated. Either way, she insists on paying the PCs the gold as promised—though if Duso dies, she demands his gold ring as proof, asking that they leave it with her. The monks of Windsong Abbey are saddened to learn of the loss of their brothers but thank the PCs for putting an end to Tibaldo’s predation. 
+PFRPG CONVERSION 
+Pawns: 1 cruel devotee (NPC Codex Box), 2 ghouls (Bestiary Box) 
+TIBALDO RUSSO 
+CR 4 
+XP 1,200 
+Cruel Devotee (Pathfinder RPG NPC Codex 98) 
+hp 31 
+GHASTS (2) 
+CR 2 
+XP 600 each 
+Ghast (Pathfinder RPG Bestiary 146) 
+hp 17 each 
+
+
+
+
+
+Isles 
+
+Weeks ago, a sailor named Aldemar Lenstra shipwrecked on a small island in the Varisian Gulf. A beautiful young woman named Shabana who claimed to also be shipwrecked on the island nursed Aldemar back to health. 
+In truth, Shabana is a green hag who has lived on this small island for years, scavenging off the wrecks of passing ships. 
+Aldemar, suspicious of his good fortune, played along for severaldays. When Shabana left to gather food for them, however, he followed her and was shocked to see her in her true form, burying a chest of valuables he knew to belong to the captain of his wrecked ship, the Foul Thunder. Determined to leave the island, Aldemar quickly patched up a broken longboat and took his chances with the sea, where he was rescued by a passing ship. 
+Map: GameMastery Map Pack: Lost Island 
+
+Pawns: 1 elf cleric, 1 green hag, 1 pawn per PC 
+SUMMARY 
+A local scoundrel named Krzysztof Szabo bought a map from Aldemar showing the location of Scuttle Isle, as he called it. 
+Krzysztof hinted strongly at the presence of treasure, but left out any mention of Shabana for fear of losing the sale. Hired by Krzysztof, the PCs travel aboard the Sunrise’s Kiss to Scuttle Isle and
+accompany Krzysztof ashore in his search for the treasure, but not before meeting the beautiful Shabana. Unprepared for this many visitors, Shabana feigns happiness to see the PCs and tries to get
+them to “rescue” her before they discover her collected treasures. 
+GETTING STARTED 
+
+The Hagfish is well known in Sandpoint, particularly to gamblers, sailors, and fisherfolk along the waterfront area of town. Tonight the strong, delicious smell of Jargie’s Sea Stew draws in patrons, filling the popular tavern nearly to capacity. 
+Raucous laughter comes from the bar where an overdressed, black-haired young man is talking with Jargie, the owner. The man places an order, then wanders around the common room looking for an empty table, finding none. 
+Finally approaching your table, he smiles and asks to join you, not waiting for a response before sitting. 
+“My name is Krzysztof” he says, “Krzysztof Szabo. You know, I was just talking yesterday to the mayor about some of the great things you and your friends have done for Sandpoint recently.” His green eyes widen with excitement. “I’ve come into possession of a treasure map, and I could use the help of a few“—he looks from side to side, leaning in to the table— “trustworthy folks to help retrieve it.” He leans back and arches his eyebrow, patting his left breast. “I have secured passage on a ship, the Sunrise’s Kiss, which can take us to the island in question—Scuttle Isle, it’s called. I can promise you each a five percent share in what we find there once we safely return here to Sandpoint. We can leave tomorrow!” 
+The PCs may have questions for Krzysztof. Below are somelikely questions and answers. 
+How did you come by this map? “Through many indulgences with an old sea-dog named Aldemar. He was recently shipwrecked on this island, which is how he learned of the treasure buried there.” 
+How did Aldemar get rescued? “He says he patched a broken longboat and was picked up by a passing ship.” 
+Why didn’t he take the treasure with him (or go back for it)? “I couldn’t say. When he got back to dry land, he swore off the sea, and now spends most his days drinking heavily.” 
+What do you know about this island? “According to Aldemar, most of it is covered in dense growth, but he did mention there was at least some fresh water and a few fruit trees. There’s a nasty crosswind offshore that can smash a ship into the reef without much warning, causing a lot of wrecks and debris to wash up on the island.” 
+
+CAPTAIN ELLIANA SILVA 
+The Sunrise’s Kiss and Captain Elliana Silva are meant to be a recurring element in these Beginner Box Demos. Since the demos can be played in any order, the PCs may or may not have already had prior exposure to Captain Silva. She plays a small part in the demos Isles, Masks, and Waves. She is a friendly, tough but fair captain who follows Sarenrae and enjoys the sunrise at sea (hence the ship’s name). 
+SUNRISE’S KISS 
+At the end of the dock waits a three-masted sailing vessel, the Sunrise’s Kiss. Both the dock and the deck are a frenzy of activity, with sailorsand dockhands busy making preparations for the ship to depart. Fromthe deck, a raven-haired woman in a tricorne hat takes notice of the PCs’ approach and calls out, “Ahoy, Szabo! Captain Elliana Silva at your service. I take these to be the friends you spoke of? Welcome aboard the Sunrise’s Kiss. We’ll get you settled into the...’guest suite.’” A few of the sailors chuckle but continue working. “We should be underway within the hour.” 
+Shortly after being shown to the quarters below, next to the ship’s hold, Krzysztof excuses himself to make final preparations with Captain Silva. When he returns he seems agitated, explaining that
+after showing the map to the captain he had to offer her a larger share of the treasure because of the danger of sailing so close to Scuttle Isle. 
+The ship gets underway shortly afterward, and the 2-day journey is uneventful. The ship’s mess is located next to the PCs quarters and is a central point of activity at night, with card and dice games following the meal. Captain Silva joins her crew for meals and makes a point toinvite the PCs to join her to watch the sunrise in the morning so they can “start the day off right.” She asks any cleric of Sarenrae PC to lead a prayer, though she is not offended or upset by those who do not take her up on the offer. Krzysztof has a difficult time imagining starting his day that early and does not participate. 
+THE ISLAND 
+Shortly after dawn of the third day, the Sunrise’s Kiss drops anchor as close as Captain Silva is willing to take her. The crew lowers a small, six-person longboat that the PCs and Krzysztof can maneuver
+to the nearby Scuttle Isle. 
+There is a beach landing clear of shipwreck debris at the base of a freshwater waterfall that empties into a small brackish cove. 
+Upon securing the rowboat, Krzysztof’s excitement and enthusiasm are nearly unbearable. This energy quickly fades, though, with the discovery of fresh footprints near the waterfall and a well-worn
+switchback path up the cliff face. (PCs can notice this with a successful DC 10 Perception check, or else one of the sailors points them outto the rest of the group.) From the top of the waterfall, the green hag Shabana watches the PCs arrive. Acting quickly, she transforms her appearance to that of a beautiful young woman dressed in rags via disguise self. Hiding in the undergrowth, she makes her presence known to the PCs by pretending to lose her balance and fall. Once the PCs discover her, read the following. 
+
+“Oh! You’re real! Have my prayers are finally been answered?!” 
+The young woman is aflutter with relief and confusion. “Are you here to rescue me? Did my uncle’s men finally come save me?” Shabana lunges at the strongest-looking PC, embracing him or her and kissing both cheeks repeatedly. 
+Krzysztof seems confused by this development. “Your uncle?” he asks, shaking his head, “Krzysztof Szabo is nobody’s errand boy. We’re here on my own personal business. You can accompany us back when we’re done. How is it that you came to be stranded here?” 
+The PCs are likely to have many questions of their own at this point. The young woman introduces herself as Shabana Neergah, from a moderately wealthy family in Magnimar. Shabana seems very cold toward Krzysztof, talking mainly to the PCs and making lots of eye contact. 
+How long have you been here? “A lifetime, it seems. I’ve lost count of the days—maybe thirty? Fifty?” 
+How did you get here? “I was a passenger on a ship from Magnimar to Riddleport that sailed off course and wrecked. It was called the Coral’s Pride.” 
+
+1 SQUARE = 5 FEET 
+What have you been surviving off of? “I managed to find a few things washed up on the shore and used some of the debris to help protect me from the weather. There are plenty of fruits and plants to eat that grow here.” 
+What can you tell us about the treasure? “Treasure? Here?” 
+She laughs. “You’re welcome to what I have, but I’m afraid you’ll be disappointed. Most of my possessions were lost in the wreck. 
+Do you know Aldemar? “That lying rat! I nursed him back to health when his ship wrecked, and what did he do? Stole our food and left me behind in order to improve his own chances!” 
+When they’re done talking, Shabana says, “I should go back to my camp and get the few things I have left.” Giving an icy stare to Krzysztof, she continues, “I’m sure you’ll be done with your business
+by then. Whatever that is.” She then takes the hand of the PC she’sbeen flirting with, saying, “You can come with me while the others get the boat ready.” 
+
+SHABANA’S HUT 
+Shabana wades across the river at a shallow point, then heads down a faint trail that opens into a clearing. There is a small, wooden hut with a firepit to one side. Shabana asks any accompanying PCs to wait while she retrieves her bag from inside the hut—then reverts to her true form and attacks as soon as they aren’t looking. 
+SHABANA 
+CR 5 
+XP 1,600 
+Green Hag (Game Master’s Guide 73) 
+hp 58 
+Equipment 
+Shabana carries nothing of value except a weathered key that unlocks the buried chest, on a cord around her neck. 
+HIDDEN TREASURE 
+Whether the treasure is mentioned directly or not, Shabana suspects that is why the PCs are here, and if she survives the encounter at the hut, she immediately races to the treasure site to ambush the PCs there. 
+Following Aldemar’s map, it’s easy to pick up the trail at the top of the waterfall leading right toward the buried treasure. 
+Once there it takes 4 rounds of digging with a shovel or similar tool in the freshly turned dirt to uncover a locked wooden chest. 
+A PC can unlock the chest with a successful DC 25 Disable Device check or by using the key Shabana carries. 
+Treasure: 
+The chest contains an elemental gem (water); a scroll of vampiric touch; a wand of web; and various gold and platinum coins, gems, and jewelry worth 10,000 gp in total. 
+
+CONCLUSION 
+Defeating the green hag Shabana leaves the PCs free to recover the buried chest and return to the Sunrise’s Kiss. Captain Silva is relieved to have the rowboat return and gets underway back to Sandpoint immediately. Once in Sandpoint, Krzysztof sets out to sell the treasure, splitting the resulting coins as promised (500 gp for each PC). Smugly satisfied with his performance as a treasure hunter, he tells the PCs that he will gladly contact them again should he come across a similar opportunity. 
+PFRPG CONVERSION 
+SHABANA 
+CR 6 
+XP 2,400 
+Advanced Green Hag (Pathfinder RPG Bestiary 167, 294) 
+hp 76 
+
+
+
+
+Masks 
+Palace 
+
+One of Magnimar’s most influential houses, House Versade, recently acquired a rare, plum-sized ruby. Calling it the Fire of Versade, Savasha Versade has decided to display it publicly for the first time at her Angel Day masquerade ball. The ball is ahigh point of the Magnimarian social calendar, and Savasha feels pressure each year to top the prior year’s extravagance. 
+Not fond of such parties, Lord Hobart Deverin has asked his niece, Sandpoint Mayor Kendra Deverin, to attend the ball in his place. Known as “the Simple Lord,” Lord Deverin’s health has been deteriorating for several years. He requested Kendra bring some“local heroes” along with her to show up the spoiled aristocrats. 
+Pawns: 1 doppelganger, 1 fire elemental, 1 female elf rogue (Vasasha), 1 male human rogue (Nindrik), 1 male elf cleric (Gradon), 1 female elf cleric (Cheiskaia), 1 female human wizard (Zimandi), 1 pawn per PC 
+SUMMARY 
+After traveling with Sandpoint’s own Mayor Deverin to Magnimar aboard the Sunrise’s Kiss, the PCs attend the annual Angel Day masquerade ball thrown by House Versade in the extravagant Alabaster District. House Versade is displaying its wealth and influence by unveiling a huge new ruby, and has become the target of a doppelganger thief named Nazari. Nazari attempts to steal the Fire of Versade during the party, but when discoveredtrying to flee, he activates the elemental gem to summon a fire elemental that wreaks havoc among Magnimar’s most important families. 
+
+
+GETTING STARTED 
+Read the following to get the adventure underway: 
+Mayor Kendra Deverin of Sandpoint has summoned you to her office. “Welcome friends!” she says. “As you may know, my uncle, Lord Hobart Deverin, is head of the influential House Deverin in Magnimar. He has sent word that he would like me to attend an important social function in the City of Monuments on his behalf. Every year, another house—House Versade—holds a glorious masquerade ball in celebration of
+Angel Day. I have secured passage on a ship, but it would be a great honor if you would accompany me. In the company of friends, the sharks of Magnimar’s nobility won’t seem so daunting. If you’re willing, meet me at the docks in two days at the Sunrise’s Kiss.” 
+The PCs may have questions for Mayor Deverin. Below are some likely exchanges. 
+What’s Magnimar like? “Magnimar is an amazing, exciting place. There are ancient ruins, as well as more modern monuments. It’s more than ten times the size of Sandpoint, ruled by the Lord-Mayor and the Council of Ushers.” 
+Why is your uncle unable to attend? “His health has been deteriorating, making it difficult to maintain a full social calendar.” 
+What is Angel Day? “A celebration of the city’s founding.” 
+Is there a theme to this masquerade? “Yes, the theme ties into the celestial beauty of the angelic beings that helped guide the founders of Magnimar to greatness.” 
+What should we wear? “If you don’t already have suitably uncomfortable social wear, you can purchase something here in Sandpoint or get the latest trendy fashions from the Bazaar of Sails in Magnimar when we arrive. Masks will be provided.” 
+What about our weapons? “Should you choose to wear them, they’ll have to be peace-bonded, of course.” 
+The PCs might wish to spend 80 gp on a courtier’s outfit with accompanying jewelry or 175 gp noble’s outfit with a signet ring and various jewelry—characters not wearing at least a courtier’s outfit take a –2 penalty to Diplomacy at the high-society party. 
+The journey aboard the Sunrise’s Kiss is uneventful. As it enters Magnimar’s harbor, Kendra points out the Irespan, the ancient ruins of an enormous bridge towering hundreds of feet above the water, as well as other landmarks. The ship ties up in the Dockway district, and Mayor Deverin emerges in an elegant green dress, reminding PCs that they can go shopping in the Bazaar of Sails if they haven’t already acquired fancy attire. 
+
+OUTSIDE VERSADE VILLA 
+The finely cut stone blocks that pave the roads in the Alabaster district lead past villa after magnificent villa along the eastern edge of the Fogwall Cliffs. The fine marble facade of Versade Villa
+is well lit, and the massive gates stand open to welcome Angel Day revelers. Two blond men dressed in scraps of white silk and sporting false wings harnessed to their backs greet guests at the gate, asking them to select masks from a small table behind them. 
+At first glance, it is difficult to tell the masks apart. Each mask covers the entire face, with gold trim around the eye and noseholes and white silk ribbon as ties. Painted in tiny detail where
+the eyebrows would be are stylized characters which Mayor Deverin says are words in the language of celestials. In total there are four different masks, each type bearing a different Celestial word: “Eye,” “Glory,” “Honor,” and “Radiance”. PCs can select their own masks or roll 1d4 to choose randomly. Mayor Deverin explains that it is tradition to seek out others who are not wearing the same mask as you to socialize with during the party, but to dance with those who are wearing the same mask. To notice the word written on someone else’s mask at a social distance requires a successful DC 15 Perception check. 
+INSIDE VERSADE VILLA 
+Elegant ladies and noble lords fill this large reception room decorated with pictures framed in gold, exquisite dark wood furniture, and richly appointed rugs over the marble floor. A three-piece band plays in the corner. Everyone in the room seems engaged in one way or another: dancing, socializing just loud enough to be overheard, eating, and more. Servants dressed in the same fashion as the gate guards work their way about the room offering food and drink to the guests. At one end of the room is a raised wooden platform in the center of a beautiful golden rug. A 4-foot-tall pedestal of black marble sits in the middle of the platform; the top is covered with a crimson cloth. 
+THE PARTY 
+Several different guests might interact with PCs at the party: 
+Nindrik Versade: A handsome and dashing adventurer with a high opinion of himself. 
+Gradon Scarnetti: Ruthless and humorless, Gradon’s family controls Magnimar’s shipyards. 
+Cheiskaia Nirodin: The matron of the Nirodin family and an avid patron of the arts. Rumored to have ties to Korvosa. 
+Zimandi Kaddren: Young head of the Kaddren family who recently lost her parents. 
+Encourage the PCs to mingle and roleplay. Many of the lords and ladies of Magnimar would be unabashedly fascinated to hear tales of heroic adventures. If the PCs ask any of the guests what is under the cloth on the pedestal, they learn that it is the Fire of Versade awaiting it’s unveiling. Mayor Deverin remains close to the PCs initially, but as the evening progresses, she works her way around the room attempting to socialize. Any time a PC attempts to positively influence a specific noble, have them makea Diplomacy check: the nobles start off Indifferent, but a result of 15 or better makes them Friendly. 
+After the PCs have all had an opportunity to enjoy the party, read or paraphrase the following. 
+
+A servant announces Savasha Versade as she enters the room, wearing an expensive, black dress and no mask. The band stops playing as she steps up on the platform behind the pedestal, laying her hands on the cloth. “Ladies and lords,” 
+she says, “Thank you all for coming this evening. Each year we celebrate the founding of our great, powerful, and free city of Magnimar!” She pauses as a round of applause breaks out. 
+“This year, I have something very special to share with you all, recently discovered for us by my dear cousin, Nindrik.” Again she pauses, motioning to a man across the room who raises his glass back at her. “I present to you the largest ruby ever found in western Varisia: the Fire of Versade!” 
+With that, she pulls the cloth back to reveal the empty cornice of the pedestal to the shocked gasps of the gathered guests. After a stunned silence, she shouts for the guards. 
+
+Creatures: 
+Any PC succeeding at a DC 10 Perception check notices Savasha palming the plum-sized ruby as she withdraws the cloth. In truth, “she” is a doppelganger named Nazari who subdued Savasha Versade, took her form, and is attempting touse the chaos to steal the Fire of Versade. If the PCs try and stop her from leaving, Nazari dives into the nearby crowd of guests, knocking over Nindrik Versade in the process and shapeshifting into his form. She covertly crushes the elemental gem, releasing the fire elemental within, and gives a subtle signal (DC 15 Perception check to notice) for it to attack partygoers, hoping to escape in the confusion. 
+Guests scatter and scream as the elemental attacks. If no one stops her, Nazari escapes in 5 rounds, still disguised as Nindrik. 
+If confronted, she tries to finger the real Nindrik as an imposter, but if anyone moves to restrain her physically she transforms into his natural form: a white creature with white eyes and a
+long blue tongue. 
+NAZARI 
+CR 3 
+XP 800 
+Doppelganger (Game Master’s Guide 66) 
+AC 17, touch 13, flat-footed 15 
+hp 26 
+Equipment amulet of natural armor +1, potion of cure light wounds 
+D = DOPPELGANGER 
+FIRE ELEMENTAL 
+1 SQUARE = 5 FEET 
+CR 3 
+XP 800 
+Fire Elemental (Game Master’s Guide 69) 
+hp 30 
+
+
+CONCLUSION 
+Whether the PCs defeat Nazari or the doppelganger manages to escape, shortly after the chaotic scene ends, the real Savasha Versade emerges, nursing a lump on her head. She thanks the PCs profusely for their efforts and discreetly offers to pay them 500 gp each for helping to protect her family’s good name. Despite the chaos, Savasha has managed to pull off a masquerade ball that will be the talk of the town for years to come. 
+PFRPG CONVERSION 
+Pawns: 1 doppelganger (Bestiary Box), 1 large fire elemental 
+(Bestiary Box) 
+NAZARI 
+CR 3 
+XP 800 
+Doppelganger (Pathfinder RPG Bestiary 89) 
+AC 17, touch 13, flat-footed 15 
+hp 26 
+Combat Gear potion of cure light wounds; Other Gear amulet of natural armor +1
+LARGE FIRE ELEMENTAL 
+CR 5 
+XP 1,600 
+Fire Elemental (Pathfinder RPG Bestiary 124) 
+hp 60 
+
+
+
+Waves 
+
+Over the last few months, travel across the Varisian Gulf has become increasingly dangerous, for a pirate gang of crafty monsters has been harassing, pillaging, and sinking ships with growing frequency. Led by an orc pirate named One-Tusk Tauk, the so-called Horde of the Crimson Maw has struck fear into ships’ captains all along the Lost Coast. 
+SUMMARY 
+Elliana Silva, Captain of the Sunrise’s Kiss, hires the PCs to aid in protecting her ship as they transport an important load of ancient Thassilonian artifacts from Sandpoint north to Riddleport. While
+at sea on the 3-day journey, the ship is attacked by pirates, and the PCs must repel the Horde of the Crimson Maw if they want to escape with the relics and their lives. 
+Map: GameMastery Map Pack: Ship’s Cabins 
+
+Pawns: 3 goblins, 2 orcs, 1 orc boss, 1 pawn per PC 
+CAPTAIN ELLIANA SILVA 
+The Sunrise’s Kiss and Captain Elliana Silva are meant to be a recurring element in these Beginner Box Demos, also appearing in Isles and Masks. Since the adventures can be played in any order, the PCs may or may not have already had prior exposure to Captain Silva. She is a friendly, tough but fair captain who follows Sarenrae and enjoys the sunrise at sea. 
+GETTING STARTED 
+When the adventure begins, another raucous night is underway at the Hagfish on Sandpoint’s waterfront. Named for Norah, the beloved (and disgusting) creature in the filthy glass aquarium behind the bar, the establishment invites patrons to pay a silver coin to try to drink a tankard full of aquarium water. The few who can manage it win the coin purse hanging next to the aquarium, which holds the coins of everyone who has attempted it since the last winner. More important than the coins, though, the winner gets to carve his name in the ceiling beam over the bar. 
+A young sailor, cheered on by his shipmates, has just failed tochoke down the viscous yellow-green algae water full of hagfish slime. The assembled crowd lets out a disappointed groan as Jargie empties the rest of the tankard back into the aquarium. 
+Norah slaps her circular, jawless mouth against the glass, then secretes more slime, making it impossible to see anything inside the aquarium. 
+Allow the PCs to attempt to drink the tankard if they wish. 
+The cost is 1 sp and they need to succeed at three consecutive Fortitude saves (DC 19, 20 and 21) in order to drink the entire tankard. Should one of the PCs manage to gulp down the contents of the tankard, he wins the current purse of 156 sp and may carve his name in the ceiling beam. The crowd cheers its support. 
+Whether or not the PCs participate, a darkly tanned dwarven sailor approaches them and says, “Cap’n’d like a word with ya,” 
+while gesturing to a table near the back of the common room. 
+Seated at the table are three women and two men. One woman wears a tricorne hat and a long black coat, her demeanor clearly singling her out as the captain. As the PCs approach the table, the other sailors stand up and leave. When they arrive, read or paraphrase the following. 
+Dressed in a black longcoat trimmed in red and gold, the raven-haired woman is middle-aged, her face worn by exposure. She gestures for you to sit. “I’m Elliana Silva,” she says, “captain of the Sunrise’s Kiss. You and your friends come highly recommended by Mayor Deverin. I’m hopin’ you can help me with a problem.” She raises a hand and whistles, and one of the servers brings a round of ale for the table.  “I sail up and down the Varisian coast carrying cargo, people, sometimes animals. I’m prepared for most trouble, but lately a pirate named One-Tusk and what he calls his Horde of the Crimson Maw have been trying to make a name for themselves by attacking ships, extorting safe passage ‘taxes,’ and all manner of rudeness.” She raises her mug of ale in your direction. “The Sunrise’s Kiss sets sail north for Riddleport in two days. I’m looking to hire on some extra muscle in case the Horde decides to make a show of things, and Mayor Deverin says I’d be a fool not to hire you. All these years at sea, one thing I ain’t is a fool. So how ‘bout it?” 
+
+Allow the PCs to ask any questions they may have of Captain Silva; likely questions and answers appear below. 
+You know we aren’t sailors, right? “I’m not hiring you to sail my boat; I’ve already got a fine crew for that. I’m hiring you to fight!” 
+How much are you paying us? “When we make it to Riddleport, there’s two hundred gold for each of you. When we make it back to Sandpoint, that changes to three hundred.” 
+What can you tell us about One-Tusk or the Horde? “One-Tusk Tauk is as mean and ruthless a pirate as we’ve had in years. The Horde is mostly made up of goblins, orcs, and whatever other wretches he can dredge up.” 
+What’s the cargo? “It’s best if I keep that to myself, if you don’t mind—loose lips and all. Nothing that’ll hurt anyone, if that puts your minds at ease.” If a PC succeeds at a DC 15 Diplomacy check,
+she smiles conspiratorially and confides the truth. “They’re relics from Thassilon, an ancient empire that used to rule these parts long ago. I don’t know if they’re magic or not—they look like a
+bunch of old junk to me—but the Cyphermages up in Riddleport’ll pay a pretty penny for them!” 
+What can you tell us about Riddleport? “Riddleport is a dangerous place for the unprepared. Lots of brigands, thieves and pirates. Lots of money to be made for the right trader, though!” 
+Give the PCs 2 days to attend to any business or shopping they might have before setting sail from Sandpoint. The same stout dwarven sailor finds them on the evening of the second day and informs them that Captain Silva is ready to depart at sunrise. 
+SUNRISE’S KISS 
+The Sunrise’s Kiss is a three-masted galley currently anchored in Sandpoint Bay. When the PCs arrive at the docks, nearly all the crew is aboard and busily working as Captain Silva waits by a longboat, talking with the harbormaster. She shakes hands with him, calling out as the PCs approach: “Ready to take to the seas? You’ll be bunking in the passenger’s cabin since we’re just running cargo this time around. Welcome aboard!” 
+Captain Silva expects the PCs to stay out from underfoot as the crew goes about its daily tasks. She invites the PCs to her daily sunrise prayer, asking any Cleric of Sarenrae PC to lead the prayer
+personally. Dinner is served daily about an hour before sunset, after which those who are off duty engage in drinking, card games and story swapping. Captain Silva asks the PCs to assist the crew in posting watches, including at night. Give the PCs time to plan the logistics of their watch schedule and for raising the alarm in the event of an attack. It takes two full rounds to reach
+the deck of the ship from the cabin where the PCs bunks are located. Captain Silva allows the PCs to hang hammocks on the deck overnight if they wish, but threaten to lash any of her crew
+caught napping in them. 
+
+HORDE ATTACK 
+At midnight on the second night, the Horde attacks, with a rowboat full of goblins and orcs rowing out from a concealed watch post on the shoreline and pulling up alongside the Sunrise’s
+Kiss so that the pirates can fling grappling hooks that attach to the side of the ship. Noticing the boarding party in time to act in the surprise round requires a successful DC 15 Perception check
+from any PC on watch—those PCs not actively on deck do not get to make this check. 
+During the surprise round, the three goblins are able to scramble up and onto the Sunrise Kiss’s deck. In contrast, the orcs must each spend a full-round action to climb onto the boat, meaning
+that they reach the deck at the beginning of the second round. 
+One-Tooth Tauk arrives at the beginning of the third round. A total of six grapnels affix to the ship during the surprise round—a PC can dislodge a single grapnel with a successful DC 15 Strength
+check or by dealing 2 or more points of damage to the rope with a slashing or piercing weapon, forcing that boarder to wait for another rope to become free or attempt to throw a new grapnel. 
+
+
+Neither Captain Silva nor any of her sailors engage in combat— that’s why they’ve hired the PCs, after all. 
+Remember that the goblins and orcs all have darkvision, and so do not need any light to fight. When One-Tooth Tauk climbs aboard, he immediately demands Captain Silva turn over the Thassilonian relics to him. If things are going badly for his pirates, he joins in the melee without hesitation. If he ever feels like he personally is in danger, he attempts to take Silva prisoner and ransom her in exchange for the cargo. If the PCs still refuse to lay down their arms in this situation, he stabs her in the side and runs for his rowboat, attempting to escape. 
+
+GOBLINS (3) 
+CR 1/3 
+XP 135 each 
+Goblin (Game Master’s Guide 72) 
+hp 6 each 
+
+
+Captain Silva expresses her sincere gratitude to the PCs, saying, “The mayor is a good judge of character; I knew you lot wouldn’t disappoint! Even when things seem their darkest, the Dawnflower lights our way.” The remainder of the journey to Riddleport and then back up to Sandpoint is uneventful, and Captain Silva gladly pays as promised, adding “May Sarenrae’s light warm you until our paths cross again.” 
+If One-Tusk Tauk manages to successfully escape with the relics, Captain Silva is understandably furious. When the Sunrise’s Kiss reaches Riddleport she pays the PCs only 100 gold and suggests
+they find another way back home to Sandpoint. 
+
+PFRPG CONVERSION 
+Pawns: 1 border guard (NPC Codex Box), 2 cutpurses (NPC Codex Box), 3 orc warriors (Bestiary Box)
+ORCS (2) 
+CR 1/3 
+XP 135 each 
+Orc (Game Master’s Guide 77) 
+hp 6 each 
+Equipment potion of cure light wounds 
+ONE-TUSK TAUK 
+CR 2 
+XP 600 
+Orc Boss (Game Master’s Guide 77) 
+hp 37 
+CONCLUSION 
+If the PCs defeat One-Tusk Tauk and his Horde of the Crimson Maw, Captain Silva and her crew cut the rowboat loose, setting ORCS (3) 
+CR 1/3 
+XP 135 each 
+Orc (Pathfinder RPG Bestiary 222) 
+hp 6 each 
+Combat Gear potion of cure light wounds 
+SKILLED SNIPERS (2) 
+CR2 
+XP 600 each 
+Skilled Sniper (Pathfinder RPG NPC Codex 145) 
+hp 23 
+ONE-TUSK TAUK 
+CR 3 
+XP 800 
+Border Guard (Pathfinder RPG NPC Codex 129) 
+hp 30 
+
+
+
+
+Woods 
+
+Pawns: 1 werewolf, 1 human fighter (male), 1 pawn per PC 
+Forty years ago, the village of Wolf’s Ear was a haven for lycanthropes trying to build their own community free of outside interference, but eventually Magnimar’s Lord-Mayor sent in soldiers to hunt down the creatures. Rumors persist, however, that there are still plenty of lycanthropes living in the area, albeit fearfully and in hiding. 
+Shala was born to lycanthrope parents on the outskirts of Wolf’s Ear and grew up running free in the forest. She embraced her curse of lycanthropy, making the most out of her enhanced sense and animal instincts. The young she-wolf hasrecently come to the Sandpoint Hinterlands, causing trouble in the farmlands south of the Soggy River. Shala travels with her companion Kavoos Sumech—the pair met in Galduria and quickly became inseparable, sharing a love of the hunt, an affinity for the forest, and a taste for blood. After months of roaming together, Kavoos came up with the idea of trying to
+run a farmer off his or her land so they could move in. So far,though, a few savagely mauled farm animals have not been sufficient motivation to scare off any of the farmers, and Shala has decided it’s time to try a more direct approach. 
+SUMMARY 
+Approached by Yordan Zorakov at the Rusty Dragon Inn, the PCs are hired to help fight off a werewolf who has been troubling the rural farming community for the last several months. With only a few hours before the full moon rises again, the PCs have to arm themselves with silver weapons and try to figure out how to ambush the she-wolf and her companion. 
+
+GETTING STARTED 
+Read the following to get the adventure underway. 
+The common room of the Rusty Dragon is subdued today; Ameiko Kaijitsu is busy resupplying the bar when a small group of men enter. “Yordan Zorakov!” she calls out happily to the lead man. “I didn’t expect to see you and your lot here this early. Did you sell everything in the market already?” 
+Yordan shakes his head. “Nothing so fortunate. We’ve got a problem only your type of friends can fix.” He looks back over his shoulder at the other farmers with him. “A big one.” 
+Ameiko nods. “In that case, I believe those fine adventurers over there”—she points toward your table— “would be happy to help with your problem.” 
+Yordan’s friends all head to another table, but Yordan approaches your table and introduces himself. “I guess I’m sort of the head of this group,” Yordan says, embarrassed. 
+“We’ve got a problem with our livestock—the problem bein’ that something’s been killin’ ‘um these last few weeks. 
+Lucas lost two head of cattle one night, and Gustavo lost three hogs the night after that. Kantaro lost half a dozen chickens the week before, and just last night I lost a fat ewe. 
+Would’a been more, too, if I hadn’t scared it off.” He leans in excitedly. “I heard a cry out toward the barn, so I went ta investigate. Damned if there wasn’t a wolf-woman in my barn, tearing that poor sheep apart, sure as I’m standing here. I guess I spooked her, ’cause she ran off mouth still half full’a sheep’s guts. The moon’s still full tonight, so we suspect she’ll be back to finish what she started. My neighbors and I, we’ve come up with what we can afford ta pay ya if you can stop her.” 
+
+The PCs likely have questions for Yordan. Below are some sample questions and answers. 
+Where are your farms? “A few miles south of here, just across the Soggy River. I’m happy to put ya up for the night, and my wife Pavlina will feed ya like ya’ve never eaten a day in yer life.” 
+How much can you afford to pay us? “We’ve scraped up a few hundred gold in coins, and I ‘spect I can convince the authorities to post a bounty as well.” 
+What do you mean a wolf-woman? “Like I said—a woman who’s part wolf! Naked as a baby, but with claws and teeth and fur. ’Tain’t natural, that’s for sure.” 
+Why do you think she’ll return to your farm? “I’m the only one what’s got any decent livestock left down in that area. If she’s hungry, she’ll be coming ta my farm ta eat.” 
+Where can we get silver weapons? Ameiko, who has been listening quietly from the bar, chimes in. “Head up River Street to the Red Dog Smithy. Look for the mastiffs napping out front. It’s still early, so Das has probably just started drinking for the day. He might not be completely unreasonable. Yet.” 
+Any idea who the woman is? “No one from around these parts, that’s for sure. Thing is, the boys and I have been talkin’, and seems like few days a’fore we’ve all had the same visitor come calling—young fella, says he’s lookin’ fer work fer him and his girl as farmhand. Calls hisself Kavoos, but ain’t nobody knows him. And in a town this size, strangers ain’t exactly to be trusted— 
+yerselves excluded, of course.” 
+KNOWLEDGE (LOCAL) 
+The PCs may already know about werewolves. Have them make Knowledge (local) checks to see what they may have heard. 
+DC 10+ Normal weapons barely harm werewolves. Slaying a werewolf usually requires a silver weapon. 
+DC 15+ There used to be a community of werewolves called Wolf’s Ear in the woods north of Galduria. About 40 years ago, Magnimar sent soldiers there to kill or run off as many as they could.
+DC 20+ A werewolf’s bite carries the curse of lycanthropy, causing the wounded person to transform into a savage beast during the full moon. 
+SILVER WEAPONS 
+Normal weapons aren’t very effective against a werewolf’s damage reduction, but silver weapons are. There is only one smithy in Sandpoint—the Red Dog Smithy, owned and run by Das Korvut. Das is a foul-tempered drunk, but his skill at the forge keeps him in business despite his poor customer service. Das only has a few silver weapons on hand at present, and forging new weapons on request will take several weeks, which is longer than the intended timeline of this Adventure. At present Das has 1 silver dagger (22 gp), 50 silver crossbow bolts (105 gp) and a silver shortsword (30 gp) available. Somewhat uncharacteristically, Das also mentions that Father Zanthus at the Sandpoint chapel has a masterwork silver starknife. Father Zanthus is happy to lend the weapon to the PCs if they explain the urgency of the situation to him. 
+The journey from Sandpoint to the farm in the southern Hinterlands along the Lost Coast Road takes a few hours and is uneventful. Passing next to Brinestump Marsh, the PCs are able to see where the Soggy River empties into the wetlands and its extensive waterways. The farmers make this trip weekly, taking produce and livestock to market in Sandpoint during good weather. As the PCs arrive, the daylight grows short, and only a few hours remain until the full moon rises. 
+
+YORDAN ZORAKOV’S FARM 
+As the PCs arrive at Yordan’s farm, read the following. 
+A small, sturdy stone bridge over a creek leads to a sturdy-looking, single-story farmhouse with smoke rising out of two chimneys. Two weathered rocking chairs sit on the weathered front porch. To the south, the trees thin out and give way to neatly planted rows of crops. About ninety feet from the house are the barn and attached corral. The pleasant smell of a cooking fire grows stronger with each
+step closer to the farm. 
+Yordan leads the PCs to his house, inviting them in and informing his wife, Pavlina, that they’ll have company for the night. Pavlina is very warm and motherly, and begins preparing extra food, setting extra places at the table, and making suitable sleeping arrangements. She doesn’t get a lot of visitors and makes a fuss over the PCs trying to make sure they are comfortable. 
+After dinner, Yordan shows the PCs around the barn area, showing them where he saw the werewolf and in what direction she ran off. 
+
+WEREWOLF ATTACK 
+Allow the PCs time to prepare for the expected attack. Once they have decided on a course of action and set any ambushes in place, the still night is broken by a long howl—but from near the farmhouse, not the barn! 
+Creatures: 
+Shala has returned, but not for sheep—she’s attacking the farmhouse! She attempts to break down the door while Kavoos stands on the road nearby, watching. If he sees the PCs attacking, he rushes to join the fight and protecthis lover. Completely overwhelmed by bloodlust and lost to her lycanthropic transformation, Shala attacks anyone except Kavoos, and continues her attempts to break into the house whenever neither she nor her partner are threatened. 
+
+SHALA 
+CR 2 
+XP 600 
+Werewolf (Game Master’s Guide 82) 
+hp 21 
+KAVOOS SUMECH 
+
+
+CONCLUSION 
+If the PCs defeat Shala and Kavoos, Yordan is overjoyed, paying them 300 gp promised; later the PCs are able to collect another 900 gp from Sandpoint’s Sheriff Belor Hemlock as a bounty. 
+Yordan and Pavlina help tend to any wounds the PCs may have sustained to the best of their ability, even offering a potion of cure light wounds they keep for emergencies. If either attacker is killed, Pavlina makes a great fuss over burning their corpses immediately. If either is left alive, the prisoners are transported back to Sandpoint to stand trial for their crimes. Either way, the PCs are hailed as heroes by the local farmers and offered free produce when they visit the Sandpoint market. 
+PFRPG CONVERSIONS 
+Pawns: 1 werewolf (Bestiary Box), 1 cautious archer (NPC Codex Box) 
+KAVOOS SUMECH 
+XP 800 
+Evil Fighter (Game Master’s Guide 67) 
+hp 37 
+Equipment Kavoos is carrying 200 gp in coins and another 200 gp worth of gems in his backpack—all stolen goods. 
+CR 4 
+XP 1,200 
+Cautious Archer (Pathfinder RPG NPC Codex 82) 
+hp 47 
+Gear Kavoos is carrying 200 gp in coins and another 200 gp worth of gems in his backpack.  
+SHALA
+CR 3 
+
+
+CR 4 
+XP 1,200 
+Female human natural werewolf fighter 4 (Pathfinder RPG Bestiary 198) 
+CE Medium humanoid (human) 
+Init +5; Senses low-light vision, scent; Perception +4 
+DEFENSE 
+AC 18, touch 12, flat-footed 16 (+6 armor, +1 Dex, +1 dodge) 
+
+hp 42 (4d10+16)  
+Fort +7, Ref +3, Will +4 (+1 vs. fear) 
+Defensive Abilities bravery +1 
+OFFENSE 
+Speed 30 ft. 
+Melee mwk longsword +9 (1d8+6/19–20) 
+Ranged mwk light crossbow +6 (1d8/19–20) 
+STATISTICS 
+Str 18, Dex 13, Con 14, Int 8, Wis 14, Cha 8 
+Base Atk +4; CMB +8; CMD 20 
+Feats Cleave, Combat Reflexes, Dodge, Improved Initiative, Power Attack, Toughness 
+Skills Climb +4, Intimidate +5, Perception +4, Survival +6, Swim +4 
+Languages Common 
+SQ change shape (human, hybrid, and wolf; polymorph), lycanthropic empathy (wolves and dire wolves), armor training 1 
+Combat Gear potion of cure moderate wounds; Other Gear 
+chainmail, mwk longsword, mwk light crossbow with 20 bolts, cloak of resistance +1, 298 gp 
+SHALA (HYBRID FORM) 
+CR 4 
+XP 1,200 
+Female human natural werewolf (hybrid form) fighter 4 
+CE Medium humanoid (human, shapechanger) 
+Init +6; Senses low-light vision, scent; Perception +4 
+DEFENSE 
+AC 23, touch 13, flat-footed 20 (+6 armor, +2 Dex, +1 dodge, +4  natural)  
+hp 46 (4d10+20) 
+Fort +8, Ref +4, Will +4 (+1 vs. fear) 
+Defensive Abilities bravery +1; DR 10/silver 
+
+OFFENSE 
+Speed 30 ft. 
+Melee mwk longsword +10 (1d8+7/19–20), bite +4 (1d6+5 plus trip and curse of lycanthropy) 
+Ranged mwk light crossbow +7 (1d8/19–20) 
+STATISTICS 
+Str 20, Dex 15, Con 17, Int 8, Wis 14, Cha 8 
+Base Atk +4; CMB +9; CMD 22 
+Feats Cleave, Combat Reflexes, Dodge, Improved Initiative, Power Attack, Toughness 
+Skills Climb +5, Intimidate +5, Perception +4, Survival +6, Swim +5 
+Languages Common 
+SQ change shape (human, hybrid, and wolf; polymorph), lycanthropic empathy (wolves and dire wolves), armor training 1 
+Combat Gear potion of cure moderate wounds; Other Gear 
+chainmail, mwk longsword, mwk light crossbow with 20 bolts, cloak of resistance +1, 298 gp 
+
+
+

@@ -1,0 +1,70 @@
+
+
+Magic Academy 
+
+Pawns: 1 × mimic, 1 pawn per PC 
+The largest magic academy near Sandpoint is Korvosa’s Acadamae, where the staff and students summon countless devils and other horrors from beyond this world each year. 
+Like most universities, the Acadamae is rife with intense academic rivalries, and sometimes the rivalries can escalate with lethal consequences. Linna Montrovale, an instructor and faithful worshipper of Desna, recently decided that the increasing friction between her and another instructor was growing too volatile to manage, given her advanced age. 
+Concerned with her security, she seeks to sell an ancient spellbook to the Pathfinder Society and make her escape from Korvosa with other sensitive documents tied to her research. The spellbook is titled the Azlanti Apprentice’s Codex—a book of 1st-level spells and notes. What makes the tome valuable is that many believe it was penned by an apprentice of Aroden before he rose to godhood thousands of years ago. While the veracity of the book’s origin remains unconfirmed, the arcane spells within are worth investigation by the Pathfinder Society, and perhaps the diviners in the organization can determine the book’s true nature. 
+To make good her escape, she contacted Venture-Captain Sheila Heidmarch, who is currently visiting Sandpoint. Being cautious, she only told Heidmarch what she thought the venture-captain needed to know: she has the Codex, and for a fairly modest price she will let the Society have it, but she needs to be discrete about it. 
+Heidmarch, suspicious that Montrovale might be in trouble, decided to act quickly, even if her instincts told her that getting involved with Academae politics could be risky. 
+Knowing that making the trip to Korvosa herself would likely tip off whoever might be watching the elderly professor and put both at greater risk, the venture-captain cobbled together a team in Sandpoint to hand over the agreed-on price to Montrovale, return with the Codex, and hopefully find out what the professor is up to. 
+As it turns out, the venture-captain was right to worry -- Montrovale’s rival, Gorbic Salmore, learned of her duplicity and sought the Codex for himself. With little time to prepare, he dispatched Cheh, a captive mimic, to subdue Montrovale in her private classroom and retrieve the book from her. 
+Salmore warned the mimic that Pathfinders might be on the way, and instructed it to be quick about its work. Cheh sneaked into Linna’s classroom and performed a quick search for the book. 
+When it heard someone approaching the room, it jammed the room’s lectern in a closet and shapechanged to disguise itself as the hidden reading stand. Montrovale entered the room just as Cheh finished its preparations, and noticing nothing amiss, she began to transfer several books from the classroom’s shelves to her desk near the lectern. Once Linna had gathered several volumes, Cheh lashed out and
+grabbed the aging instructor. Stuck in Cheh’s adhesive, Linna was unable to escape, and she struggled to resist Cheh’s brief interrogation before the mimic’s constriction caused her to pass out. 
+Cheh searched through the books that Montrovale had gathered, but he still could not find the Azlanti Apprentice’s Codex among them. Bored, and content to lick its wounds until somebody else finds the  book for it, the mimic now waits in the classroom. 
+
+SUMMARY 
+The player characters are dispatched by Sandpoint’s venture-captain, Sheila Heidmarch. Quickly moving to the Acadamae in nearby Korvosa, they make inquiries to find Montrovale’s classroom and discover her in a state of distress with her pet cat crying out and trying to rouse her. Should the PCs revive her, the mimic attacks and attempts to steal the Azlanti Apprentice’s Codex. 
+GETTING STARTED 
+A cool breeze blows through the streets of Sandpoint, circulating the spicy scent of the thileu bark dipping sauce that accompanies your reefclaw pasties. Having just concluded business to the north, you are enjoying the first meal in weeks that wasn’t roasted on a stick or boiled in a helmet; the difference, you determine while licking sauce from your fingers, is refreshing. Suddenly Venture-Captain
+Sheila Heidmarch storms into the Rusty Dragon’s open door and immediately joins you at your table. 
+“Well met, friends! I regret sending you out on such short notice, but I have need of your services quickly. 
+“An friend of mine has agreed to turn over a very important text to the Pathfinder Society at great risk to herself. In return I’m sending you with funds to assist in her escape from increasingly hostile elements in the Korvosan magic school known as the Academae. 
+“Take this payment to Professor Linna Montrovale at the Academae, and let her know that I sent you. When you present the payment to her, she should provide you with the Azlanti Apprentice’s Codex. Once you have it, make haste returning to Sandpoint, and of course, be careful! Other scholars might not take kindly to losing a text they never realized existed under their own roof, so try to avoid bringing up the subject around them.” 
+Sheila drops a clinking bag of valuable gems on the table, passes a map to Korvosa across the steaming plates to your hands, and nods authoritatively. She stands, cocks her head to one side, and exits the tavern as quickly as she entered, obviously busy. 
+
+LINNA MONTROVALE’S CLASSROOM (CR 2 AND CR 4) 
+The adventurers travel to Korvosa without incident and begin just outside the locked wooden door to Professor Montrovale’s classroom in one of the many academic buildings of the imposing Academae (hardness 5, hp 15, Break DC 18, Disable Device DC 15; see page 34 of the Game Master’s Guide formore information on breaking objects). A PC who succeeds on a DC 15 Perception check can hear the sound of a cat mewling on the other side of the door. 
+When the adventurers open the door to the room, read the following text. 
+This old classroom has been well kept—magical, flameless torches light the room, darkwood bookshelves line the walls, and the hardwood floors are well polished. But the room is marred by signs of a recent scuffle. Books have been pulled down and thrown to the floor, papers are scattered, and in the classroom’s summoning circle near a polished mahogany lectern lies the crumpled form of an elderly human female. She lies face up, dressed in a dark-colored professor’s smock. A black cat perches on the woman’s chest, alternately crying out and licking her face, as if trying to awaken its master. 
+
+
+Creatures: The mimic Cheh lurks in this room, which also contains Apex, Professor Montrovale’s pet cat, and the unconscious body of Professor Montrovale herself. Apex acts distraught at her master’s  injuries, while Cheh hides in plain sight as a lectern until he can get what he wants from the PCs. 
+CHEH 
+CR 4 
+XP 1,200 
+Mimic (Game Master’s Guide 75) 
+hp 52 
+PCs who examine Montrovale may make Heal checks to discover the following information: 
+
+Montrovale is alive, but her breathing is shallow. 
+
+Montrovale has several cracked ribs and serious bruising. In places her robes are coated in a gray powdery substance (a further DC 15 Knowledge Dungeoneering check identifies this powder as the dried adhesive of an underground creature). 
+
+It appears that the trauma was caused by something constricting Montrovale until she passed out. 
+Cheh’s attack has left Montrovale on the verge of death. 
+But Desna smiled upon her, and though she lies unconscious on the floor, she is currently stable at –1 hit point. Should the mimic attack her again, however, she has no way to defend herself. To revive her to the point that she can answer questions, the PCs will have to think on their feet. Montrovale can be healed to a maximum of 7 hit points. Healing her brings her to consciousness, but she is barely coherent and extremely fragile. 
+Once Montrovale regains her senses, she is able to recount what little she remembers of what happened to her and how she ended up unconscious on the floor. She tells the characters, “I was trying to find some papers on the lectern, and that’s the last thing I remember.” 
+Trap: While the characters assist Montrovale, Apex moves to a nearby bookshelf and starts to yowl. Should the PCs investigate (Perception DC 15 or easier if they pull books from the shelves), they notice a safe located behind the books. 
+Cheh wanted to open the safe but found it too difficult for his aberrant form to manipulate. The cat, seeing the mimic focusing its attention there, knew something must be hidden there. Apex continues to howl someone opens the safe or Montrovale awakens. 
+
+The safe is not very high quality, and it serves as a trap rather than a secure means of storage. PCs can pick the lock with a DC 15 Disable Device check, but doing so triggers a burning hands trap (see below). 
+A DC 15 Disable Device check allows a PC to determine that the safe is not very secure at all and can be bypassed by merely prying it from the wall (Break DC 15), exposing a hole in which the safe’s contents are visible. 
+BURNING HANDS TRAP 
+CR 2 
+Type magic; Perception DC 26; Disable Device DC 26 If the PCs set off the trap and it appears that the book is lost, or if Cheh finds out that the book is a fake, he attacks the PCs if he hasn’t already.
+Treasure: Professor Montrovale has a small cache of potions in her desk drawer, which the PCs can find with a successful DC 20 Perception check. Among the items within are two potions of cure light wounds, a potion of bull’s strength, and a scroll of mage armor. She also keeps a bottle labeled “Medicinal Brew” underneath her desk. The bottle contains a strong alcohol that, if poured on the mimic, negates its adhesive for 3 rounds. 
+EFFECTS CONCLUSION 
+Trigger touch; Reset none 
+Effect spell effect burning hands (2d4 fire damage, DC 11 Reflex save for half damage); multiple targets (all targets in a 15-ft.-long cone) Once the PCs dispatch the mimic, Montrovale thanks them for
+rescuing her from certain death. If they present her with the bag of gems given to them by Sheila Heidmarch, she in turn gives them the Academae badge she wears upon her cloak. 
+She tells them that Sheila will know the command word to change it back into the spellbook. If the PCs question her about the command word, she states that it was the nickname she had for the venture-captain when they were childhood friends. She then dons a hat of disguise, taking the form of a pimply young student, and quickly departs. 
+Once the safe has been opened, the players find the burned remains of a false copy of the Azlanti Apprentice’s Codex. If the PCs somehow open the safe without setting off the trap, the book they find in the safe looks authentic from the outside, but all its pages are blank except for the inscription below. 
+
+“Dear Gorbic, 
+Nice try! 
+Best Wishes, 
+Linna Montrovale” 
+

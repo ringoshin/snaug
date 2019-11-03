@@ -1,0 +1,125 @@
+
+Woods 
+
+Pawns: 1 werewolf, 1 human fighter (male), 1 pawn per PC 
+Forty years ago, the village of Wolf’s Ear was a haven for lycanthropes trying to build their own community free of outside interference, but eventually Magnimar’s Lord-Mayor sent in soldiers to hunt down the creatures. Rumors persist, however, that there are still plenty of lycanthropes living in the area, albeit fearfully and in hiding. 
+Shala was born to lycanthrope parents on the outskirts of Wolf’s Ear and grew up running free in the forest. She embraced her curse of lycanthropy, making the most out of her enhanced sense and animal instincts. The young she-wolf hasrecently come to the Sandpoint Hinterlands, causing trouble in the farmlands south of the Soggy River. Shala travels with her companion Kavoos Sumech—the pair met in Galduria and quickly became inseparable, sharing a love of the hunt, an affinity for the forest, and a taste for blood. After months of roaming together, Kavoos came up with the idea of trying to
+run a farmer off his or her land so they could move in. So far,though, a few savagely mauled farm animals have not been sufficient motivation to scare off any of the farmers, and Shala has decided it’s time to try a more direct approach. 
+SUMMARY 
+Approached by Yordan Zorakov at the Rusty Dragon Inn, the PCs are hired to help fight off a werewolf who has been troubling the rural farming community for the last several months. With only a few hours before the full moon rises again, the PCs have to arm themselves with silver weapons and try to figure out how to ambush the she-wolf and her companion. 
+
+GETTING STARTED 
+Read the following to get the adventure underway. 
+The common room of the Rusty Dragon is subdued today; Ameiko Kaijitsu is busy resupplying the bar when a small group of men enter. “Yordan Zorakov!” she calls out happily to the lead man. “I didn’t expect to see you and your lot here this early. Did you sell everything in the market already?” 
+Yordan shakes his head. “Nothing so fortunate. We’ve got a problem only your type of friends can fix.” He looks back over his shoulder at the other farmers with him. “A big one.” 
+Ameiko nods. “In that case, I believe those fine adventurers over there”—she points toward your table— “would be happy to help with your problem.” 
+Yordan’s friends all head to another table, but Yordan approaches your table and introduces himself. “I guess I’m sort of the head of this group,” Yordan says, embarrassed. 
+“We’ve got a problem with our livestock—the problem bein’ that something’s been killin’ ‘um these last few weeks. 
+Lucas lost two head of cattle one night, and Gustavo lost three hogs the night after that. Kantaro lost half a dozen chickens the week before, and just last night I lost a fat ewe. 
+Would’a been more, too, if I hadn’t scared it off.” He leans in excitedly. “I heard a cry out toward the barn, so I went ta investigate. Damned if there wasn’t a wolf-woman in my barn, tearing that poor sheep apart, sure as I’m standing here. I guess I spooked her, ’cause she ran off mouth still half full’a sheep’s guts. The moon’s still full tonight, so we suspect she’ll be back to finish what she started. My neighbors and I, we’ve come up with what we can afford ta pay ya if you can stop her.” 
+
+The PCs likely have questions for Yordan. Below are some sample questions and answers. 
+Where are your farms? “A few miles south of here, just across the Soggy River. I’m happy to put ya up for the night, and my wife Pavlina will feed ya like ya’ve never eaten a day in yer life.” 
+How much can you afford to pay us? “We’ve scraped up a few hundred gold in coins, and I ‘spect I can convince the authorities to post a bounty as well.” 
+What do you mean a wolf-woman? “Like I said—a woman who’s part wolf! Naked as a baby, but with claws and teeth and fur. ’Tain’t natural, that’s for sure.” 
+Why do you think she’ll return to your farm? “I’m the only one what’s got any decent livestock left down in that area. If she’s hungry, she’ll be coming ta my farm ta eat.” 
+Where can we get silver weapons? Ameiko, who has been listening quietly from the bar, chimes in. “Head up River Street to the Red Dog Smithy. Look for the mastiffs napping out front. It’s still early, so Das has probably just started drinking for the day. He might not be completely unreasonable. Yet.” 
+Any idea who the woman is? “No one from around these parts, that’s for sure. Thing is, the boys and I have been talkin’, and seems like few days a’fore we’ve all had the same visitor come calling—young fella, says he’s lookin’ fer work fer him and his girl as farmhand. Calls hisself Kavoos, but ain’t nobody knows him. And in a town this size, strangers ain’t exactly to be trusted— 
+yerselves excluded, of course.” 
+KNOWLEDGE (LOCAL) 
+The PCs may already know about werewolves. Have them make Knowledge (local) checks to see what they may have heard. 
+DC 10+ Normal weapons barely harm werewolves. Slaying a werewolf usually requires a silver weapon. 
+DC 15+ There used to be a community of werewolves called Wolf’s Ear in the woods north of Galduria. About 40 years ago, Magnimar sent soldiers there to kill or run off as many as they could.
+DC 20+ A werewolf’s bite carries the curse of lycanthropy, causing the wounded person to transform into a savage beast during the full moon. 
+SILVER WEAPONS 
+Normal weapons aren’t very effective against a werewolf’s damage reduction, but silver weapons are. There is only one smithy in Sandpoint—the Red Dog Smithy, owned and run by Das Korvut. Das is a foul-tempered drunk, but his skill at the forge keeps him in business despite his poor customer service. Das only has a few silver weapons on hand at present, and forging new weapons on request will take several weeks, which is longer than the intended timeline of this Adventure. At present Das has 1 silver dagger (22 gp), 50 silver crossbow bolts (105 gp) and a silver shortsword (30 gp) available. Somewhat uncharacteristically, Das also mentions that Father Zanthus at the Sandpoint chapel has a masterwork silver starknife. Father Zanthus is happy to lend the weapon to the PCs if they explain the urgency of the situation to him. 
+The journey from Sandpoint to the farm in the southern Hinterlands along the Lost Coast Road takes a few hours and is uneventful. Passing next to Brinestump Marsh, the PCs are able to see where the Soggy River empties into the wetlands and its extensive waterways. The farmers make this trip weekly, taking produce and livestock to market in Sandpoint during good weather. As the PCs arrive, the daylight grows short, and only a few hours remain until the full moon rises. 
+
+YORDAN ZORAKOV’S FARM 
+As the PCs arrive at Yordan’s farm, read the following. 
+A small, sturdy stone bridge over a creek leads to a sturdy- looking, single-story farmhouse with smoke rising out of two chimneys. Two weathered rocking chairs sit on the weathered front porch. To the south, the trees thin out and give way to neatly planted rows of crops. About ninety feet from the house are the barn and attached corral. The pleasant smell of a cooking fire grows stronger with each
+step closer to the farm. 
+Yordan leads the PCs to his house, inviting them in and informing his wife, Pavlina, that they’ll have company for the night. Pavlina is very warm and motherly, and begins preparing extra food, setting extra places at the table, and making suitable sleeping arrangements. She doesn’t get a lot of visitors and makes a fuss over the PCs trying to make sure they are comfortable. 
+After dinner, Yordan shows the PCs around the barn area, showing them where he saw the werewolf and in what direction she ran off. 
+
+WEREWOLF ATTACK 
+Allow the PCs time to prepare for the expected attack. Once they have decided on a course of action and set any ambushes in place, the still night is broken by a long howl—but from near the farmhouse, not the barn! 
+Creatures: Shala has returned, but not for sheep—she’s attacking the farmhouse! She attempts to break down the door while Kavoos stands on the road nearby, watching. If he sees the PCs attacking, he rushes to join the fight and protecthis lover. Completely overwhelmed by bloodlust and lost to her lycanthropic transformation, Shala attacks anyone except Kavoos, and continues her attempts to break into the house whenever neither she nor her partner are threatened. 
+
+SHALA 
+CR 2 
+XP 600 
+Werewolf (Game Master’s Guide 82) 
+hp 21 
+KAVOOS SUMECH 
+
+
+CONCLUSION 
+If the PCs defeat Shala and Kavoos, Yordan is overjoyed, paying them 300 gp promised; later the PCs are able to collect another 900 gp from Sandpoint’s Sheriff Belor Hemlock as a bounty. 
+Yordan and Pavlina help tend to any wounds the PCs may have sustained to the best of their ability, even offering a potion of cure light wounds they keep for emergencies. If either attacker is killed, Pavlina makes a great fuss over burning their corpses immediately. If either is left alive, the prisoners are transported back to Sandpoint to stand trial for their crimes. Either way, the PCs are hailed as heroes by the local farmers and offered free produce when they visit the Sandpoint market. 
+PFRPG CONVERSIONS 
+Pawns: 1 werewolf (Bestiary Box), 1 cautious archer (NPC Codex Box) 
+KAVOOS SUMECH 
+XP 800 
+Evil Fighter (Game Master’s Guide 67) 
+hp 37 
+Equipment Kavoos is carrying 200 gp in coins and another 200 gp worth of gems in his backpack—all stolen goods. 
+CR 4 
+XP 1,200 
+Cautious Archer (Pathfinder RPG NPC Codex 82) 
+hp 47 
+Gear Kavoos is carrying 200 gp in coins and another 200 gp worth of gems in his backpack.  
+SHALA
+CR 3 
+
+
+CR 4 
+XP 1,200 
+Female human natural werewolf fighter 4 (Pathfinder RPG Bestiary 198) 
+CE Medium humanoid (human) 
+Init +5; Senses low-light vision, scent; Perception +4 
+DEFENSE 
+AC 18, touch 12, flat-footed 16 (+6 armor, +1 Dex, +1 dodge) 
+
+hp 42 (4d10+16)  
+Fort +7, Ref +3, Will +4 (+1 vs. fear) 
+Defensive Abilities bravery +1 
+OFFENSE 
+Speed 30 ft. 
+Melee mwk longsword +9 (1d8+6/19–20) 
+Ranged mwk light crossbow +6 (1d8/19–20) 
+STATISTICS 
+Str 18, Dex 13, Con 14, Int 8, Wis 14, Cha 8 
+Base Atk +4; CMB +8; CMD 20 
+Feats Cleave, Combat Reflexes, Dodge, Improved Initiative, Power Attack, Toughness 
+Skills Climb +4, Intimidate +5, Perception +4, Survival +6, Swim +4 
+Languages Common 
+SQ change shape (human, hybrid, and wolf; polymorph), lycanthropic empathy (wolves and dire wolves), armor training 1 
+Combat Gear potion of cure moderate wounds; Other Gear 
+chainmail, mwk longsword, mwk light crossbow with 20 bolts, cloak of resistance +1, 298 gp 
+SHALA (HYBRID FORM) 
+CR 4 
+XP 1,200 
+Female human natural werewolf (hybrid form) fighter 4 
+CE Medium humanoid (human, shapechanger) 
+Init +6; Senses low-light vision, scent; Perception +4 
+DEFENSE 
+AC 23, touch 13, flat-footed 20 (+6 armor, +2 Dex, +1 dodge, +4  natural)  
+hp 46 (4d10+20) 
+Fort +8, Ref +4, Will +4 (+1 vs. fear) 
+Defensive Abilities bravery +1; DR 10/silver 
+
+OFFENSE 
+Speed 30 ft. 
+Melee mwk longsword +10 (1d8+7/19–20), bite +4 (1d6+5 plus trip and curse of lycanthropy) 
+Ranged mwk light crossbow +7 (1d8/19–20) 
+STATISTICS 
+Str 20, Dex 15, Con 17, Int 8, Wis 14, Cha 8 
+Base Atk +4; CMB +9; CMD 22 
+Feats Cleave, Combat Reflexes, Dodge, Improved Initiative, Power Attack, Toughness 
+Skills Climb +5, Intimidate +5, Perception +4, Survival +6, Swim +5 
+Languages Common 
+SQ change shape (human, hybrid, and wolf; polymorph), lycanthropic empathy (wolves and dire wolves), armor training 1 
+Combat Gear potion of cure moderate wounds; Other Gear 
+chainmail, mwk longsword, mwk light crossbow with 20 bolts, cloak of resistance +1, 298 gp 
+
