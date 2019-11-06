@@ -66,9 +66,16 @@ class TFModelLSTM:
 
     # Fit LSTM model
     def fit(self, *args, **kwargs):
-        return self.model.fit(*args, **kwargs)
+        self.history = self.model.fit(*args, **kwargs)
+        return self.history
         #metrics=['categorical_accuracy']
 
+    # serialize model weights to HDF5 and save model training history
+    def save_trained_model_data(self, fname_prefix='trained_model'):
+        weights_fname = fname_prefix + '_weights.h5'
+        history_fname = fname_prefix + '_history.pkl'
+        self.model.save_weights(weights_fname)
+        pickle.dump(self.history, open(history_fname, 'wb'))
 
 
 class TFModelLSTMWordToken(TFModelLSTM):
