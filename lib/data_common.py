@@ -35,6 +35,38 @@ def save_doc(lines, filename):
 	file.write(data)
 	file.close()
 
+# tokenize character data and separate into features and target for LSTM training
+def prepare_char_tokens(text, maxlen, step):
+    print('corpus length:', len(text))
+
+    # get list of unique characters from text
+    characters = sorted(list(set(text)))
+    num_unique_char = len(characters)
+    print('total chars:', num_unique_char)
+
+    # store mappings of character to index and vice versa
+    char2indices = dict((c, i) for i, c in enumerate(characters))
+    indices2char = dict((i, c) for i, c in enumerate(characters))
+
+    # cut the text in semi-redundant sequences of maxlen characters
+    sentences = []
+    next_chars = []
+    for i in range(0, len(text) - maxlen, step):
+        sentences.append(text[i: i + maxlen])
+        next_chars.append(text[i + maxlen])
+    print('number of sequences:', len(sentences))
+    print('number of next_chars:', len(next_chars))
+
+    # Converting indices into vectorized format
+    X = np.zeros((len(sentences), maxlen, num_unique_char), dtype=np.bool)
+    y = np.zeros((len(sentences), num_unique_char), dtype=np.bool)
+    for i, sentence in enumerate(sentences):
+        for t, char in enumerate(sentence):
+            X[i, t, char2indices[char]] = 1
+        y[i, char2indices[next_chars[i]]] = 1
+
+    return X, y, char2indices, indices2char, num_unique_char
+
 # turn a doc into clean tokens
 def clean_doc(doc):
 	# replace '--' with a space ' '

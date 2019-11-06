@@ -9,18 +9,60 @@ import string
 import textwrap
 import pickle
 
-from lib.nlplstm_class import (TFModelLSTMWordToken, TFModelLSTMWord2vec) 
-from lib.data_common import (load_doc, save_doc, clean_doc)
+from lib.nlplstm_class import (TFModelLSTMCharToken, TFModelLSTMWordToken, 
+                               TFModelLSTMWord2vec) 
+from lib.data_common import (load_doc, save_doc, clean_doc, prepare_char_tokens)
 from lib.data_common import (build_token_lines, prepare_text_tokens, load_word2vec)
-
-
-# 
-# Loading, saving and pre-processing of the text data source
-#
 
 pathfinder_textfile = './data/textgen_pathfinder.txt'
 fixed_length_token_textfile = './data/pathfinder_fixed-length_tokens.txt'
 
+# 
+# Loading, saving and pre-processing of the text data source for 
+# character tokenisation
+#
+# load document
+text = load_doc(pathfinder_textfile).lower()
+
+# tokenize character data and separate into features and target for LSTM training
+maxlen = 40
+step = 3
+X, y, char2indices, indices2char, num_unique_char = prepare_char_tokens(text, maxlen, step)
+
+# save the mappings
+pickle.dump(char2indices, open('./model/pathfinder_chartoken_char2indices.pkl', 'wb'))
+pickle.dump(indices2char, open('./model/pathfinder_chartoken_indices2char.pkl', 'wb'))
+
+# create new object that is an LSTM model using character tokenization
+# to generate text
+textgen_model_1 = TFModelLSTMCharToken(use_gpu=False)
+
+# sanity check
+print(textgen_model_1.model_name)
+print(textgen_model_1.have_gpu)
+print(textgen_model_1.use_cudadnn)
+
+# define and compile the model parameters
+textgen_model_1.define(maxlen, num_unique_char)
+print(textgen_model_1.model.summary())
+
+# compile model
+textgen_model_1.compile(loss='categorical_crossentropy', optimizer='adam', metrics=['accuracy'])
+
+# fit model
+#history = textgen_model_1.fit(X, y, batch_size=128, epochs=50)
+history = textgen_model_1.fit(X, y, batch_size=128, epochs=2)
+
+# serialize model weights to HDF5 and save model training history
+textgen_model_1.save_trained_model_data(fname_prefix="./model/pathfinder_chartoken_model_50_epoch")
+
+print()
+
+
+# 
+# Loading, saving and pre-processing of the text data source for
+# word tokenisation
+#
 # load document
 docs = load_doc(pathfinder_textfile)
 #print(docs[:200])
@@ -39,7 +81,7 @@ print('Total lines: %d' % len(lines))
 # save fixed-length lines to file
 save_doc(lines, fixed_length_token_textfile)
 
-# tokenize and separate into input and output
+# tokenize and separate into features and target
 X, y, seq_length, vocab_size, tokenizer = prepare_text_tokens(lines)
 print(X.shape)
 

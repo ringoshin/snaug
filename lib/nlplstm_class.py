@@ -78,6 +78,34 @@ class TFModelLSTM:
         pickle.dump(self.history, open(history_fname, 'wb'))
 
 
+class TFModelLSTMCharToken(TFModelLSTM):
+    """
+    A child class to escapsulate an LSTM model using character tokenization 
+    to generate text
+    """
+   	# Initialize class with self and which model to use
+    def __init__(self, use_gpu=True, model_name='Character Tokenisation'):
+        self.model_name = model_name
+        super().__init__(use_gpu)
+        #TFModelLSTM.__init__(self, use_gpu)
+
+    # Define LSTM model that trains using character tokenization
+    def define(self, maxlen, num_unique_char):
+        self.model = Sequential()
+
+        self.model.add(self.my_LSTM(512, 
+                       input_shape=(maxlen, num_unique_char),
+                       return_sequences=True))
+        self.model.add(Dropout(0.2))
+
+        self.model.add(self.my_LSTM(512))
+        self.model.add(Dropout(0.2))
+
+        self.model.add(Dense(num_unique_char))
+
+        self.model.add(Activation('softmax'))
+
+
 class TFModelLSTMWordToken(TFModelLSTM):
     """
     A child class to escapsulate an LSTM model using word tokenization and
