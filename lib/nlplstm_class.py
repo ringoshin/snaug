@@ -1,7 +1,7 @@
-"""
-Library of classes to encapsulate GPU usage, as well as for NLP using Tensorlow/Keras
-LSTM models.
-"""
+#
+# Library of classes to encapsulate GPU usage, as well as for NLP using Tensorlow/Keras
+# LSTM models.
+#
 
 import tensorflow as tf
 import gensim
@@ -39,12 +39,12 @@ class TFModelLSTM:
     def use_tfgpu(self, use_gpu):
         self.use_cudadnn = use_gpu and TFModelLSTM.have_gpu
         
-        # For future implementation, this will force to CPU even if GPU exists
+        # For future implementation, this will force to CPU even if GPU exists 
         #import os
         #os.environ["CUDA_VISIBLE_DEVICES"]="-1" 
 
     # Customized LSTM method to use cudaDNN if available
-    def my_LSTM(self, *args, **kwargs):
+    def select_LSTM(self, *args, **kwargs):
         if self.use_cudadnn:
             return CuDNNLSTM(*args, **kwargs)
         else:
@@ -55,7 +55,7 @@ class TFModelLSTM:
         # define model
         self.model = Sequential()
         self.model.add(Embedding(input_dim=vocab_size, output_dim=embedding_size))
-        self.model.add(self.my_LSTM(embedding_size, return_sequences=True))
+        self.model.add(self.select_LSTM(embedding_size, return_sequences=True))
         self.model.add(Dense(embedding_size, activation='relu'))
         self.model.add(Dense((vocab_size+1), activation='softmax'))
 
@@ -71,11 +71,26 @@ class TFModelLSTM:
         #metrics=['categorical_accuracy']
 
     # serialize model weights to HDF5 and save model training history
-    def save_trained_model_data(self, fname_prefix='trained_model'):
+    def save_weights_and_history(self, fname_prefix='trained_model'):
         weights_fname = fname_prefix + '_weights.h5'
         history_fname = fname_prefix + '_history.pkl'
         self.model.save_weights(weights_fname)
         pickle.dump(self.history, open(history_fname, 'wb'))
+
+    # load model weights
+    def load_weights(self, fname_prefix='trained_model'):
+        weights_fname = fname_prefix + '_weights.h5'
+        self.model.load_weights(weights_fname)
+
+    # save model
+    def save(self, fname_prefix='trained_model'):
+        model_fname = fname_prefix + '_model.h5'   
+        self.model.save(model_fname)
+
+    # load model
+    def load(self, fname_prefix='trained_model'):
+        model_fname = fname_prefix + '_model.h5'   
+        self.model = load(model_fname)
 
 
 class TFModelLSTMCharToken(TFModelLSTM):
@@ -93,12 +108,12 @@ class TFModelLSTMCharToken(TFModelLSTM):
     def define(self, maxlen, num_unique_char):
         self.model = Sequential()
 
-        self.model.add(self.my_LSTM(512, 
+        self.model.add(self.select_LSTM(512, 
                        input_shape=(maxlen, num_unique_char),
                        return_sequences=True))
         self.model.add(Dropout(0.2))
 
-        self.model.add(self.my_LSTM(512))
+        self.model.add(self.select_LSTM(512))
         self.model.add(Dropout(0.2))
 
         self.model.add(Dense(num_unique_char))
@@ -125,10 +140,10 @@ class TFModelLSTMWordToken(TFModelLSTM):
                                  output_dim=embedding_size, 
                                  input_length=seq_length))
 
-        self.model.add(self.my_LSTM(128, return_sequences=True))
+        self.model.add(self.select_LSTM(128, return_sequences=True))
         self.model.add(Dropout(0.2))
 
-        self.model.add(self.my_LSTM(128))
+        self.model.add(self.select_LSTM(128))
         self.model.add(Dropout(0.2))
 
         self.model.add(Dense(128, activation='relu'))
@@ -138,8 +153,8 @@ class TFModelLSTMWordToken(TFModelLSTM):
 
 class TFModelLSTMWord2vec(TFModelLSTM):
     """
-    A child class to escapsulate an LSTM model using pre-trained Word2vec 
-    to generate text
+    A child class to escapsulate an LSTM model using word-tokenisation and
+    pre-trained Word2vec to generate text
     """    
    	# Initialize class with self and which model to use
     def __init__(self, use_gpu=True, model_name='Pre-trained Word2vec'):
@@ -155,10 +170,10 @@ class TFModelLSTMWord2vec(TFModelLSTM):
                                  output_dim=embedding_size, 
                                  weights=[pretrained_weights]))
 
-        self.model.add(self.my_LSTM(embedding_size, return_sequences=True))
+        self.model.add(self.select_LSTM(embedding_size, return_sequences=True))
         self.model.add(Dropout(0.2))
 
-        self.model.add(self.my_LSTM(embedding_size))
+        self.model.add(self.select_LSTM(embedding_size))
         self.model.add(Dropout(0.2))
 
         self.model.add(Dense(embedding_size, activation='relu'))

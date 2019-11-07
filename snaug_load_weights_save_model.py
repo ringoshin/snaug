@@ -1,96 +1,112 @@
-"""
-Load saved data of model(s) trained from different platform (eg. Google Colab)
-"""
+#
+# Load saved weights of models that were previously trained on cloud platforms 
+# using GPU (eg. Google Colab)
+# Save instances of trained models for future prediction tasks on platforms without 
+# using GPU (eg. my wimpy lappy)
+#
 
-import tensorflow as tf
-import gensim
-
-from numpy import array
-from keras.preprocessing.text import Tokenizer
-from keras.utils import to_categorical
+import string
+import textwrap
 import pickle
 
-from gensim.test.utils import datapath, get_tmpfile
-from gensim.models import Word2Vec, KeyedVectors
-from gensim.scripts.glove2word2vec import glove2word2vec
+from lib.nlplstm_class import (TFModelLSTMCharToken, TFModelLSTMWordToken, 
+                               TFModelLSTMWord2vec) 
+from lib.data_common import (load_doc, save_doc, clean_doc, prepare_char_tokens)
+from lib.data_common import (build_token_lines, prepare_text_tokens, load_word2vec)
 
-from lib.nlplstm_class import (TFModelLSTMWordToken, TFModelLSTMWord2vec) 
+pathfinder_textfile = './data/textgen_pathfinder.txt'
+fixed_length_token_textfile = './data/pathfinder_fixed-length_tokens.txt'
 
-# load doc into memory
-def load_doc(filename):
-	# open the file as read only
-	file = open(filename, 'r')
-	# read all text
-	text = file.read()
-	# close the file
-	file.close()
-	return text
+# 
+# LSTM model that uses character tokenisation  
+#
+# load document
+text = load_doc(pathfinder_textfile).lower()
 
-# load
-in_filename = './data/pathfinder_token_sequences.txt'
-doc = load_doc(in_filename)
+# tokenize character data and separate into features and target for LSTM training
+maxlen = 40
+step = 3
+X, y, char2indices, indices2char, num_unique_char = prepare_char_tokens(text, maxlen, step)
+
+# create new object that is an LSTM model using character tokenization
+# to generate text
+# this model does not use CudaDNN library
+#
+textgen_model_1 = TFModelLSTMCharToken(use_gpu=False)
+
+# define the model parameters
+textgen_model_1.define(maxlen, num_unique_char)
+print(textgen_model_1.model.summary())
+
+# load model weights trained on platform using GPU
+textgen_model_1.load_weights("./model/pathfinder_chartoken_model_50_epoch")
+
+# save model updated with previously trained model weights
+textgen_model_1.save("./model/pathfinder_chartoken_model_50_epoch_noncuda")
+
+print()
+
+
+
+# 
+# Loading text data that uses word tokenisation
+#
+
+# load fixed-length lines of tokens
+doc = load_doc(fixed_length_token_textfile)
 lines = doc.split('\n')
+#print('Total lines: %d' % len(lines))
+
+# tokenize and separate into features and target
+X, y, seq_length, vocab_size, tokenizer = prepare_text_tokens(lines)
+#print(X.shape)
 
 #
 # Word tokenization with word embedding model
 #
 
-# Load saved tokenized text
-# Derive vocab_size and seq_length
-tokenizer = pickle.load(open('./model/pathfinder_token_tokenizer.pkl', 'rb'))
-sequences = tokenizer.texts_to_sequences(lines)
-vocab_size = len(tokenizer.word_index) + 1
+# create new object that is an LSTM model using word tokenization
+# and word embedding to generate text
+# this model does not use CudaDNN library
+#
+textgen_model_2 = TFModelLSTMWordToken(use_gpu=False)
 
-# separate into input and output
-sequences = array(sequences)
-X, y = sequences[:,:-1], sequences[:,-1]
-y = to_categorical(y, num_classes=vocab_size)
-seq_length = X.shape[1]
+# define the model parameters
+textgen_model_2.define(vocab_size=vocab_size, 
+                       embedding_size=100, 
+                       seq_length=seq_length)
+print(textgen_model_2.model.summary())
 
-my_nlp_model = TFModelLSTMWordToken(use_gpu=False)
+# load model weights trained on platform using GPU
+textgen_model_2.load_weights("./model/pathfinder_wordtoken_model_200_epoch")
 
-print(my_nlp_model.model_name)
-print(my_nlp_model.have_gpu)
-print(my_nlp_model.use_cudadnn)
+# save model updated with previously trained model weights
+textgen_model_2.save("./model/pathfinder_wordtoken_model_200_epoch_noncuda")
 
-my_nlp_model.define_LSTM(vocab_size=vocab_size, 
-                         embedding_size=100, 
-                         seq_length=seq_length)
-print(my_nlp_model.model.summary())
 print()
 
 #
 # Word2vec pre-trained model
 #
 
-# Load saved weights pre-trained using Word2vec from Gemsim
-#word_model = pickle.load(open('./model/pathfinder_token_w2v300_word_model.pkl', 'rb'))
-pretrained_weights = pickle.load(open('./model/pathfinder_token_w2v300_weights.pkl', 'rb'))
-
-# Set vocab_size and embedding_size
-#pretrained_weights = word_model.wv.syn0
+# load gensim Word2Vec word model's pretrained weights
+pretrained_weights = pickle.load(open('./model/pathfinder_wordtoken_w2v_word_model_weights.pkl', 'rb'))
 vocab_size, emdedding_size = pretrained_weights.shape
 
-# Load saved tokenized text
-# Derive vocab_size and seq_length
-tokenizer = pickle.load(open('./model/pathfinder_token_tokenizer.pkl', 'rb'))
-sequences = tokenizer.texts_to_sequences(lines)
-input_size=vocab_size+1
+# create new object that is an LSTM model using word tokenization
+# and pre-trained Word2vec model form Gensim to generate text
+# this model does not use CudaDNN library
+#
+textgen_model_3 = TFModelLSTMWord2vec(use_gpu=False)
 
-# separate into input and output
-sequences = array(sequences)
-X, y = sequences[:,:-1], sequences[:,-1]
-y = to_categorical(y, num_classes=(input_size))
-seq_length = X.shape[1]
+# define the model parameters
+textgen_model_3.define(vocab_size=vocab_size, 
+                       embedding_size=emdedding_size, 
+                       pretrained_weights=pretrained_weights)
+print(textgen_model_3.model.summary())
 
-my_2nd_nlp_model = TFModelLSTMWord2vec(use_gpu=False)
+# load model weights trained on platform using GPU
+textgen_model_3.load_weights("./model/pathfinder_wordtoken_w2v_model_50_epoch")
 
-print(my_2nd_nlp_model.model_name)
-print(my_2nd_nlp_model.have_gpu)
-print(my_2nd_nlp_model.use_cudadnn)
-
-my_2nd_nlp_model.define_LSTM(vocab_size=vocab_size, 
-                             embedding_size=emdedding_size, 
-                             pretrained_weights=pretrained_weights)
-
-print(my_2nd_nlp_model.model.summary())
+# save model updated with previously trained model weights
+textgen_model_3.save("./model/pathfinder_wordtoken_w2v_model_50_epoch_noncuda")

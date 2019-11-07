@@ -1,6 +1,7 @@
-"""
-Train and save model data (tokens, weights, etc) to be used on different platforms
-"""
+#
+# Train models on cloud platforms using GPU, then save only the model weights 
+# to be reloaded later on machines without powerful GPU.
+#
 
 from keras.preprocessing.text import Tokenizer
 from keras.utils import to_categorical
@@ -37,13 +38,13 @@ pickle.dump(indices2char, open('./model/pathfinder_chartoken_indices2char.pkl', 
 # to generate text
 textgen_model_1 = TFModelLSTMCharToken(use_gpu=False)
 
-# sanity check
+# define and compile the model parameters
+textgen_model_1.define(maxlen, num_unique_char)
+
+# LSTM object sanity check
 print(textgen_model_1.model_name)
 print(textgen_model_1.have_gpu)
 print(textgen_model_1.use_cudadnn)
-
-# define and compile the model parameters
-textgen_model_1.define(maxlen, num_unique_char)
 print(textgen_model_1.model.summary())
 
 # compile model
@@ -54,7 +55,7 @@ textgen_model_1.compile(loss='categorical_crossentropy', optimizer='adam', metri
 history = textgen_model_1.fit(X, y, batch_size=128, epochs=2)
 
 # serialize model weights to HDF5 and save model training history
-textgen_model_1.save_trained_model_data(fname_prefix="./model/pathfinder_chartoken_model_50_epoch")
+textgen_model_1.save_weights_and_history(fname_prefix="./model/pathfinder_chartoken_model_50_epoch")
 
 print()
 
@@ -94,15 +95,15 @@ print(X.shape)
 # and word embedding to generate text
 textgen_model_2 = TFModelLSTMWordToken(use_gpu=False)
 	
-# sanity check
-print(textgen_model_2.model_name)
-print(textgen_model_2.have_gpu)
-print(textgen_model_2.use_cudadnn)
-
 # define and compile the model parameters
 textgen_model_2.define(vocab_size=vocab_size, 
                        embedding_size=100, 
                        seq_length=seq_length)
+
+# LSTM object sanity check
+print(textgen_model_2.model_name)
+print(textgen_model_2.have_gpu)
+print(textgen_model_2.use_cudadnn)
 print(textgen_model_2.model.summary())
 
 # compile model
@@ -113,7 +114,7 @@ textgen_model_2.compile(loss='categorical_crossentropy', optimizer='adam', metri
 history = textgen_model_2.fit(X, y, batch_size=128, epochs=2)
 
 # serialize model weights to HDF5 and save model training history
-textgen_model_2.save_trained_model_data(fname_prefix="./model/pathfinder_wordtoken_model_200_epoch")
+textgen_model_2.save_weights_and_history(fname_prefix="./model/pathfinder_wordtoken_model_200_epoch")
 
 print()
 
@@ -131,13 +132,14 @@ pickle.dump(pretrained_weights, open('./model/pathfinder_wordtoken_w2v_word_mode
 # and pre-trained Word2vec model from Gensim to generate text
 textgen_model_3 = TFModelLSTMWord2vec(use_gpu=False)
 
+textgen_model_3.define(vocab_size=vocab_size, 
+                       embedding_size=emdedding_size, 
+                       pretrained_weights=pretrained_weights)
+
+# LSTM object sanity check
 print(textgen_model_3.model_name)
 print(textgen_model_3.have_gpu)
 print(textgen_model_3.use_cudadnn)
-
-textgen_model_3.define(vocab_size=vocab_size, 
-                             embedding_size=emdedding_size, 
-                             pretrained_weights=pretrained_weights)
 print(textgen_model_3.model.summary())
 
 # compile model
@@ -149,4 +151,4 @@ textgen_model_3.compile(loss='categorical_crossentropy', optimizer='adam', metri
 history = textgen_model_3.fit(X, y, batch_size=128, epochs=2)
 
 # serialize model weights to HDF5 and save model training history
-textgen_model_3.save_trained_model_data(fname_prefix="./model/pathfinder_wordtoken_w2v_model_50_epoch")
+textgen_model_3.save_weights_and_history(fname_prefix="./model/pathfinder_wordtoken_w2v_model_50_epoch")
