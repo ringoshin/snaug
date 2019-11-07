@@ -4,21 +4,16 @@
 #
 
 import tensorflow as tf
-import gensim
 
 from keras.layers import LSTM, CuDNNLSTM
 from keras.layers.embeddings import Embedding
 from keras.layers import Dense, Activation, Dropout
 from keras.models import Sequential
 from keras.callbacks import LambdaCallback, ModelCheckpoint
-
-from keras.utils.data_utils import get_file
 from keras.models import load_model
-import pickle
 
-from gensim.test.utils import datapath, get_tmpfile
-from gensim.models import Word2Vec, KeyedVectors
-from gensim.scripts.glove2word2vec import glove2word2vec
+import pickle
+import matplotlib.pyplot as plt
 
 
 # Create a class for NLP using LSTM models
@@ -70,6 +65,22 @@ class TFModelLSTM:
         return self.history
         #metrics=['categorical_accuracy']
 
+    def plot_training(self, starting_epoch=0):
+        # acc = history.history['categorical_accuracy']
+        acc = self.history.history['acc']
+        loss = self.history.history['loss']
+        
+        nb_epochs = len(acc)
+        starting_epoch = starting_epoch if starting_epoch < nb_epochs else 0
+        epochs = range(starting_epoch, nb_epochs)
+
+        # Plot the accuracy curves
+        plt.figure(figsize=(6,6))
+        plt.plot(epochs, acc[starting_epoch:],'b', linestyle='-', label='accuracy')
+        plt.plot(epochs, loss[starting_epoch:],'r', linestyle='-', label='loss')
+        plt.title('Training Accuracy/Loss per Epoch')
+        plt.legend()
+
     # serialize model weights to HDF5 and save model training history
     def save_weights_and_history(self, fname_prefix='trained_model'):
         weights_fname = fname_prefix + '_weights.h5'
@@ -90,8 +101,8 @@ class TFModelLSTM:
     # load model
     def load(self, fname_prefix='trained_model'):
         model_fname = fname_prefix + '_model.h5'   
-        self.model = load(model_fname)
-
+        self.model = load_model(model_fname)
+    
 
 class TFModelLSTMCharToken(TFModelLSTM):
     """

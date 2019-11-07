@@ -54,6 +54,9 @@ textgen_model_1.compile(loss='categorical_crossentropy', optimizer='adam', metri
 #history = textgen_model_1.fit(X, y, batch_size=128, epochs=50)
 history = textgen_model_1.fit(X, y, batch_size=128, epochs=2)
 
+# plot accuracy vs error for training
+textgen_model_1.plot_training()
+
 # serialize model weights to HDF5 and save model training history
 textgen_model_1.save_weights_and_history(fname_prefix="./model/pathfinder_chartoken_model_50_epoch")
 
@@ -113,6 +116,9 @@ textgen_model_2.compile(loss='categorical_crossentropy', optimizer='adam', metri
 #history = textgen_model_2.fit(X, y, batch_size=128, epochs=200)
 history = textgen_model_2.fit(X, y, batch_size=128, epochs=2)
 
+# plot accuracy vs error for training
+textgen_model_2.plot_training()
+
 # serialize model weights to HDF5 and save model training history
 textgen_model_2.save_weights_and_history(fname_prefix="./model/pathfinder_wordtoken_model_200_epoch")
 
@@ -149,6 +155,9 @@ textgen_model_3.compile(loss='categorical_crossentropy', optimizer='adam', metri
 #history = model.fit(X, y, batch_size=128, epochs=100)
 #history = textgen_model_3.fit(X, y, batch_size=128, epochs=50)
 history = textgen_model_3.fit(X, y, batch_size=128, epochs=2)
+
+# plot accuracy vs error for training
+textgen_model_3.plot_training()
 
 # serialize model weights to HDF5 and save model training history
 textgen_model_3.save_weights_and_history(fname_prefix="./model/pathfinder_wordtoken_w2v_model_50_epoch")
