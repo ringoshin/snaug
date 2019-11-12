@@ -5,6 +5,7 @@
 import tensorflow as tf
 from keras.preprocessing.text import Tokenizer
 from keras.utils import to_categorical
+from keras.preprocessing.sequence import pad_sequences
 
 from gensim.models import Word2Vec
 from gensim.test.utils import datapath, get_tmpfile
@@ -116,6 +117,7 @@ def prepare_text_tokens(lines):
 	
 	return X, y, seq_length, vocab_size, tokenizer
 
+# load Gensim Word2vec model, train it and keep the pretrained weights
 def load_word2vec(lines):
     # split tokens up per line for Gensim Word2vec consumption
     sentences = [line.split() for line in lines]
@@ -129,6 +131,77 @@ def load_word2vec(lines):
 
     return vocab_size, emdedding_size, pretrained_weights
 
+# helper function to predict using random sampling, 
+# to return an index from a probability array
+def sample_predict(preds, temperature=1.0):
+    if temperature <= 0:
+        return np.argmax(preds)
+    preds = np.asarray(preds).astype('float64')
+    preds = np.log(preds) / temperature
+#    print(preds)
+    exp_preds = np.exp(preds)
+#    print(exp_preds)
+    preds = exp_preds / np.sum(exp_preds)
+#    print(preds)
+    probas = np.random.multinomial(1, preds, 1)
+    return np.argmax(probas)
+
+# generate a sequence of characters with a language model
+def generate_seq_of_chars(model, num_unique_char, char2indices, indices2char, 
+                          seed_text, maxlen=40, n_chars=400, temperature=1.0):
+    generated = ''
+    #generated += seed_text
+    in_text = seed_text
+#    sys.stdout.write(generated)
+
+    for _ in range(n_chars):
+        x = np.zeros((1, maxlen, num_unique_char))
+        for t, char in enumerate(in_text):
+            x[0, t, char2indices[char]] = 1.
+
+        preds = model.predict(x, verbose=0)[0]
+        next_index = sample_predict(preds, temperature)
+        pred_char = indices2char[next_index]
+
+        generated += pred_char
+        in_text = in_text[1:] + pred_char
+
+ #       sys.stdout.write(pred_char)
+  #      sys.stdout.flush()
+    return generated
+
+# generate a sequence of words from a language model
+def generate_seq_of_words(model, tokenizer, seq_length, seed_text, n_words, temperature=0):
+    result = list()
+    in_text = seed_text
+    # generate a fixed number of words
+    for _ in range(n_words):
+        # encode the text as integer
+        #   [0] coz shape is (num_lines, num_tokens_per_line)
+        #   and there is only one line right now
+        #   also num_tokens is not a const, hence trunc will be required
+        encoded = tokenizer.texts_to_sequences([in_text])[0]
+        # truncate sequences to a fixed lenght
+        encoded = pad_sequences([encoded], maxlen=seq_length, truncating='pre')
+        # predict probabilities for each word
+        yhat = sample_predict(model.predict(encoded,verbose=0)[-1], temperature)
+        # map predicted word index to word
+        out_word = ''
+        for word, index in tokenizer.word_index.items():
+            if index == yhat:
+                out_word = word
+                break
+        # append to input
+        in_text += ' ' + out_word
+        result.append(out_word)
+    return ' '.join(result)
+
 
 if __name__ == '__main__':
+	#preds=[0.05, 0.1, 0.35, 0.5]
+	#np.random.multinomial(1, preds, 1)
+	#print([sample_predict(preds,0.05) for _ in range(10)])
+	#print([sample_predict(preds,1) for _ in range(10)])
+	#print([sample_predict(preds,50) for _ in range(10)])
+	#sample_predict(preds,1.2)
     pass
