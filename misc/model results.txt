@@ -1,0 +1,51 @@
+1. character tokenisation model
+-----------------------------------------------------------------------------
+maxlen = 40
+step = 3
+
+Embedding layer = 0
+LSTM layer (512) = 2
+Dense layer = 0
+Total params: 3,299,897
+
+epoch = 50
+time to train = 14m 16s (956s)
+
+loss = 4.24%
+accuracy = 98.89%
+
+
+2. word tokenisation and word embedding model
+-----------------------------------------------------------------------------
+sentence length = 50
+embedding size = 100
+
+Embedding layer = 1
+LSTM layer (128) = 2
+Dense layer (128) = 1
+Total params: 936,422
+
+epoch = 200
+time to train = 3m 20s (200s)
+
+loss = 57.52%
+accuracy = 83.04%
+
+
+
+3. word tokenisation and Word2vec pre-trained model
+-----------------------------------------------------------------------------
+sentence length = 50
+embedding size = 300
+
+Embedding layer = 1
+LSTM layer (300) = 2
+Dense layer (300) = 1
+Total params: 3,293,326
+
+epoch = 50
+time to train = 6m (360s)
+
+loss = 14.54%
+accuracy = 95.96%
+
