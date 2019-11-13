@@ -10,7 +10,6 @@ Total params: 3,299,897
 
 epoch = 50
 time to train = 14m 16s (956s)
-
 loss = 4.24%
 accuracy = 98.89%
 
@@ -18,19 +17,22 @@ accuracy = 98.89%
 2. word tokenisation and word embedding model
 -----------------------------------------------------------------------------
 sentence length = 50
-embedding size = 100
+embedding size = 300
 
 Embedding layer = 1
-LSTM layer (128) = 2
-Dense layer (128) = 1
-Total params: 936,422
+LSTM layer (300) = 2
+Dense layer (300) = 1
+Total params: 3,293,626
+
+epoch = 100
+time to train = 3m 20s (200s)
+loss = 20.48%
+accuracy = 93.65%
 
 epoch = 200
-time to train = 3m 20s (200s)
-
-loss = 57.52%
-accuracy = 83.04%
-
+time to train = 6m 40s (400s)
+loss = 6.44%
+accuracy = 98.02%
 
 
 3. word tokenisation and Word2vec pre-trained model
@@ -44,8 +46,12 @@ Dense layer (300) = 1
 Total params: 3,293,326
 
 epoch = 50
-time to train = 6m (360s)
+time to train = 1m 40s (100s)
+loss = 15.01%
+accuracy = 95.57%
 
-loss = 14.54%
-accuracy = 95.96%
+epoch = 100
+time to train = 3m 20s (200s)
+loss = 8.59%
+accuracy = 97.43%
 

@@ -100,7 +100,7 @@ textgen_model_2 = TFModelLSTMWordToken(use_gpu=False)
 	
 # define and compile the model parameters
 textgen_model_2.define(vocab_size=vocab_size, 
-                       embedding_size=100, 
+                       embedding_size=300, 
                        seq_length=seq_length)
 
 # LSTM object sanity check

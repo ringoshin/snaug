@@ -56,7 +56,7 @@ print(textwrap.fill('%s' % (char_seed_text), 80) + '\n')
 # generate new text
 #temperature_table = [0.2, 0.7,1.2] 
 #temperature_table = [0.07, 0.1, 0.5, 0.7] 
-temperature_table = [0.1, 1.0] 
+temperature_table = [0, 1.0] 
 
 #seed_text = "mine".rjust(maxlen)
 
@@ -99,7 +99,7 @@ print('> seed text:')
 print(textwrap.fill('%s' % (word_seed_text), 80) + '\n')
 
 # generate new text
-temperature_table = [0.1, 1.0]
+temperature_table = [0, 1.2]
 
 for temperature in temperature_table:
     generated = generate_seq_of_words(textgen_model_2, tokenizer, seq_length, 
@@ -124,7 +124,7 @@ print('> seed text:')
 print(textwrap.fill('%s' % (word_seed_text), 80) + '\n')
 
 # generate new text
-temperature_table = [0.1, 1.0]
+temperature_table = [0.1, 3]
 
 for temperature in temperature_table:
     generated = generate_seq_of_words(textgen_model_3, tokenizer, seq_length, 

@@ -151,13 +151,13 @@ class TFModelLSTMWordToken(TFModelLSTM):
                                  output_dim=embedding_size, 
                                  input_length=seq_length))
 
-        self.model.add(self.select_LSTM(128, return_sequences=True))
+        self.model.add(self.select_LSTM(300, return_sequences=True))
         self.model.add(Dropout(0.2))
 
-        self.model.add(self.select_LSTM(128))
+        self.model.add(self.select_LSTM(300))
         self.model.add(Dropout(0.2))
 
-        self.model.add(Dense(128, activation='relu'))
+        self.model.add(Dense(300, activation='relu'))
 
         self.model.add(Dense((vocab_size+1), activation='softmax'))
 
