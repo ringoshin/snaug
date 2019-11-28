@@ -194,4 +194,17 @@ class TFModelLSTMWord2vec(TFModelLSTM):
 
 
 if __name__ == '__main__':
+    from lib.data_common import (load_doc, save_doc, clean_doc, prepare_char_tokens)
+    pathfinder_textfile = './data/textgen_pathfinder.txt'
+    text = load_doc(pathfinder_textfile).lower()
+    maxlen = 40
+    step = 3
+    X, y, char2indices, indices2char, num_unique_char = prepare_char_tokens(text, maxlen, step)
+    textgen_model_1 = TFModelLSTMCharToken(use_gpu=False)
+    textgen_model_1.define(maxlen, num_unique_char)
+    print(textgen_model_1.model.summary())
+    textgen_model_1.compile(loss='categorical_crossentropy', optimizer='adam', metrics=['accuracy'])
+    history = textgen_model_1.fit(X, y, batch_size=128, epochs=2)
+    textgen_model_1.plot_training()
+
     pass
