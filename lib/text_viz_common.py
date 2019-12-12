@@ -9,7 +9,7 @@ from spacy.tokens import Span
 from spacy.matcher import Matcher, PhraseMatcher
 
 
-def Get_Recognized_Entities():
+def get_Pathfinder_entities():
     """
     Quick and dirty list of recognized entity actual names and labels used
     in imported story text files
@@ -72,7 +72,7 @@ def Get_Recognized_Entities():
     return entity_names, entity_labels
 
 
-def Get_Matcher(nlp, entity_labels):
+def get_matcher(nlp, entity_labels):
     """
     Generate new Spacy matchers for customised entities
     """
@@ -110,7 +110,7 @@ def Get_Matcher(nlp, entity_labels):
     return matcher
 
 
-def Init_Text_Viz_Params():
+def init_text_viz_params():
     """
     Initialize parameters before utilizing spaCy library to visualize
     generated text data
@@ -130,14 +130,13 @@ def Init_Text_Viz_Params():
     # visualize named entities
     #displacy.render(sentence_nlp, style='ent')
 
-    entity_names, entity_labels = Get_Recognized_Entities()
-    matcher = Get_Matcher(nlp, entity_labels)
+    entity_names, entity_labels = get_Pathfinder_entities()
+    matcher = get_matcher(nlp, entity_labels)
 
     return nlp, matcher, entity_names, entity_labels
 
 
-
-def Entity_Type(word, entity_names):
+def identify_entity_type(word, entity_names):
     """
     Identity whether the word is an entity and return the entity type
     """
@@ -154,8 +153,7 @@ def Entity_Type(word, entity_names):
     return 'UNK', word_lower
 
 
-
-def Find_Entity(text, entity_names):
+def find_entity(text, entity_names):
     """
     Create list of entities found in provided text
     """
@@ -163,7 +161,7 @@ def Find_Entity(text, entity_names):
     found_entity = defaultdict(list)
 
     for each_word in text.split():
-        entity_type, entity_name = Entity_Type(each_word, entity_names)
+        entity_type, entity_name = identify_entity_type(each_word, entity_names)
         if entity_type!='UNK' and entity_name not in found_entity[entity_type]:
             found_entity[entity_type].append(entity_name)
 
@@ -171,8 +169,7 @@ def Find_Entity(text, entity_names):
     return found_entity, new_text.strip()
 
 
-
-def Modify_For_Full_Names(found_entity, entity_labels):
+def modify_for_full_names(found_entity, entity_labels):
     """
     Modify entity labels for entity with names that has more than one word
     """
@@ -198,12 +195,10 @@ def Modify_For_Full_Names(found_entity, entity_labels):
             found_entity[entity] = new_name_list
             if first_name not in prev_fullname:
                 found_entity[entity].append(first_name)
-    
     return found_entity
 
 
-
-def List_Notables(found_entity):
+def list_notables(found_entity):
     """
     Display in a list identified named entities grouped by entity type
     """
@@ -217,12 +212,12 @@ def List_Notables(found_entity):
         print(">>> None found.")
 
 
-def Viz_Generated_Text(generated, nlp, matcher, entity_names, entity_labels):
+def visualize_gen_text(generated, nlp, matcher, entity_names, entity_labels):
     """
-    Visualize customized named entities using spaCy library
+    Visualize customized named entities in generated text using spaCy library
     """
-    found_entity, revised_text = Find_Entity(generated, entity_names)
-    found_entity = Modify_For_Full_Names(found_entity, entity_labels)
+    found_entity, revised_text = find_entity(generated, entity_names)
+    found_entity = modify_for_full_names(found_entity, entity_labels)
 
     doc = nlp(revised_text)
     matches = matcher(doc)
@@ -235,8 +230,8 @@ def Viz_Generated_Text(generated, nlp, matcher, entity_names, entity_labels):
         doc.ents = spans
 
     print()
-    print()
-    print('You: {}'.format('Tell me about a tome penned by an apprentice.'))
+    #print()
+    #print('You: {}'.format('Tell me about a tome penned by an apprentice.'))
     print('-'*95)
     options = {"ents": ['GOD','MOB','PER','LOC','RACE','ORG','SP'],
             "colors": {'GOD':'#f2865e','MOB':'#58f549','PER':'#aef5ef',
@@ -245,7 +240,7 @@ def Viz_Generated_Text(generated, nlp, matcher, entity_names, entity_labels):
     # displacy.render(doc, style='ent', jupyter=True, options=options)
     displacy.render(doc, style='ent', options=options)
     print()
-    List_Notables(found_entity)
+    list_notables(found_entity)
     print('-'*95)
     print()
     print()

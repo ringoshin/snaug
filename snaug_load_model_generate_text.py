@@ -15,9 +15,8 @@ from lib.nlplstm_class import (TFModelLSTMCharToken, TFModelLSTMWordToken,
 from lib.data_common import (load_doc, save_doc, clean_doc, prepare_char_tokens,
                              build_token_lines, prepare_text_tokens, load_word2vec,
                              sample_predict, generate_seq_of_chars, generate_seq_of_words)
+from lib.data_common import pathfinder_textfile, fixed_length_token_textfile
 
-pathfinder_textfile = './data/textgen_pathfinder.txt'
-fixed_length_token_textfile = './data/pathfinder_fixed-length_tokens.txt'
 
 # parameters for character tokenisation model
 maxlen = 40

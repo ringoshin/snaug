@@ -14,9 +14,7 @@ from lib.nlplstm_class import (TFModelLSTMCharToken, TFModelLSTMWordToken,
                                TFModelLSTMWord2vec) 
 from lib.data_common import (load_doc, save_doc, clean_doc, prepare_char_tokens)
 from lib.data_common import (build_token_lines, prepare_text_tokens, load_word2vec)
-
-pathfinder_textfile = './data/textgen_pathfinder.txt'
-fixed_length_token_textfile = './data/pathfinder_fixed-length_tokens.txt'
+from lib.data_common import pathfinder_textfile, fixed_length_token_textfile
 
 # 
 # Loading, saving and pre-processing of the text data source for 

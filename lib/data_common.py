@@ -18,6 +18,9 @@ import pickle
 import string
 import textwrap
 
+pathfinder_textfile = './data/textgen_pathfinder.txt'
+fixed_length_token_textfile = './data/pathfinder_fixed-length_tokens.txt'
+
 
 # load doc into memory
 def load_doc(filename):
