@@ -2,11 +2,15 @@
 # Visualize generated text using spaCy library
 #
 
+import textwrap
 from collections import defaultdict, Counter
-#import spacy
+from random import randint
+
 from spacy import displacy
 from spacy.tokens import Span
 from spacy.matcher import Matcher, PhraseMatcher
+
+from lib.data_common import generate_seq_of_words
 
 
 def get_Pathfinder_entities():
@@ -244,6 +248,35 @@ def visualize_gen_text(generated, nlp, matcher, entity_names, entity_labels):
     print('-'*95)
     print()
     print()
+
+
+def generate_and_visualize(lines, textgen_model, tokenizer, seq_length,
+                            nlp, matcher, entity_names, entity_labels,
+                            seed_text='random'):
+    """
+    generate new text using seed text based on:
+        1. user input seeding text, or
+        2. randomly selected from source text, when user chooses 'random' instead
+    """
+    n_words = 75
+    temperature = 1.1
+
+    # select a seed text
+    seed_text = lines[randint(0,len(lines))] if seed_text=='random' else seed_text
+
+    # print('> using word tokenisation and pre-trained model')
+    # print('> seed text:')
+    # print(textwrap.fill('%s' % (seed_text), 80) + '\n')
+
+    # generate new text using selected seed text with a temperature of 1.1
+    # for higher degree of randomness
+    generated = generate_seq_of_words(textgen_model, tokenizer, seq_length, 
+                        seed_text, n_words, temperature)
+    full_generated_text = ' '.join([seed_text, generated])
+
+    # output visualized text via spaCy library functions, that highlight named entities
+    # pertaining to input files of Pathfinder tales
+    visualize_gen_text(full_generated_text, nlp, matcher, entity_names, entity_labels)
 
 
 
