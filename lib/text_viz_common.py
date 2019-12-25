@@ -235,7 +235,11 @@ def visualize_gen_text(generated, nlp, matcher, entity_names, entity_labels, usi
             "colors": {'GOD':'#f2865e','MOB':'#58f549','PER':'#aef5ef',
                         'LOC':'pink','RACE':'#edcb45','ORG':'#d88fff', 'SP':'pink'}}
     print('Snaug_bot:') 
-    displacy.render(doc, style='ent', jupyter=using_notebook, options=options)
+    
+    if using_notebook:
+        displacy.render(doc, style='ent', jupyter=True, options=options)
+    else:
+        displacy.render(doc, style='ent', options=options)
 
     print()
     list_notables(found_entity)

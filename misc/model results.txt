@@ -1,3 +1,5 @@
+Trained on google colab with gpu:
+
 1. character tokenisation model
 -----------------------------------------------------------------------------
 maxlen = 40
@@ -9,9 +11,9 @@ Dense layer = 0
 Total params: 3,299,897
 
 epoch = 50
-time to train = 14m 16s (956s)
-loss = 4.24%
-accuracy = 98.89%
+time to train = 4m
+loss = 5.93%
+accuracy = 98.26%
 
 
 2. word tokenisation and word embedding model
@@ -25,14 +27,14 @@ Dense layer (300) = 1
 Total params: 3,293,626
 
 epoch = 100
-time to train = 3m 20s (200s)
-loss = 20.48%
-accuracy = 93.65%
+time to train = 3m 30s
+loss = 13.99%
+accuracy = 95.97%
 
 epoch = 200
-time to train = 6m 40s (400s)
-loss = 6.44%
-accuracy = 98.02%
+time to train = 7m
+loss = 5.76%
+accuracy = 98.21%
 
 
 3. word tokenisation and Word2vec pre-trained model
@@ -46,12 +48,11 @@ Dense layer (300) = 1
 Total params: 3,293,326
 
 epoch = 50
-time to train = 1m 40s (100s)
-loss = 15.01%
-accuracy = 95.57%
+time to train = 1m 50s
+loss = 6.17%
+accuracy = 97.99%
 
 epoch = 100
-time to train = 3m 20s (200s)
-loss = 8.59%
-accuracy = 97.43%
-
+time to train = 3m 40s
+loss = 6.17%
+accuracy = 98.16%
