@@ -71,7 +71,7 @@ textgen_model_2 = TFModelLSTMWordToken(use_gpu=False)
 
 # define the model parameters
 textgen_model_2.define(vocab_size=vocab_size, 
-                       embedding_size=100, 
+                       embedding_size=300, 
                        seq_length=seq_length)
 print(textgen_model_2.model.summary())
 
