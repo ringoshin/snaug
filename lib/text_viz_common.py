@@ -1,5 +1,5 @@
 #
-# Visualize generated text using spaCy library
+# Functions that visualize generated text using spaCy library
 #
 
 from collections import defaultdict, Counter

@@ -1,5 +1,6 @@
 #
-# Data loading, saving and pre-processing functions
+# Data loading, data saving, data pre-processing and 
+# text generation related functions.
 #
 
 import tensorflow as tf
@@ -101,7 +102,7 @@ def build_token_lines(tokens, length=50):
 		lines.append(line)
 	return lines
 
-# prepare text tokens into format ready for LSTM training
+# transform text tokens into format ready for LSTM training
 def prepare_text_tokens(lines):
 	# integer encode sequences of words
 	tokenizer = Tokenizer()

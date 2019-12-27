@@ -19,7 +19,7 @@ import matplotlib.pyplot as plt
 # Create a class for NLP using LSTM models
 class TFModelLSTM:
     """
-    A simple abstract class to escapsulate usage of GPU when available.
+    A simple parent class to escapsulate usage of GPU when available.
     This will be part of classes for NLP using Tensorflow/Keras LSTM models.
     """
     # Class variable tracking GPU availablity
