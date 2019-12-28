@@ -64,10 +64,10 @@ def get_Pathfinder_entities():
                 'Acadamae', 'Korvosa', 'Thassilon',  'Magnimar', 'Irespan', 
                 'Dockway', 'Sandpoint', 'Brinestump Marsh', 'Soggy River', 'Windsong Abbey', 
                 'Rusty Dragon', 'Necropolis']
-    sp_lables = ['Burning Hands']
+    sp_labels = ['Burning Hands']
 
     entity_labels = {'GOD': god_labels, 'RACE': race_labels, 'ORG': org_labels, 'MOB': mob_labels,
-                    'PER': per_labels, 'LOC': loc_labels, 'SP': sp_lables}
+                    'PER': per_labels, 'LOC': loc_labels, 'SP': sp_labels}
 
     return entity_names, entity_labels
 
