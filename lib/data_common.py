@@ -202,10 +202,10 @@ def generate_seq_of_words(model, tokenizer, seq_length, seed_text, n_words, temp
 
 
 if __name__ == '__main__':
-	#preds=[0.05, 0.1, 0.35, 0.5]
+	preds=[0.05, 0.1, 0.35, 0.5]
 	#np.random.multinomial(1, preds, 1)
-	#print([sample_predict(preds,0.05) for _ in range(10)])
-	#print([sample_predict(preds,1) for _ in range(10)])
-	#print([sample_predict(preds,50) for _ in range(10)])
+	# print([preds[sample_predict(preds,0.05)] for _ in range(10)])
+	# print([preds[sample_predict(preds,1)] for _ in range(10)])
+	# print([preds[sample_predict(preds,5)] for _ in range(10)])
 	#sample_predict(preds,1.2)
-    pass
+    #pass
