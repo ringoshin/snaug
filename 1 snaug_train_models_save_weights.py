@@ -34,7 +34,7 @@ pickle.dump(indices2char, open('./model/pathfinder_chartoken_indices2char.pkl', 
 
 # create new object that is an LSTM model using character tokenization
 # to generate text
-textgen_model_1 = TFModelLSTMCharToken(use_gpu=False)
+textgen_model_1 = TFModelLSTMCharToken(use_gpu=True)
 
 # define and compile the model parameters
 textgen_model_1.define(maxlen, num_unique_char)
@@ -49,8 +49,8 @@ print(textgen_model_1.model.summary())
 textgen_model_1.compile(loss='categorical_crossentropy', optimizer='adam', metrics=['accuracy'])
 
 # fit model
-#history = textgen_model_1.fit(X, y, batch_size=128, epochs=50)
-history = textgen_model_1.fit(X, y, batch_size=128, epochs=2)
+history = textgen_model_1.fit(X, y, batch_size=128, epochs=50)
+#history = textgen_model_1.fit(X, y, batch_size=128, epochs=2)
 
 # plot accuracy vs error for training
 textgen_model_1.plot_training()
@@ -94,7 +94,7 @@ print(X.shape)
 
 # create new object that is an LSTM model using word tokenization
 # and word embedding to generate text
-textgen_model_2 = TFModelLSTMWordToken(use_gpu=False)
+textgen_model_2 = TFModelLSTMWordToken(use_gpu=True)
 	
 # define and compile the model parameters
 textgen_model_2.define(vocab_size=vocab_size, 
@@ -111,8 +111,8 @@ print(textgen_model_2.model.summary())
 textgen_model_2.compile(loss='categorical_crossentropy', optimizer='adam', metrics=['accuracy'])
 
 # fit model
-#history = textgen_model_2.fit(X, y, batch_size=128, epochs=200)
-history = textgen_model_2.fit(X, y, batch_size=128, epochs=2)
+history = textgen_model_2.fit(X, y, batch_size=128, epochs=200)
+#history = textgen_model_2.fit(X, y, batch_size=128, epochs=2)
 
 # plot accuracy vs error for training
 textgen_model_2.plot_training()
@@ -126,6 +126,10 @@ print()
 # Word2vec pre-trained model
 #
 
+# load gensim Word2Vec word model's pretrained weights previously saved
+#pretrained_weights = pickle.load(open('./model/pathfinder_wordtoken_w2v_word_model_weights.pkl', 'rb'))
+#vocab_size, emdedding_size = pretrained_weights.shape
+
 # get pretrained weights for LSTM model's word embedding using Gensim Word2vec
 vocab_size, emdedding_size, pretrained_weights = load_word2vec(lines)
 
@@ -134,7 +138,7 @@ pickle.dump(pretrained_weights, open('./model/pathfinder_wordtoken_w2v_word_mode
 
 # create new object that is an LSTM model using word tokenization
 # and pre-trained Word2vec model from Gensim to generate text
-textgen_model_3 = TFModelLSTMWord2vec(use_gpu=False)
+textgen_model_3 = TFModelLSTMWord2vec(use_gpu=True)
 
 textgen_model_3.define(vocab_size=vocab_size, 
                        embedding_size=emdedding_size, 
@@ -150,9 +154,9 @@ print(textgen_model_3.model.summary())
 textgen_model_3.compile(loss='categorical_crossentropy', optimizer='adam', metrics=['accuracy'])
 
 # fit model
-#history = model.fit(X, y, batch_size=128, epochs=100)
-#history = textgen_model_3.fit(X, y, batch_size=128, epochs=50)
-history = textgen_model_3.fit(X, y, batch_size=128, epochs=2)
+#history = textgen_model_3.fit(X, y, batch_size=128, epochs=100)
+history = textgen_model_3.fit(X, y, batch_size=128, epochs=50)
+#history = textgen_model_3.fit(X, y, batch_size=128, epochs=2)
 
 # plot accuracy vs error for training
 textgen_model_3.plot_training()

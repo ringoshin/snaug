@@ -4,4 +4,4 @@
 model/
 sandbox/
 results/
-venv/
+.venv/

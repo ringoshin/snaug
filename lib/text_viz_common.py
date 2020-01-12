@@ -8,6 +8,9 @@ from spacy import displacy
 from spacy.tokens import Span
 from spacy.matcher import Matcher, PhraseMatcher
 
+# Run below commands under command line to install spacy english library
+# pip install -U spacy
+# python -m spacy download en_core_web_lg
 
 def get_Pathfinder_entities():
     """
@@ -118,7 +121,6 @@ def init_text_viz_params():
     #import en_core_web_sm
     #nlp = en_core_web_sm.load()
 
-    #!python -m spacy download en_core_web_lg
     import en_core_web_lg
     nlp = en_core_web_lg.load()
 

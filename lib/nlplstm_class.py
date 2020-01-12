@@ -16,6 +16,12 @@ import pickle
 import matplotlib.pyplot as plt
 
 
+# Prevent tensorflow from allocating the totality of a GPU memory
+config = tf.ConfigProto()
+config.gpu_options.allow_growth=True
+sess = tf.Session(config=config)
+
+
 # Create a class for NLP using LSTM models
 class TFModelLSTM:
     """
@@ -67,7 +73,8 @@ class TFModelLSTM:
 
     def plot_training(self, starting_epoch=0):
         # acc = history.history['categorical_accuracy']
-        acc = self.history.history['acc']
+        # acc = self.history.history['acc']
+        acc = self.history.history['accuracy']
         loss = self.history.history['loss']
         
         nb_epochs = len(acc)
